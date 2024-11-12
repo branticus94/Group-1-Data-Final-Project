@@ -1,5 +1,16 @@
 # CFG-Group-1-Data-Final-Project
 
+## Team Members:
+- Zenzi Mansaray
+- Natalie Ellis
+- Alexandra Howland
+- Elizabeth (Lisa) Franchetti
+- Heledd Davies
+- Hafsa Hussain
+- Hayley Lawrence
+
+## Questions:
+
 - [Question 1 - What is your project question(s)](#question-1---what-is-your-project-questions-and-the-problem-it-tackles)
 - [Question 2 - Explain your target audience](#question-2---explain-your-target-audience)
 - [Question 3 - What data sources will you need to answer your project question(s)](#question-3---what-data-sources-will-you-need-to-answer-your-project-questions-describe-any-potential-issues-you-can-have-with-the-datasets-and-how-will-you-overcome-this)
@@ -9,13 +20,28 @@
 ## Question 1 - What is your project question(s) and the problem it tackles?
 - You will be marked on how realistic the problem is given the project timeline, as well as the fit with the subjects covered throughout the Data Specialisation and your personal, common interests in the topic.
 
+
 ## Question 2 - Explain your target audience
 - Who could be interested in reading your final report and for whom will your project be useful?
+  - Government 
+  - Police
+  - Public 
+
 - Assess the level of expertise in relation to data science of your audience (for example, how technical should your report/presentation be?).
+  - Technical aspects for goverment/civil servants
+  - Less technical conculsions for  
+
 - You will be marked on correctly identifying your audience and the technical level of your presentation and report.
+
 
 ## Question 3 - What data sources will you need to answer your project question(s)? Describe any potential issues you can have with the datasets and how will you overcome this:
 - For example, will the data you find only cover particular geographical areas? Will you need to combine multiple datasets to overcome this?
+
+|Data Source| Type| Geographical Area | Link |
+|---|---|---|---|
+|US Crime Dataset| CSV | USA |[https://www.kaggle.com/datasets/arpitsinghaiml/u-s-crime-dataset/data](https://www.kaggle.com/datasets/arpitsinghaiml/u-s-crime-dataset/data)|
+|data.police.uk | API | UK |[https://data.police.uk/](https://data.police.uk/)|
+
 
 ## Question 4 - Describe the team approach to the project work:
 - How are you planning to distribute the workload and how are you planning to work on your project;
