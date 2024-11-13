@@ -3,7 +3,7 @@
 ## Team Members:
 - Zenzi Mansaray
 - Natalie Ellis
-- Alexandra Howland
+- [Alexandra Howland]
 - Elizabeth (Lisa) Franchetti
 - Heledd Davies
 - Hafsa Hussain
@@ -41,6 +41,7 @@
 |---|---|---|---|
 |US Crime Dataset| CSV | USA |[https://www.kaggle.com/datasets/arpitsinghaiml/u-s-crime-dataset/data](https://www.kaggle.com/datasets/arpitsinghaiml/u-s-crime-dataset/data)|
 |data.police.uk | API | UK |[https://data.police.uk/](https://data.police.uk/)|
+|Crime in India Dataset |CSV|India|[https://www.kaggle.com/datasets/rajanand/crime-in-india](https://www.kaggle.com/datasets/rajanand/crime-in-india)|
 
 
 ## Question 4 - Describe the team approach to the project work:
