@@ -23,14 +23,7 @@
 
 ## Question 2 - Explain your target audience
 - Who could be interested in reading your final report and for whom will your project be useful?
-  - Government 
-  - Police
-  - Public 
-
 - Assess the level of expertise in relation to data science of your audience (for example, how technical should your report/presentation be?).
-  - Technical aspects for goverment/civil servants
-  - Less technical conculsions for  
-
 - You will be marked on correctly identifying your audience and the technical level of your presentation and report.
 
 
