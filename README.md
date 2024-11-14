@@ -3,7 +3,7 @@
 ## Team Members:
 - Zenzi Mansaray
 - Natalie Ellis
-- [Alexandra Howland]
+- Alexandra Howland
 - Elizabeth (Lisa) Franchetti
 - Heledd Davies
 - Hafsa Hussain
