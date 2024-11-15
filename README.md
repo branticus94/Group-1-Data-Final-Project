@@ -25,20 +25,21 @@ How did misinformation spread during the pandemic, and what effect did it have o
 
 Topics to Explore:
 
-Vaccination Rates:
+### Vaccination Rates:
 - Explore how fear-mongering and misinformation influenced vaccination rates —> What effect did misleading information have on people’s willingness to get vaccinated?
   
-Misinformation’s Influence on Workplace Attitudes:
+### Misinformation’s Influence on Workplace Attitudes:
 
 - Examine how misinformation, both during and post-COVID, shaped attitudes in the workplace —> what are the potential impacts on employees' mental health and work performance.
   
-Impact on Student Performance:
+### Impact on Student Performance:
 
 - Investigate how misinformation about COVID-19 or the pandemic itself affected student performance at school or university.--> What challenges or barriers did misinformation create for students?
 
   
-Problem it tackles:
-Our project aims to address the pervasive impact of misinformation during the COVID-19 pandemic, specifically how it affected public health behaviours, mental health, and societal compliance with health initiatives. Our aim is to provide insights that will inform the government or public health bodies in designing effective mental health initiatives, counter-misinformation campaigns, and preventive measures to protect public well-being in future health crises.
+### Problem it tackles:
+
+- Our project aims to address the pervasive impact of misinformation during the COVID-19 pandemic, specifically how it affected public health behaviours, mental health, and societal compliance with health initiatives. Our aim is to provide insights that will inform the government or public health bodies in designing effective mental health initiatives, counter-misinformation campaigns, and preventive measures to protect public well-being in future health crises.
 
 
 In addition to informing policy / research, our project seeks to engage the public’s curiosity and raise awareness about the various forms and risks of misinformation, fostering a more informed and resilient society better equipped to discern reliable information in times of crisis.
