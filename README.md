@@ -24,14 +24,23 @@ How did misinformation spread during the pandemic, and what effect did it have o
 
 
 Topics to Explore:
+
 Vaccination Rates:
-Explore how fear-mongering and misinformation influenced vaccination rates —> What effect did misleading information have on people’s willingness to get vaccinated?
+- Explore how fear-mongering and misinformation influenced vaccination rates —> What effect did misleading information have on people’s willingness to get vaccinated?
+  
 Misinformation’s Influence on Workplace Attitudes:
-Examine how misinformation, both during and post-COVID, shaped attitudes in the workplace —> what are the potential impacts on employees' mental health and work performance.
+
+- Examine how misinformation, both during and post-COVID, shaped attitudes in the workplace —> what are the potential impacts on employees' mental health and work performance.
+  
 Impact on Student Performance:
-Investigate how misinformation about COVID-19 or the pandemic itself affected student performance at school or university.--> What challenges or barriers did misinformation create for students?
+
+- Investigate how misinformation about COVID-19 or the pandemic itself affected student performance at school or university.--> What challenges or barriers did misinformation create for students?
+
+  
 Problem it tackles:
 Our project aims to address the pervasive impact of misinformation during the COVID-19 pandemic, specifically how it affected public health behaviours, mental health, and societal compliance with health initiatives. Our aim is to provide insights that will inform the government or public health bodies in designing effective mental health initiatives, counter-misinformation campaigns, and preventive measures to protect public well-being in future health crises.
+
+
 In addition to informing policy / research, our project seeks to engage the public’s curiosity and raise awareness about the various forms and risks of misinformation, fostering a more informed and resilient society better equipped to discern reliable information in times of crisis.
 
 
@@ -50,7 +59,8 @@ Our main target audience:
 
 ## Question 3 - What data sources will you need to answer your project question(s)? Describe any potential issues you can have with the datasets and how will you overcome this:
 - For example, will the data you find only cover particular geographical areas? Will you need to combine multiple datasets to overcome this?
-MISINFORMATION DATASETS
+  
+### Misinformation datasets
 
 Dataset on different types of misinformation across various sources (mainly from the US):
 https://drive.google.com/file/d/1i-86e4Yz9xB8q2gWN_xBb9FxB4xRfm-V/view 
@@ -72,7 +82,7 @@ Covid-19 News and Information: Consumption and attitudes - previous results:
 https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news/previous-results/
 
 
-MENTAL HEALTH DATASETS
+### Mental Health Datasets
 
 NHS Mental Health in Young people: 
 https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-of-children-and-young-people-in-england/2023-wave-4-follow-up
