@@ -1,204 +1,204 @@
 start_date,end_date,question,response,total,male,female,16-24,class_upper_and_middle,class_lower_middle,class_skilled_working,class_working_class_lowest_grade,scotland,north_east,north_west,yorkshire_&_humberside,west_midlands,east_midlands,wales,eastern,london,south_east,south_west,northern_ireland,net:_england
-2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,Unweighted base,2105,1010.0,1095.0,265,600.0,510,448,547.0,,,,,,,,,,,,,
-2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,Weighted base,2106,1029.0,1077.0,292,573.0,596,427,510.0,,,,,,,,,,,,,
-2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1542,708.0,834.0,211,430.0,450,309,354.0,,,,,,,,,,,,,
-2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",533,248.0,285.0,104,175.0,168,96,94.0,,,,,,,,,,,,,
-2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,Via social media posts,427,209.0,218.0,68,111.0,112,87,118.0,,,,,,,,,,,,,
-2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",417,193.0,224.0,73,140.0,127,81,69.0,,,,,,,,,,,,,
-2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,Other,21,10.0,11.0,-,5.0,9,4,2.0,,,,,,,,,,,,,
-2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,373,214.0,159.0,42,89.0,97,82,105.0,,,,,,,,,,,,,
-2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,Unweighted base,2058,992.0,1066.0,257,570.0,574,450,464.0,186,87,209,169,177,162,112,186,262,266,179,63,1697.0
-2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,Weighted base,2056,1010.0,1045.0,286,561.0,581,416,497.0,171,83,228,167,179,148,98,193,269,280,177,62,1725.0
-2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1433,657.0,776.0,188,399.0,408,276,351.0,122,58,168,111,133,96,76,121,167,194,138,51,1185.0
-2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",298,153.0,145.0,60,120.0,93,46,39.0,29,9,31,19,31,22,22,15,47,37,26,9,238.0
+2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,238,140.0,98.0,0,63.0,57,49,69.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,Other,42,18.0,24.0,0,8.0,18,6,9.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",460,201.0,259.0,0,136.0,155,91,78.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,Via social media posts,552,221.0,331.0,0,130.0,140,118,164.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",749,312.0,437.0,0,241.0,240,133,135.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1811,864.0,947.0,0,504.0,520,372,415.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,Weighted base,2224,1085.0,1139.0,0,609.0,627,452,535.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,Unweighted base,2226,1083.0,1143.0,0,802.0,620,310,494.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,Unweighted base,2110,1060.0,1050.0,273,514.0,603,457,536.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1648,763.0,885.0,228,461.0,460,344,383.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",577,262.0,315.0,109,196.0,172,100,109.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",422,201.0,221.0,89,138.0,121,84,79.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,Via social media posts,416,188.0,228.0,61,117.0,105,92,102.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,Other,25,10.0,15.0,2,6.0,10,6,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,311,185.0,127.0,39,70.0,93,60,89.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,Weighted base,2110,1033.0,1077.0,292,576.0,595,429,509.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,Unweighted base,2105,1010.0,1095.0,265,600.0,510,448,547.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,Via social media posts,427,209.0,218.0,68,111.0,112,87,118.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,373,214.0,159.0,42,89.0,97,82,105.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,Other,21,10.0,11.0,0,5.0,9,4,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",417,193.0,224.0,73,140.0,127,81,69.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",533,248.0,285.0,104,175.0,168,96,94.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1542,708.0,834.0,211,430.0,450,309,354.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-09,2020-04-13,ways_of_sharing_information/news_in_last_week,Weighted base,2106,1029.0,1077.0,292,573.0,596,427,510.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,Weighted base,2125,1038.0,1087.0,293,578.0,601,433,513.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,Other,22,10.0,11.0,0,8.0,4,2,7.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,Via social media posts,351,177.0,175.0,46,110.0,85,74,83.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",382,180.0,201.0,70,130.0,108,67,77.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",464,226.0,238.0,97,161.0,124,90,88.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1568,727.0,840.0,195,433.0,446,312,378.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,377,205.0,172.0,70,106.0,109,72,90.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,Unweighted base,2122,1097.0,1025.0,298,626.0,638,306,552.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,Other,24,13.0,11.0,1,8.0,6,1,10.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,Unweighted base,2077,1029.0,1048.0,263,542.0,614,387,534.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,Weighted base,2077,1018.0,1059.0,286,571.0,587,420,499.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1429,648.0,781.0,190,413.0,411,295,310.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",360,152.0,207.0,90,124.0,105,72,59.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",343,157.0,185.0,72,113.0,109,56,65.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,Via social media posts,299,153.0,146.0,45,72.0,92,52,82.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,509,287.0,223.0,64,124.0,137,95,154.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,Other,21,11.0,11.0,0,5.0,4,4,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,Via social media posts,325,169.0,155.0,33,99.0,78,78,70.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",432,229.0,203.0,73,163.0,127,73,69.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",446,203.0,242.0,85,161.0,116,104,64.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1539,713.0,826.0,208,437.0,433,314,354.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,Weighted base,2116,1034.0,1082.0,294,582.0,602,424,508.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,Unweighted base,2121,1026.0,1095.0,265,677.0,622,328,494.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,418,224.0,194.0,59,92.0,122,79,125.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,Unweighted base,2104,1035.0,1069.0,270,691.0,590,360,463.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,Weighted base,2101,1028.0,1073.0,289,576.0,595,426,504.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1469,691.0,779.0,184,422.0,443,286,318.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",441,201.0,240.0,97,159.0,124,79,79.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",371,183.0,188.0,70,136.0,118,57,59.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,Other,26,15.0,12.0,1,9.0,7,3,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,468,245.0,222.0,72,104.0,121,111,132.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,Via social media posts,297,157.0,140.0,31,86.0,69,49,93.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,Other,16,9.0,7.0,,4.0,4,3,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,Via social media posts,317,154.0,163.0,45,94.0,82,57,85.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",403,188.0,215.0,76,148.0,108,68,79.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",448,195.0,253.0,101,156.0,124,91,77.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1492,688.0,804.0,211,415.0,446,301,330.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,Weighted base,2091,1021.0,1070.0,287,570.0,594,421,506.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,Unweighted base,2092,1030.0,1062.0,256,605.0,570,402,515.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,438,243.0,195.0,48,111.0,113,80,133.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Weighted base,2072,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Other,22,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Unweighted base,2071,1025.0,1046.0,262,581.0,542,424,524.0,193,78,243,149,168,162,104,216,286,238,173,61,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Weighted base,2072,1011.0,1061.0,286,565.0,586,419,501.0,173,83,229,169,181,147,99,196,272,280,179,63,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1482,668.0,814.0,199,441.0,402,307,332.0,128,63,168,122,129,105,64,136,200,192,131,44,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",369,178.0,191.0,68,133.0,106,66,64.0,29,13,38,37,27,24,21,26,65,50,29,11,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",344,165.0,178.0,63,124.0,116,51,53.0,27,10,24,27,34,25,19,36,51,55,28,8,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,465,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Other,22,10.0,12.0,0,11.0,6,2,4.0,3,0,1,0,2,1,0,4,7,2,4,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,465,263.0,201.0,67,89.0,146,92,138.0,37,18,47,39,37,33,28,51,55,64,38,16,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Unweighted base,2071,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1482,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Via social media posts,295,143.0,152.0,35,73.0,73,66,84.0,29,18,36,28,27,25,13,17,40,39,19,3,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",344,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Via social media posts,295,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Other,22,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,465,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Unweighted base,2071,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Weighted base,2072,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1482,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",369,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",344,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Via social media posts,295,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",369,0.0,0.0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,Unweighted base,2084,998.0,1086.0,255,544.0,588,454,498.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,Weighted base,2086,1019.0,1067.0,287,568.0,591,424,503.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1459,678.0,781.0,199,418.0,390,307,344.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",374,163.0,210.0,84,121.0,109,79,64.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,488,274.0,214.0,71,107.0,156,95,130.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,Via social media posts,264,141.0,123.0,20,77.0,62,50,75.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,Other,21,10.0,11.0,2,5.0,9,1,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",294,137.0,157.0,60,109.0,75,62,47.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,Via social media posts,302,166.0,135.0,55,79.0,85,54,84.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,448,246.0,202.0,60,93.0,125,88,141.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,Other,18,10.0,8.0,0,6.0,3,4,5.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",380,177.0,203.0,90,123.0,114,75,69.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",317,164.0,152.0,61,109.0,106,55,47.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1535,716.0,819.0,205,454.0,433,318,330.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,Weighted base,2096,1026.0,1071.0,290,573.0,593,428,502.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,Unweighted base,2095,1001.0,1094.0,219,610.0,604,420,461.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,Unweighted base,2085,1032.0,1053.0,270,602.0,583,373,527.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",382,174.0,208.0,87,120.0,139,68,55.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,Via social media posts,261,129.0,132.0,46,79.0,71,47,64.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",308,148.0,160.0,63,115.0,93,51,49.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,473,262.0,210.0,67,123.0,114,82,154.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1465,683.0,782.0,189,405.0,436,309,315.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,Weighted base,2085,1020.0,1065.0,284,571.0,590,418,506.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,Other,16,6.0,10.0,1,8.0,4,0,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",241,122.0,118.0,46,85.0,79,47,30.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,Unweighted base,2134,1099.0,1035.0,285,639.0,601,363,531.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,Weighted base,2140,1049.0,1092.0,292,586.0,603,435,515.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1520,715.0,804.0,199,431.0,424,332,333.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",380,184.0,196.0,79,128.0,128,77,47.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,Other,11,5.0,6.0,1,4.0,4,1,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,Via social media posts,283,161.0,121.0,53,72.0,72,81,59.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,509,265.0,244.0,70,121.0,142,83,162.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,Unweighted base,2063,1007.0,1056.0,244,597.0,557,414,495.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,Weighted base,2064,1012.0,1052.0,285,570.0,583,414,497.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",236,123.0,113.0,54,83.0,82,32,39.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,Via social media posts,194,108.0,86.0,37,48.0,56,43,47.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",147,74.0,74.0,44,49.0,37,32,30.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,Other,5,5.0,1.0,0,2.0,0,1,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,667,334.0,333.0,81,143.0,195,130,198.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1270,600.0,670.0,166,387.0,354,250,279.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
 2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,Via social media posts,268,140.0,128.0,47,83.0,67,48,71.0,29,8,21,19,34,15,15,26,46,31,15,8,216.0
 2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",180,109.0,72.0,32,73.0,51,27,31.0,16,7,19,12,18,15,13,12,28,17,16,8,143.0
-2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,Other,10,8.0,1.0,3,3.0,3,-,4.0,1,-,-,1,-,-,3,1,3,-,1,-,6.0
+2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",298,153.0,145.0,60,120.0,93,46,39.0,29,9,31,19,31,22,22,15,47,37,26,9,238.0
+2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,Weighted base,2056,1010.0,1045.0,286,561.0,581,416,497.0,171,83,228,167,179,148,98,193,269,280,177,62,1725.0
+2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,Unweighted base,2058,992.0,1066.0,257,570.0,574,450,464.0,186,87,209,169,177,162,112,186,262,266,179,63,1697.0
+2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,Other,10,8.0,1.0,3,3.0,3,0,4.0,1,0,0,1,0,0,3,1,3,0,1,0,6.0
+2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1433,657.0,776.0,188,399.0,408,276,351.0,122,58,168,111,133,96,76,121,167,194,138,51,1185.0
 2020-09-11,2020-09-13,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,499,275.0,225.0,69,122.0,137,119,121.0,41,22,48,49,35,37,12,64,77,70,35,9,437.0
-2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,Unweighted base,2122,1097.0,1025.0,298,626.0,638,306,552.0,,,,,,,,,,,,,
-2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,Weighted base,2125,1038.0,1087.0,293,578.0,601,433,513.0,,,,,,,,,,,,,
-2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1568,727.0,840.0,195,433.0,446,312,378.0,,,,,,,,,,,,,
-2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",464,226.0,238.0,97,161.0,124,90,88.0,,,,,,,,,,,,,
-2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",382,180.0,201.0,70,130.0,108,67,77.0,,,,,,,,,,,,,
-2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,Via social media posts,351,177.0,175.0,46,110.0,85,74,83.0,,,,,,,,,,,,,
-2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,Other,22,10.0,11.0,-,8.0,4,2,7.0,,,,,,,,,,,,,
-2020-04-17,2020-04-19,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,377,205.0,172.0,70,106.0,109,72,90.0,,,,,,,,,,,,,
-2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,Unweighted base,2092,1030.0,1062.0,256,605.0,570,402,515.0,,,,,,,,,,,,,
-2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,Weighted base,2091,1021.0,1070.0,287,570.0,594,421,506.0,,,,,,,,,,,,,
-2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1492,688.0,804.0,211,415.0,446,301,330.0,,,,,,,,,,,,,
-2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",448,195.0,253.0,101,156.0,124,91,77.0,,,,,,,,,,,,,
-2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",403,188.0,215.0,76,148.0,108,68,79.0,,,,,,,,,,,,,
-2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,Via social media posts,317,154.0,163.0,45,94.0,82,57,85.0,,,,,,,,,,,,,
-2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,Other,16,9.0,7.0,,4.0,4,3,5.0,,,,,,,,,,,,,
-2020-05-15,2020-05-17,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,438,243.0,195.0,48,111.0,113,80,133.0,,,,,,,,,,,,,
-2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,Unweighted base,2084,998.0,1086.0,255,544.0,588,454,498.0,,,,,,,,,,,,,
-2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,Weighted base,2086,1019.0,1067.0,287,568.0,591,424,503.0,,,,,,,,,,,,,
-2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1459,678.0,781.0,199,418.0,390,307,344.0,,,,,,,,,,,,,
-2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",374,163.0,210.0,84,121.0,109,79,64.0,,,,,,,,,,,,,
-2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",294,137.0,157.0,60,109.0,75,62,47.0,,,,,,,,,,,,,
-2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,Via social media posts,264,141.0,123.0,20,77.0,62,50,75.0,,,,,,,,,,,,,
-2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,Other,21,10.0,11.0,2,5.0,9,1,5.0,,,,,,,,,,,,,
-2020-05-29,2020-05-31,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,488,274.0,214.0,71,107.0,156,95,130.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Unweighted base,2071,1025.0,1046.0,262,581.0,542,424,524.0,193,78,243,149,168,162,104,216,286,238,173,61,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Weighted base,2072,1011.0,1061.0,286,565.0,586,419,501.0,173,83,229,169,181,147,99,196,272,280,179,63,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1482,668.0,814.0,199,441.0,402,307,332.0,128,63,168,122,129,105,64,136,200,192,131,44,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",369,178.0,191.0,68,133.0,106,66,64.0,29,13,38,37,27,24,21,26,65,50,29,11,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",344,165.0,178.0,63,124.0,116,51,53.0,27,10,24,27,34,25,19,36,51,55,28,8,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Via social media posts,295,143.0,152.0,35,73.0,73,66,84.0,29,18,36,28,27,25,13,17,40,39,19,3,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Other,22,10.0,12.0,-,11.0,6,2,4.0,3,-,1,-,2,1,-,4,7,2,4,-,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,465,263.0,201.0,67,89.0,146,92,138.0,37,18,47,39,37,33,28,51,55,64,38,16,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Unweighted base,2071,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Weighted base,2072,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1482,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",369,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",344,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Via social media posts,295,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Other,22,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,465,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Unweighted base,2071,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Weighted base,2072,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1482,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",369,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",344,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Via social media posts,295,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,Other,22,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-05-22,2020-05-24,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,465,263.0,201.0,67,89.0,146,92,138.0,,,,,,,,,,,,,
-2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,Unweighted base,2110,1060.0,1050.0,273,514.0,603,457,536.0,,,,,,,,,,,,,
-2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,Weighted base,2110,1033.0,1077.0,292,576.0,595,429,509.0,,,,,,,,,,,,,
-2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1648,763.0,885.0,228,461.0,460,344,383.0,,,,,,,,,,,,,
-2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",577,262.0,315.0,109,196.0,172,100,109.0,,,,,,,,,,,,,
-2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",422,201.0,221.0,89,138.0,121,84,79.0,,,,,,,,,,,,,
-2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,Via social media posts,416,188.0,228.0,61,117.0,105,92,102.0,,,,,,,,,,,,,
-2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,Other,25,10.0,15.0,2,6.0,10,6,4.0,,,,,,,,,,,,,
-2020-04-03,2020-04-05,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,311,185.0,127.0,39,70.0,93,60,89.0,,,,,,,,,,,,,
-2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,Unweighted base,2104,1035.0,1069.0,270,691.0,590,360,463.0,,,,,,,,,,,,,
-2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,Weighted base,2101,1028.0,1073.0,289,576.0,595,426,504.0,,,,,,,,,,,,,
-2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1469,691.0,779.0,184,422.0,443,286,318.0,,,,,,,,,,,,,
-2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",441,201.0,240.0,97,159.0,124,79,79.0,,,,,,,,,,,,,
-2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",371,183.0,188.0,70,136.0,118,57,59.0,,,,,,,,,,,,,
-2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,Via social media posts,297,157.0,140.0,31,86.0,69,49,93.0,,,,,,,,,,,,,
-2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,Other,26,15.0,12.0,1,9.0,7,3,8.0,,,,,,,,,,,,,
-2020-05-07,2020-05-10,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,468,245.0,222.0,72,104.0,121,111,132.0,,,,,,,,,,,,,
-2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,Unweighted base,2077,1029.0,1048.0,263,542.0,614,387,534.0,,,,,,,,,,,,,
-2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,Weighted base,2077,1018.0,1059.0,286,571.0,587,420,499.0,,,,,,,,,,,,,
-2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1429,648.0,781.0,190,413.0,411,295,310.0,,,,,,,,,,,,,
-2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",360,152.0,207.0,90,124.0,105,72,59.0,,,,,,,,,,,,,
-2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",343,157.0,185.0,72,113.0,109,56,65.0,,,,,,,,,,,,,
-2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,Via social media posts,299,153.0,146.0,45,72.0,92,52,82.0,,,,,,,,,,,,,
-2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,Other,24,13.0,11.0,1,8.0,6,1,10.0,,,,,,,,,,,,,
-2020-04-24,2020-04-26,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,509,287.0,223.0,64,124.0,137,95,154.0,,,,,,,,,,,,,
-2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,Unweighted base,2071,1051.0,1020.0,257,600.0,569,391,511.0,178,75,211,155,180,144,127,201,288,272,166,74,1692.0
-2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,Weighted base,2072,1018.0,1054.0,286,565.0,588,422,498.0,170,82,231,166,179,145,99,197,278,286,177,62,1741.0
-2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1366,663.0,703.0,188,395.0,390,277,305.0,112,43,157,112,118,89,70,136,185,184,123,37,1148.0
-2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",324,183.0,141.0,80,119.0,101,61,43.0,37,11,34,24,26,24,13,23,65,37,23,7,266.0
-2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",225,139.0,86.0,51,80.0,73,40,32.0,16,11,22,13,18,21,9,16,43,35,18,3,196.0
-2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,Via social media posts,221,145.0,76.0,45,69.0,46,52,54.0,20,11,33,18,16,11,11,21,43,24,11,3,187.0
-2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,"Sharing a video or website link on closed messenger groups, such as WhatsApp, Teams, Zoom etc",129,85.0,44.0,33,40.0,36,32,21.0,6,4,13,11,11,10,1,9,36,17,10,2,120.0
-2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,Other,11,4.0,7.0,-,5.0,2,-,4.0,1,-,-,-,-,-,1,1,4,2,4,-,10.0
-2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,557,266.0,292.0,50,116.0,154,119,169.0,47,35,58,44,49,38,23,52,66,83,42,21,466.0
-2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,Unweighted base,2095,1001.0,1094.0,219,610.0,604,420,461.0,,,,,,,,,,,,,
-2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,Weighted base,2096,1026.0,1071.0,290,573.0,593,428,502.0,,,,,,,,,,,,,
-2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1535,716.0,819.0,205,454.0,433,318,330.0,,,,,,,,,,,,,
-2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",380,177.0,203.0,90,123.0,114,75,69.0,,,,,,,,,,,,,
-2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",317,164.0,152.0,61,109.0,106,55,47.0,,,,,,,,,,,,,
-2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,Via social media posts,302,166.0,135.0,55,79.0,85,54,84.0,,,,,,,,,,,,,
-2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,Other,18,10.0,8.0,-,6.0,3,4,5.0,,,,,,,,,,,,,
-2020-06-05,2020-06-07,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,448,246.0,202.0,60,93.0,125,88,141.0,,,,,,,,,,,,,
-2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,Unweighted base,2105,1005.0,1100.0,261,604.0,562,433,506.0,183,81,205,157,195,154,101,207,280,283,180,79,1742.0
-2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,Weighted base,2104,1026.0,1078.0,293,577.0,595,426,506.0,177,84,234,174,182,149,98,200,277,284,180,64,1765.0
-2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1415,675.0,741.0,184,422.0,383,311,299.0,118,54,163,108,128,93,66,131,178,200,131,45,1186.0
-2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",312,130.0,183.0,69,109.0,89,65,49.0,25,10,38,31,28,17,10,22,55,51,18,7,270.0
-2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",244,112.0,132.0,59,86.0,76,49,33.0,24,8,17,15,33,16,7,11,42,50,18,4,208.0
-2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,Via social media posts,229,116.0,113.0,47,64.0,60,51,55.0,25,5,25,12,30,19,9,21,32,34,14,2,193.0
-2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,"Sharing a video or website link on closed messenger groups, such as WhatsApp, Teams, Zoom etc",124,65.0,59.0,26,47.0,23,26,27.0,7,5,16,11,12,7,1,3,32,17,11,1,115.0
-2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,Other,11,7.0,5.0,-,5.0,5,1,1.0,-,-,-,-,2,1,2,1,2,3,1,-,10.0
-2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,566,275.0,290.0,77,121.0,174,96,174.0,50,21,62,48,40,47,25,62,78,69,43,19,472.0
-2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,Unweighted base,2121,1026.0,1095.0,265,677.0,622,328,494.0,,,,,,,,,,,,,
-2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,Weighted base,2116,1034.0,1082.0,294,582.0,602,424,508.0,,,,,,,,,,,,,
-2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1539,713.0,826.0,208,437.0,433,314,354.0,,,,,,,,,,,,,
-2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",446,203.0,242.0,85,161.0,116,104,64.0,,,,,,,,,,,,,
-2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",432,229.0,203.0,73,163.0,127,73,69.0,,,,,,,,,,,,,
-2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,Via social media posts,325,169.0,155.0,33,99.0,78,78,70.0,,,,,,,,,,,,,
-2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,Other,21,11.0,11.0,-,5.0,4,4,8.0,,,,,,,,,,,,,
-2020-05-01,2020-05-03,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,418,224.0,194.0,59,92.0,122,79,125.0,,,,,,,,,,,,,
-2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,Unweighted base,2062,1025.0,1037.0,255,639.0,565,397,461.0,170,81,214,157,172,165,101,199,291,298,154,60,1731.0
-2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,Weighted base,2060,1012.0,1048.0,287,567.0,587,414,492.0,164,83,229,168,183,148,97,193,273,287,174,62,1738.0
-2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1464,669.0,795.0,196,410.0,434,284,335.0,119,63,176,140,117,104,65,124,178,213,127,39,1241.0
-2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",377,175.0,201.0,101,107.0,129,72,68.0,39,17,40,34,39,20,9,26,72,51,20,9,319.0
-2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,Via social media posts,236,135.0,101.0,37,80.0,60,46,51.0,22,12,37,15,20,18,11,21,41,24,13,3,199.0
-2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",222,106.0,115.0,42,77.0,64,37,44.0,22,5,26,14,25,20,13,15,35,26,14,6,180.0
-2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,Other,11,6.0,5.0,2,3.0,3,-,4.0,-,-,1,1,1,1,1,2,2,3,-,-,10.0
-2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,465,261.0,204.0,56,123.0,114,103,125.0,35,14,39,26,52,36,28,54,62,61,40,18,385.0
-2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,Unweighted base,2085,1032.0,1053.0,270,602.0,583,373,527.0,,,,,,,,,,,,,
-2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,Weighted base,2085,1020.0,1065.0,284,571.0,590,418,506.0,,,,,,,,,,,,,
-2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1465,683.0,782.0,189,405.0,436,309,315.0,,,,,,,,,,,,,
-2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",382,174.0,208.0,87,120.0,139,68,55.0,,,,,,,,,,,,,
-2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",308,148.0,160.0,63,115.0,93,51,49.0,,,,,,,,,,,,,
-2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,Via social media posts,261,129.0,132.0,46,79.0,71,47,64.0,,,,,,,,,,,,,
-2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,Other,16,6.0,10.0,1,8.0,4,-,4.0,,,,,,,,,,,,,
-2020-06-12,2020-06-15,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,473,262.0,210.0,67,123.0,114,82,154.0,,,,,,,,,,,,,
-2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,Unweighted base,2065,990.0,1075.0,240,612.0,588,356,509.0,188,78,196,164,182,160,118,187,297,253,183,59,1700.0
-2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,Weighted base,2070,1019.0,1051.0,281,565.0,584,421,500.0,175,85,224,169,181,149,100,196,275,278,177,60,1735.0
-2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1273,619.0,655.0,157,390.0,365,246,273.0,111,50,144,98,119,85,71,113,170,168,107,39,1053.0
-2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",214,111.0,102.0,46,75.0,68,41,31.0,23,7,19,16,23,11,8,9,47,30,16,4,179.0
-2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,Via social media posts,195,125.0,69.0,41,66.0,42,36,50.0,21,3,20,15,14,12,7,18,46,25,8,6,161.0
-2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",139,84.0,55.0,23,48.0,40,31,20.0,16,2,14,5,14,5,6,10,34,11,14,7,110.0
-2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,"Sharing a video or website link on closed messenger groups, such as WhatsApp, Teams, Zoom etc",109,67.0,42.0,22,39.0,29,25,16.0,11,2,6,7,13,4,1,3,30,18,9,4,93.0
-2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,Other,8,4.0,4.0,-,1.0,4,-,3.0,2,-,-,2,-,-,-,-,1,3,1,-,6.0
-2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,672,317.0,355.0,93,143.0,179,144,205.0,48,31,70,62,54,60,29,72,69,94,63,19,576.0
-2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,Unweighted base,2226,1083.0,1143.0,93,802.0,620,310,494.0,,,,,,,,,,,,,
-2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,Weighted base,2224,1085.0,1139.0,93,609.0,627,452,535.0,,,,,,,,,,,,,
-2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1811,864.0,947.0,93,504.0,520,372,415.0,,,,,,,,,,,,,
-2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",749,312.0,437.0,93,241.0,240,133,135.0,,,,,,,,,,,,,
-2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,Via social media posts,552,221.0,331.0,93,130.0,140,118,164.0,,,,,,,,,,,,,
-2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",460,201.0,259.0,93,136.0,155,91,78.0,,,,,,,,,,,,,
-2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,Other,42,18.0,24.0,93,8.0,18,6,9.0,,,,,,,,,,,,,
-2020-03-27,2020-03-29,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,238,140.0,98.0,93,63.0,57,49,69.0,,,,,,,,,,,,,
-2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,Unweighted base,2069,1054.0,1015.0,265,571.0,623,349,526.0,183,86,201,177,195,144,95,200,290,276,152,70,1721.0
-2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,Weighted base,2073,1011.0,1061.0,284,563.0,588,424,498.0,175,82,227,171,178,148,95,193,276,286,180,63,1740.0
-2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1372,618.0,754.0,183,388.0,397,289,297.0,111,59,148,119,128,92,61,125,174,183,123,48,1152.0
-2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",323,155.0,168.0,67,112.0,102,60,49.0,32,8,29,21,30,16,10,31,70,39,26,10,271.0
-2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,Via social media posts,235,132.0,103.0,49,69.0,53,39,74.0,24,5,19,28,23,17,11,9,45,30,21,4,196.0
-2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",196,112.0,84.0,56,73.0,51,32,41.0,22,6,21,17,11,10,6,15,46,28,13,1,167.0
-2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,Other,14,9.0,4.0,-,6.0,4,2,2.0,,-,2,1,1,1,-,2,1,3,2,-,13.0
-2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,546,297.0,249.0,57,120.0,157,111,159.0,50,21,58,38,39,46,31,57,72,83,39,14,451.0
-2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,Unweighted base,2134,1099.0,1035.0,285,639.0,601,363,531.0,,,,,,,,,,,,,
-2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,Weighted base,2140,1049.0,1092.0,292,586.0,603,435,515.0,,,,,,,,,,,,,
-2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1520,715.0,804.0,199,431.0,424,332,333.0,,,,,,,,,,,,,
-2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",380,184.0,196.0,79,128.0,128,77,47.0,,,,,,,,,,,,,
-2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,Via social media posts,283,161.0,121.0,53,72.0,72,81,59.0,,,,,,,,,,,,,
-2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",241,122.0,118.0,46,85.0,79,47,30.0,,,,,,,,,,,,,
-2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,Other,11,5.0,6.0,1,4.0,4,1,2.0,,,,,,,,,,,,,
-2020-06-19,2020-06-21,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,509,265.0,244.0,70,121.0,142,83,162.0,,,,,,,,,,,,,
-2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,Unweighted base,2071,981.0,1090.0,257,578.0,630,348,515.0,182,88,216,161,170,158,105,175,292,291,170,63,1721.0
-2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,Weighted base,2073,1014.0,1059.0,288,569.0,585,419,499.0,171,84,230,168,181,148,100,192,276,285,173,63,1738.0
-2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1414,678.0,736.0,201,418.0,403,286,307.0,96,53,147,119,122,99,54,142,207,206,127,42,1221.0
-2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",397,194.0,203.0,90,125.0,126,86,60.0,24,14,47,27,42,22,11,37,73,58,29,13,349.0
-2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,Via social media posts,285,170.0,115.0,51,100.0,76,45,64.0,22,15,29,14,32,22,14,19,60,33,15,11,239.0
-2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",234,126.0,108.0,65,83.0,75,41,36.0,16,12,16,18,21,18,8,17,49,36,14,12,199.0
-2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,Other,14,6.0,9.0,1,6.0,3,1,5.0,5,-,-,1,-,-,1,2,1,4,1,-,8.0
-2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,515,251.0,264.0,58,115.0,141,110,150.0,53,26,69,46,45,40,38,43,40,58,38,20,404.0
-2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,Unweighted base,2056,995.0,1061.0,258,608.0,624,307,517.0,170,81,200,156,177,161,112,192,302,299,143,63,1711.0
-2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,Weighted base,2056,1009.0,1047.0,280,566.0,584,413,493.0,167,78,229,168,178,147,99,197,272,284,176,61,1729.0
-2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1358,627.0,731.0,182,394.0,385,275,304.0,112,53,155,108,117,93,61,139,178,191,109,41,1144.0
-2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",346,175.0,171.0,65,120.0,109,55,62.0,18,8,40,30,36,23,23,19,73,43,27,7,299.0
-2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,Via social media posts,241,130.0,111.0,30,71.0,61,57,52.0,23,6,27,22,20,18,10,28,46,16,22,2,206.0
-2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",236,118.0,118.0,42,83.0,74,42,38.0,11,6,32,13,25,9,14,17,52,37,13,7,204.0
-2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,Other,23,9.0,14.0,-,8.0,8,3,4.0,3,-,1,,3,1,1,5,1,4,2,-,19.0
-2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,554,297.0,257.0,79,125.0,156,112,161.0,49,22,60,45,49,41,32,42,66,78,54,16,457.0
-2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,Unweighted base,2063,1007.0,1056.0,244,597.0,557,414,495.0,,,,,,,,,,,,,
-2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,Weighted base,2064,1012.0,1052.0,285,570.0,583,414,497.0,,,,,,,,,,,,,
-2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1270,600.0,670.0,166,387.0,354,250,279.0,,,,,,,,,,,,,
-2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",236,123.0,113.0,54,83.0,82,32,39.0,,,,,,,,,,,,,
-2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,Via social media posts,194,108.0,86.0,37,48.0,56,43,47.0,,,,,,,,,,,,,
-2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",147,74.0,74.0,44,49.0,37,32,30.0,,,,,,,,,,,,,
-2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,Other,5,5.0,1.0,-,2.0,-,1,2.0,,,,,,,,,,,,,
-2020-08-07,2020-08-09,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,667,334.0,333.0,81,143.0,195,130,198.0,,,,,,,,,,,,,
 2020-10-09,2020-10-11,ways_of_sharing_information/news_in_last_week,Unweighted base,2141,1045.0,1096.0,261,620.0,613,376,532.0,196,86,235,165,195,161,99,196,287,274,184,63,1783.0
 2020-10-09,2020-10-11,ways_of_sharing_information/news_in_last_week,Weighted base,2140,1055.0,1084.0,289,590.0,605,436,509.0,183,86,233,171,187,148,102,204,283,296,184,62,1793.0
 2020-10-09,2020-10-11,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1460,676.0,784.0,197,417.0,417,295,331.0,125,58,164,121,127,101,69,127,194,196,132,46,1220.0
 2020-10-09,2020-10-11,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",339,174.0,166.0,74,116.0,95,66,63.0,38,17,31,20,29,24,19,24,63,41,28,5,278.0
 2020-10-09,2020-10-11,ways_of_sharing_information/news_in_last_week,Via social media posts,272,172.0,99.0,50,89.0,74,49,60.0,23,17,28,18,26,16,14,26,51,25,22,5,230.0
 2020-10-09,2020-10-11,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",203,106.0,97.0,43,80.0,49,37,38.0,29,8,22,14,19,4,10,19,35,22,17,4,161.0
-2020-10-09,2020-10-11,ways_of_sharing_information/news_in_last_week,Other,14,11.0,3.0,-,5.0,5,2,2.0,3,1,-,1,1,1,-,1,-,4,2,-,11.0
+2020-10-09,2020-10-11,ways_of_sharing_information/news_in_last_week,Other,14,11.0,3.0,0,5.0,5,2,2.0,3,1,0,1,1,1,0,1,0,4,2,0,11.0
 2020-10-09,2020-10-11,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,557,305.0,252.0,68,135.0,153,114,155.0,52,24,59,36,50,37,32,55,72,84,42,15,459.0
+2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1464,669.0,795.0,196,410.0,434,284,335.0,119,63,176,140,117,104,65,124,178,213,127,39,1241.0
+2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",377,175.0,201.0,101,107.0,129,72,68.0,39,17,40,34,39,20,9,26,72,51,20,9,319.0
+2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,Weighted base,2060,1012.0,1048.0,287,567.0,587,414,492.0,164,83,229,168,183,148,97,193,273,287,174,62,1738.0
+2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",222,106.0,115.0,42,77.0,64,37,44.0,22,5,26,14,25,20,13,15,35,26,14,6,180.0
+2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,Other,11,6.0,5.0,2,3.0,3,0,4.0,0,0,1,1,1,1,1,2,2,3,0,0,10.0
+2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,465,261.0,204.0,56,123.0,114,103,125.0,35,14,39,26,52,36,28,54,62,61,40,18,385.0
+2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,Via social media posts,236,135.0,101.0,37,80.0,60,46,51.0,22,12,37,15,20,18,11,21,41,24,13,3,199.0
+2020-11-06,2020-11-08,ways_of_sharing_information/news_in_last_week,Unweighted base,2062,1025.0,1037.0,255,639.0,565,397,461.0,170,81,214,157,172,165,101,199,291,298,154,60,1731.0
+2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,Unweighted base,2069,1054.0,1015.0,265,571.0,623,349,526.0,183,86,201,177,195,144,95,200,290,276,152,70,1721.0
+2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,Weighted base,2073,1011.0,1061.0,284,563.0,588,424,498.0,175,82,227,171,178,148,95,193,276,286,180,63,1740.0
+2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1372,618.0,754.0,183,388.0,397,289,297.0,111,59,148,119,128,92,61,125,174,183,123,48,1152.0
+2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",323,155.0,168.0,67,112.0,102,60,49.0,32,8,29,21,30,16,10,31,70,39,26,10,271.0
+2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,Via social media posts,235,132.0,103.0,49,69.0,53,39,74.0,24,5,19,28,23,17,11,9,45,30,21,4,196.0
+2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",196,112.0,84.0,56,73.0,51,32,41.0,22,6,21,17,11,10,6,15,46,28,13,1,167.0
+2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,Other,14,9.0,4.0,0,6.0,4,2,2.0,,0,2,1,1,1,0,2,1,3,2,0,13.0
+2020-12-04,2020-12-06,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,546,297.0,249.0,57,120.0,157,111,159.0,50,21,58,38,39,46,31,57,72,83,39,14,451.0
+2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1414,678.0,736.0,201,418.0,403,286,307.0,96,53,147,119,122,99,54,142,207,206,127,42,1221.0
+2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",397,194.0,203.0,90,125.0,126,86,60.0,24,14,47,27,42,22,11,37,73,58,29,13,349.0
+2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,Via social media posts,285,170.0,115.0,51,100.0,76,45,64.0,22,15,29,14,32,22,14,19,60,33,15,11,239.0
+2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",234,126.0,108.0,65,83.0,75,41,36.0,16,12,16,18,21,18,8,17,49,36,14,12,199.0
+2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,Other,14,6.0,9.0,1,6.0,3,1,5.0,5,0,0,1,0,0,1,2,1,4,1,0,8.0
+2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,515,251.0,264.0,58,115.0,141,110,150.0,53,26,69,46,45,40,38,43,40,58,38,20,404.0
+2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,Unweighted base,2071,981.0,1090.0,257,578.0,630,348,515.0,182,88,216,161,170,158,105,175,292,291,170,63,1721.0
+2021-01-15,2021-01-17,ways_of_sharing_information/news_in_last_week,Weighted base,2073,1014.0,1059.0,288,569.0,585,419,499.0,171,84,230,168,181,148,100,192,276,285,173,63,1738.0
+2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,Other,23,9.0,14.0,0,8.0,8,3,4.0,3,0,1,,3,1,1,5,1,4,2,0,19.0
+2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",236,118.0,118.0,42,83.0,74,42,38.0,11,6,32,13,25,9,14,17,52,37,13,7,204.0
+2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,Via social media posts,241,130.0,111.0,30,71.0,61,57,52.0,23,6,27,22,20,18,10,28,46,16,22,2,206.0
+2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",346,175.0,171.0,65,120.0,109,55,62.0,18,8,40,30,36,23,23,19,73,43,27,7,299.0
+2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1358,627.0,731.0,182,394.0,385,275,304.0,112,53,155,108,117,93,61,139,178,191,109,41,1144.0
+2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,Weighted base,2056,1009.0,1047.0,280,566.0,584,413,493.0,167,78,229,168,178,147,99,197,272,284,176,61,1729.0
+2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,Unweighted base,2056,995.0,1061.0,258,608.0,624,307,517.0,170,81,200,156,177,161,112,192,302,299,143,63,1711.0
+2021-02-12,2021-02-14,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,554,297.0,257.0,79,125.0,156,112,161.0,49,22,60,45,49,41,32,42,66,78,54,16,457.0
+2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,566,275.0,290.0,77,121.0,174,96,174.0,50,21,62,48,40,47,25,62,78,69,43,19,472.0
+2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,Other,11,7.0,5.0,0,5.0,5,1,1.0,0,0,0,0,2,1,2,1,2,3,1,0,10.0
+2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,Via social media posts,229,116.0,113.0,47,64.0,60,51,55.0,25,5,25,12,30,19,9,21,32,34,14,2,193.0
+2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",244,112.0,132.0,59,86.0,76,49,33.0,24,8,17,15,33,16,7,11,42,50,18,4,208.0
+2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",312,130.0,183.0,69,109.0,89,65,49.0,25,10,38,31,28,17,10,22,55,51,18,7,270.0
+2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1415,675.0,741.0,184,422.0,383,311,299.0,118,54,163,108,128,93,66,131,178,200,131,45,1186.0
+2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,Weighted base,2104,1026.0,1078.0,293,577.0,595,426,506.0,177,84,234,174,182,149,98,200,277,284,180,64,1765.0
+2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,Unweighted base,2105,1005.0,1100.0,261,604.0,562,433,506.0,183,81,205,157,195,154,101,207,280,283,180,79,1742.0
+2021-03-12,2021-03-14,ways_of_sharing_information/news_in_last_week,"Sharing a video or website link on closed messenger groups, such as WhatsApp, Teams, Zoom etc",124,65.0,59.0,26,47.0,23,26,27.0,7,5,16,11,12,7,1,3,32,17,11,1,115.0
+2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,557,266.0,292.0,50,116.0,154,119,169.0,47,35,58,44,49,38,23,52,66,83,42,21,466.0
+2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,Other,11,4.0,7.0,0,5.0,2,0,4.0,1,0,0,0,0,0,1,1,4,2,4,0,10.0
+2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,"Sharing a video or website link on closed messenger groups, such as WhatsApp, Teams, Zoom etc",129,85.0,44.0,33,40.0,36,32,21.0,6,4,13,11,11,10,1,9,36,17,10,2,120.0
+2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,Weighted base,2072,1018.0,1054.0,286,565.0,588,422,498.0,170,82,231,166,179,145,99,197,278,286,177,62,1741.0
+2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",225,139.0,86.0,51,80.0,73,40,32.0,16,11,22,13,18,21,9,16,43,35,18,3,196.0
+2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,Unweighted base,2071,1051.0,1020.0,257,600.0,569,391,511.0,178,75,211,155,180,144,127,201,288,272,166,74,1692.0
+2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",324,183.0,141.0,80,119.0,101,61,43.0,37,11,34,24,26,24,13,23,65,37,23,7,266.0
+2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1366,663.0,703.0,188,395.0,390,277,305.0,112,43,157,112,118,89,70,136,185,184,123,37,1148.0
+2021-04-05,2021-04-11,ways_of_sharing_information/news_in_last_week,Via social media posts,221,145.0,76.0,45,69.0,46,52,54.0,20,11,33,18,16,11,11,21,43,24,11,3,187.0
+2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,"Sharing a video or website link on closed messenger groups, such as WhatsApp, Teams, Zoom etc",109,67.0,42.0,22,39.0,29,25,16.0,11,2,6,7,13,4,1,3,30,18,9,4,93.0
+2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,Other,8,4.0,4.0,0,1.0,4,0,3.0,2,0,0,2,0,0,0,0,1,3,1,0,6.0
+2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,I have not shared any information/news about Coronavirus,672,317.0,355.0,93,143.0,179,144,205.0,48,31,70,62,54,60,29,72,69,94,63,19,576.0
+2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,"Writing on closed messenger groups, such as WhatsApp, Teams, Zoom etc",214,111.0,102.0,46,75.0,68,41,31.0,23,7,19,16,23,11,8,9,47,30,16,4,179.0
+2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,"Talked to family, friends and colleagues in person or by phone",1273,619.0,655.0,157,390.0,365,246,273.0,111,50,144,98,119,85,71,113,170,168,107,39,1053.0
+2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,Weighted base,2070,1019.0,1051.0,281,565.0,584,421,500.0,175,85,224,169,181,149,100,196,275,278,177,60,1735.0
+2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,Via social media posts,195,125.0,69.0,41,66.0,42,36,50.0,21,3,20,15,14,12,7,18,46,25,8,6,161.0
+2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,Unweighted base,2065,990.0,1075.0,240,612.0,588,356,509.0,188,78,196,164,182,160,118,187,297,253,183,59,1700.0
+2021-06-04,2021-06-06,ways_of_sharing_information/news_in_last_week,"Talking by video via closed messenger groups, such as WhatsApp, Teams, Zoom etc",139,84.0,55.0,23,48.0,40,31,20.0,16,2,14,5,14,5,6,10,34,11,14,7,110.0

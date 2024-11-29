@@ -1,154 +1,154 @@
 start_date,end_date,question,response,total,male,female,16-24,18-24,25-34,35-44,45-54,55-64,65+,class_upper_and_middle,class_lower_middle,class_skilled_working,class_working_class_lowest_grade
 2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Unweighted base,91,45,46,9,7,12,17,10,11,32,23,22,22,24
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,People in your local area/neighbourhood,1,1,0,0,0,0,0,0,1,1,1,0,0,1
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,WhatsApp,1,1,0,0,0,,1,0,0,0,1,0,0,
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,“Red-top tabloids” such as The Sun or Daily Mirror ( printed ),1,1,1,0,0,0,0,0,1,1,1,1,0,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Advertising,1,1,1,1,1,0,0,0,0,1,0,0,1,1
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,BBC Alba,1,0,1,0,0,0,1,0,0,0,0,0,0,1
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,UTV,1,0,1,0,0,0,0,0,0,1,0,0,0,1
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,"Non-mainstream news sources such as Russia Today, Breitbart, Swawkbox etc",1,1,0,0,0,1,0,0,0,0,0,0,1,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,STV,1,1,0,0,0,0,0,0,0,1,1,0,0,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Apple iMessage,1,1,0,0,0,1,0,0,0,0,1,0,0,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Other,17,7,10,2,0,0,5,4,1,5,5,3,1,8
 2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,88,44,44,10,7,10,17,12,11,28,24,21,17,25
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - TV,22,10,12,-,-,1,3,5,6,7,3,6,6,7
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Facebook,21,13,8,2,1,8,3,3,2,5,5,4,6,6
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,ITV,11,4,7,-,-,1,-,4,3,3,3,4,3,2
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,“Mid-market tabloids” such as The Daily Mail or Daily Express ( printed ),10,4,6,-,-,-,1,3,2,3,1,5,2,2
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Twitter,8,4,4,1,1,,4,-,1,3,1,4,2,2
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Websites or apps that bring together news from different news providers,8,6,2,,,-,1,-,5,2,2,2,3,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - Online/ app,6,5,1,2,2,1,1,-,2,-,2,-,3,1
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,YouTube,5,4,1,1,1,1,3,-,-,1,2,2,1,1
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Instagram,4,2,2,2,2,2,-,-,-,-,-,2,-,3
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Channel 4,4,1,2,1,1,2,1,1,-,-,1,-,1,2
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,WhatsApp group(s),3,2,1,-,-,,2,1,-,-,-,2,1,
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - Radio,3,3,-,-,-,-,2,-,1,-,-,2,1,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,88,44,44,10,7,10,17,12,11,28,24,21,17,25
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Sky,2,1,1,-,-,1,-,-,-,1,-,-,2,1
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,“Broadsheets” such as The Times or Guardian ( online ),2,2,,-,-,-,2,,-,-,-,2,-,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Unspecified social media,2,2,1,1,1,1,-,-,-,-,1,1,1,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Search engine (e.g. Google),2,1,1,-,-,-,-,-,-,2,-,-,2,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Family and friends directly,2,1,1,1,-,-,1,-,-,-,1,-,-,1
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,“Mid-market tabloids” such as MailOnline or Express ( online ),2,1,1,-,-,1,-,-,1,-,-,1,1,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,“Red-top tabloids” such as The Sun or Mirror ( online ),2,-,2,-,-,-,-,-,2,-,2,-,-,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Community radio,2,-,2,2,2,-,-,-,-,-,-,2,-,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Magazines,2,2,-,-,-,-,2,-,-,-,-,2,-,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Facebook messenger,2,2,-,-,-,-,2,-,-,-,-,2,-,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Email,2,2,-,-,-,-,2,-,-,-,-,2,-,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Podcasts,2,2,-,-,-,-,2,-,-,-,-,2,-,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Channel 5,2,1,1,-,-,1,-,1,-,-,1,-,-,1
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,88,44,44,10,7,10,17,12,11,28,24,21,17,25
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,"Websites/apps of online news organisations like Buzzfeed, Huffington Post, Vice, etc.",2,1,1,1,1,1,-,-,-,-,-,-,1,1
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,People in your local area/neighbourhood,1,1,-,-,-,-,-,-,1,1,1,-,-,1
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,WhatsApp,1,1,-,-,-,,1,-,-,-,1,-,-,
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,“Red-top tabloids” such as The Sun or Daily Mirror ( printed ),1,1,1,-,-,-,-,-,1,1,1,1,-,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Advertising,1,1,1,1,1,-,-,-,-,1,-,-,1,1
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,BBC Alba,1,-,1,-,-,-,1,-,-,-,-,-,-,1
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,UTV,1,-,1,-,-,-,-,-,-,1,-,-,-,1
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,"Non-mainstream news sources such as Russia Today, Breitbart, Swawkbox etc",1,1,-,-,-,1,-,-,-,-,-,-,1,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,STV,1,1,-,-,-,-,-,-,-,1,1,-,-,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Celebrity and/or social media influencer,1,-,1,1,1,-,-,-,-,-,-,-,-,1
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Apple iMessage,1,1,-,-,-,1,-,-,-,-,1,-,-,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Other,17,7,10,2,-,-,5,4,1,5,5,3,1,8
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,88,44,44,10,7,10,17,12,11,28,24,21,17,25
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,"Websites/apps of online news organisations like Buzzfeed, Huffington Post, Vice, etc.",2,1,1,1,1,1,0,0,0,0,0,0,1,1
 2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Broadcasters,31,15,16,3,3,2,6,5,7,8,6,8,8,10
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Non-BBC broadcasters,16,5,11,1,1,2,1,4,3,6,3,4,4,4
 2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: BBC services,28,15,13,2,2,2,5,5,6,7,6,7,7,8
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Newspapers (printed and online),15,6,9,-,-,1,3,4,4,3,4,8,2,2
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Newspapers (printed and online),15,6,9,0,0,1,3,4,4,3,4,8,2,2
 2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Social Media,31,17,14,5,3,9,5,3,2,7,7,8,9,7
 2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Facebook (Facebook and Facebook Messenger),21,13,8,2,1,8,3,3,2,5,5,4,6,6
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: WhatsApp (WhatsApp and WhatsApp groups),4,3,1,-,-,,3,1,-,-,1,2,1,
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Closed groups,3,2,1,-,-,,2,1,-,-,-,2,1,
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Other online news sources,9,7,2,1,1,1,1,-,5,2,2,2,4,1
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Family/friends/ local ppl,3,2,1,1,-,-,1,-,1,1,2,-,-,1
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: WhatsApp (WhatsApp and WhatsApp groups),4,3,1,0,0,,3,1,0,0,1,2,1,
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Closed groups,3,2,1,0,0,,2,1,0,0,0,2,1,
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Other online news sources,9,7,2,1,1,1,1,0,5,2,2,2,4,1
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Family/friends/ local ppl,3,2,1,1,0,0,1,0,1,1,2,0,0,1
 2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Traditional media,39,18,21,5,5,3,7,6,9,10,9,12,8,10
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Can't remember,2,-,2,-,-,-,-,-,-,2,2,-,-,-
-2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,I don't know where the source is from,1,1,,,,-,-,-,-,1,-,1,-,-
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Can't remember,2,0,2,0,0,0,0,0,0,2,2,0,0,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,I don't know where the source is from,1,1,,,,0,0,0,0,1,0,1,0,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Non-BBC broadcasters,16,5,11,1,1,2,1,4,3,6,3,4,4,4
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,88,44,44,10,7,10,17,12,11,28,24,21,17,25
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Celebrity and/or social media influencer,1,0,1,1,1,0,0,0,0,0,0,0,0,1
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Podcasts,2,2,0,0,0,0,2,0,0,0,0,2,0,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,88,44,44,10,7,10,17,12,11,28,24,21,17,25
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - TV,22,10,12,0,0,1,3,5,6,7,3,6,6,7
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Channel 5,2,1,1,0,0,1,0,1,0,0,1,0,0,1
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,ITV,11,4,7,0,0,1,0,4,3,3,3,4,3,2
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,“Mid-market tabloids” such as The Daily Mail or Daily Express ( printed ),10,4,6,0,0,0,1,3,2,3,1,5,2,2
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Twitter,8,4,4,1,1,,4,0,1,3,1,4,2,2
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Websites or apps that bring together news from different news providers,8,6,2,,,0,1,0,5,2,2,2,3,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - Online/ app,6,5,1,2,2,1,1,0,2,0,2,0,3,1
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,YouTube,5,4,1,1,1,1,3,0,0,1,2,2,1,1
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Instagram,4,2,2,2,2,2,0,0,0,0,0,2,0,3
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Channel 4,4,1,2,1,1,2,1,1,0,0,1,0,1,2
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,WhatsApp group(s),3,2,1,0,0,,2,1,0,0,0,2,1,
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - Radio,3,3,0,0,0,0,2,0,1,0,0,2,1,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Facebook,21,13,8,2,1,8,3,3,2,5,5,4,6,6
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Sky,2,1,1,0,0,1,0,0,0,1,0,0,2,1
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,88,44,44,10,7,10,17,12,11,28,24,21,17,25
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Email,2,2,0,0,0,0,2,0,0,0,0,2,0,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Magazines,2,2,0,0,0,0,2,0,0,0,0,2,0,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Community radio,2,0,2,2,2,0,0,0,0,0,0,2,0,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,“Red-top tabloids” such as The Sun or Mirror ( online ),2,0,2,0,0,0,0,0,2,0,2,0,0,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Facebook messenger,2,2,0,0,0,0,2,0,0,0,0,2,0,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Family and friends directly,2,1,1,1,0,0,1,0,0,0,1,0,0,1
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Search engine (e.g. Google),2,1,1,0,0,0,0,0,0,2,0,0,2,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,Unspecified social media,2,2,1,1,1,1,0,0,0,0,1,1,1,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,“Broadsheets” such as The Times or Guardian ( online ),2,2,,0,0,0,2,,0,0,0,2,0,0
+2020-05-29,2020-05-31,source_of_claims_about_about_injecting_disinfectant_as_true,“Mid-market tabloids” such as MailOnline or Express ( online ),2,1,1,0,0,1,0,0,1,0,0,1,1,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Broadcasters,23,12,11,1,1,0,1,5,7,10,6,5,4,8
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,STV,1,0,1,0,0,0,0,0,1,0,0,0,0,1
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,59,30,29,5,5,4,12,10,9,18,18,18,11,12
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Unspecified social media,1,0,1,0,0,0,1,0,0,0,1,0,0,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,“Red-top tabloids” such as The Sun or Mirror ( online ),1,1,0,0,0,0,0,1,0,0,0,0,1,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Direct from Local health service website/ email/ text/ post,1,0,1,0,0,0,0,0,1,0,0,0,0,1
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,“Mid-market tabloids” such as MailOnline or Express ( online ),1,0,1,0,0,1,0,0,0,0,1,0,0,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,“Broadsheets” such as The Times or Guardian ( online ),1,0,1,0,0,1,0,0,0,0,1,0,0,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Other,8,2,6,0,0,1,1,0,1,5,1,3,1,3
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Non-BBC broadcasters,10,6,4,0,0,0,0,3,2,5,4,1,2,3
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Facebook (Facebook and Facebook Messenger),15,11,5,4,4,2,6,2,1,1,2,6,5,3
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Newspapers (printed and online),4,3,2,0,0,1,1,2,1,0,3,0,1,1
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Officials,4,3,1,0,0,0,2,0,2,0,2,2,0,1
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Social Media,22,14,8,4,4,3,8,4,2,2,6,6,5,4
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,59,30,29,5,5,4,12,10,9,18,18,18,11,12
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: WhatsApp (WhatsApp and WhatsApp groups),1,1,1,0,0,1,1,0,0,0,0,1,1,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Closed groups,1,1,1,0,0,1,1,0,0,0,0,1,1,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Other online news sources,10,7,3,0,0,0,4,3,1,3,2,3,3,2
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Family/friends/ local ppl,2,1,1,0,0,0,0,0,0,2,2,0,0,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Traditional media,26,13,13,1,1,1,2,5,8,10,9,5,4,8
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,WhatsApp,1,0,1,0,0,1,0,0,0,0,0,0,1,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: BBC services,20,11,9,1,1,0,1,4,6,8,4,5,4,7
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,“Broadsheets” such as The Times or Guardian,1,1,0,0,0,0,1,0,0,0,1,0,0,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,“Mid-market tabloids” such as The Daily Mail or Daily Express ( printed ),1,0,1,0,0,0,0,0,1,0,1,0,0,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - Online/ app,7,4,4,1,1,0,1,2,3,0,3,1,3,1
 2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Unweighted base,60,28,32,3,3,6,15,11,9,16,20,16,13,11
 2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,59,30,29,5,5,4,12,10,9,18,18,18,11,12
 2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Facebook,15,11,5,4,4,2,6,2,1,1,2,6,5,3
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - TV,14,7,6,-,-,-,-,2,3,8,1,4,1,7
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Websites or apps that bring together news from different news providers,8,5,2,-,-,-,3,3,1,1,2,2,3,1
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - Online/ app,7,4,4,1,1,-,1,2,3,-,3,1,3,1
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Twitter,6,4,2,-,-,1,1,2,1,1,3,1,-,2
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,ITV,5,3,2,-,-,-,-,3,-,3,2,-,1,2
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Search engine (e.g. Google),5,3,1,1,1,-,1,2,2,-,2,2,-,1
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,"Websites/apps of online news organisations like Buzzfeed, Huffington Post, Vice, etc.",4,3,1,-,-,-,1,1,-,3,1,2,-,1
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Sky,3,3,1,-,-,-,-,1,1,2,2,1,1,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Instagram,2,2,1,-,-,1,1,-,-,1,2,-,-,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Family and friends directly,2,1,1,-,-,-,-,-,-,2,2,-,-,-
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - TV,14,7,6,0,0,0,0,2,3,8,1,4,1,7
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Websites or apps that bring together news from different news providers,8,5,2,0,0,0,3,3,1,1,2,2,3,1
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Official scientists,1,1,0,0,0,0,1,0,0,0,1,0,0,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Twitter,6,4,2,0,0,1,1,2,1,1,3,1,0,2
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,ITV,5,3,2,0,0,0,0,3,0,3,2,0,1,2
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Search engine (e.g. Google),5,3,1,1,1,0,1,2,2,0,2,2,0,1
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Sky,3,3,1,0,0,0,0,1,1,2,2,1,1,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,"Websites/apps of online news organisations like Buzzfeed, Huffington Post, Vice, etc.",4,3,1,0,0,0,1,1,0,3,1,2,0,1
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Family and friends directly,2,1,1,0,0,0,0,0,0,2,2,0,0,0
 2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,59,30,29,5,5,4,12,10,9,18,18,18,11,12
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,“Red-top tabloids” such as The Sun or Daily Mirror ( printed ),2,2,-,-,-,-,-,2,-,-,-,-,1,1
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Direct from NHS website/ email/ text/ post,2,2,-,-,-,-,-,-,2,-,-,2,-,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Direct from UK Government website/ email/ text/ post,2,2,-,-,-,-,-,-,2,-,-,2,-,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - Radio,2,2,-,-,-,-,-,-,2,-,-,2,-,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,WhatsApp group(s),1,1,1,-,-,1,1,-,-,-,-,1,1,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Direct from Local council website/ email/ text/ post,1,1,1,-,-,-,1,-,1,-,1,-,-,1
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Commercial Radio,1,1,1,-,-,1,1,-,-,-,1,-,-,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,“Mid-market tabloids” such as The Daily Mail or Daily Express ( printed ),1,-,1,-,-,-,-,-,1,-,1,-,-,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Official scientists,1,1,-,-,-,-,1,-,-,-,1,-,-,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,“Broadsheets” such as The Times or Guardian,1,1,-,-,-,-,1,-,-,-,1,-,-,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,WhatsApp,1,-,1,-,-,1,-,-,-,-,-,-,1,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,STV,1,-,1,-,-,-,-,-,1,-,-,-,-,1
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,59,30,29,5,5,4,12,10,9,18,18,18,11,12
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Unspecified social media,1,-,1,-,-,-,1,-,-,-,1,-,-,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,“Red-top tabloids” such as The Sun or Mirror ( online ),1,1,-,-,-,-,-,1,-,-,-,-,1,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Direct from Local health service website/ email/ text/ post,1,-,1,-,-,-,-,-,1,-,-,-,-,1
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,“Mid-market tabloids” such as MailOnline or Express ( online ),1,-,1,-,-,1,-,-,-,-,1,-,-,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,“Broadsheets” such as The Times or Guardian ( online ),1,-,1,-,-,1,-,-,-,-,1,-,-,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Other,8,2,6,-,-,1,1,-,1,5,1,3,1,3
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Broadcasters,23,12,11,1,1,-,1,5,7,10,6,5,4,8
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Non-BBC broadcasters,10,6,4,-,-,-,-,3,2,5,4,1,2,3
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: BBC services,20,11,9,1,1,-,1,4,6,8,4,5,4,7
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Newspapers (printed and online),4,3,2,-,-,1,1,2,1,-,3,-,1,1
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Officials,4,3,1,-,-,-,2,-,2,-,2,2,-,1
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Social Media,22,14,8,4,4,3,8,4,2,2,6,6,5,4
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,59,30,29,5,5,4,12,10,9,18,18,18,11,12
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Facebook (Facebook and Facebook Messenger),15,11,5,4,4,2,6,2,1,1,2,6,5,3
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: WhatsApp (WhatsApp and WhatsApp groups),1,1,1,-,-,1,1,-,-,-,-,1,1,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Closed groups,1,1,1,-,-,1,1,-,-,-,-,1,1,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Other online news sources,10,7,3,-,-,-,4,3,1,3,2,3,3,2
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Family/friends/ local ppl,2,1,1,-,-,-,-,-,-,2,2,-,-,-
-2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Traditional media,26,13,13,1,1,1,2,5,8,10,9,5,4,8
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,“Red-top tabloids” such as The Sun or Daily Mirror ( printed ),2,2,0,0,0,0,0,2,0,0,0,0,1,1
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Direct from NHS website/ email/ text/ post,2,2,0,0,0,0,0,0,2,0,0,2,0,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Direct from UK Government website/ email/ text/ post,2,2,0,0,0,0,0,0,2,0,0,2,0,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - Radio,2,2,0,0,0,0,0,0,2,0,0,2,0,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,WhatsApp group(s),1,1,1,0,0,1,1,0,0,0,0,1,1,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Direct from Local council website/ email/ text/ post,1,1,1,0,0,0,1,0,1,0,1,0,0,1
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Commercial Radio,1,1,1,0,0,1,1,0,0,0,1,0,0,0
+2020-06-05,2020-06-07,source_of_claims_about_about_injecting_disinfectant_as_true,Instagram,2,2,1,0,0,1,1,0,0,1,2,0,0,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Direct from UK Government website/ email/ text/ post,1,0,1,0,0,0,0,0,0,1,0,0,1,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Channel 4,,,0,0,0,0,0,0,0,,0,0,0,
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Advertising,1,1,0,0,0,1,0,0,0,0,1,0,0,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,WhatsApp group(s),1,1,0,0,0,1,0,0,0,0,0,1,0,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Traditional media,26,18,8,0,0,6,8,1,2,8,5,3,8,9
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,“Red-top tabloids” such as The Sun or Mirror ( online ),1,1,0,0,0,0,0,1,0,0,0,0,0,1
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Direct from Local council website/ email/ text/ post,1,0,1,0,0,0,0,0,0,1,1,0,0,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Family and friends directly,1,1,1,0,0,1,0,0,0,1,0,1,1,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,ITV Wales,,,0,0,0,0,0,0,,0,0,0,0,
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Celebrity and/or social media influencer,1,0,1,1,1,0,0,0,0,0,0,0,0,1
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Other,3,,3,0,0,2,0,0,0,1,1,,1,1
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Other online news sources,7,6,1,0,0,2,0,1,3,2,1,1,3,3
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,45,27,18,3,3,12,13,2,3,12,9,9,12,14
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Non-BBC broadcasters,11,5,6,0,0,0,4,0,2,5,2,1,0,8
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: BBC services,12,7,5,0,0,4,4,0,0,4,3,1,5,3
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Newspapers (printed and online),11,7,4,0,0,3,4,1,0,3,1,3,3,4
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Officials,2,0,2,0,0,0,0,0,0,2,1,0,1,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Social Media,18,11,7,3,3,3,7,2,1,2,2,6,4,5
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Facebook (Facebook and Facebook Messenger),13,8,5,2,2,2,6,1,,2,2,2,3,5
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: WhatsApp (WhatsApp and WhatsApp groups),2,1,1,0,0,1,1,0,0,0,0,2,0,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Closed groups,1,1,0,0,0,1,0,0,0,0,0,1,0,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,"Non-mainstream news sources such as Russia Today, Breitbart, Swawkbox etc",1,1,1,0,0,1,0,0,0,1,1,0,1,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Family/friends/ local ppl,1,1,1,0,0,1,0,0,0,1,0,1,1,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Broadcasters,19,11,8,0,0,4,6,0,2,7,5,1,5,8
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,45,27,18,3,3,12,13,2,3,12,9,9,12,14
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,"Smart speaker (e.g. Amazon Echo, Google Home)",4,4,0,0,0,3,0,0,0,1,3,0,1,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Community radio,2,2,0,0,0,2,0,0,0,0,0,2,0,0
 2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Unweighted base,47,27,20,4,4,13,11,2,3,14,10,11,11,15
 2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,45,27,18,3,3,12,13,2,3,12,9,9,12,14
 2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Facebook,13,8,5,2,2,2,6,1,,2,2,2,3,5
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - TV,10,5,5,-,-,2,4,-,-,4,1,1,5,3
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Sky,7,4,3,-,-,-,2,-,2,3,2,-,-,5
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Twitter,6,6,-,2,2,1,2,1,1,-,-,3,3,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,ITV,5,1,4,-,-,-,2,-,-,3,1,1,-,3
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,“Mid-market tabloids” such as MailOnline or Express ( online ),5,4,1,-,-,3,-,1,-,1,-,3,-,2
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,“Red-top tabloids” such as The Sun or Daily Mirror ( printed ),4,3,1,-,-,-,2,-,-,2,1,-,3,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,“Mid-market tabloids” such as The Daily Mail or Daily Express ( printed ),4,2,2,-,-,-,4,-,-,-,-,-,2,2
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,“Broadsheets” such as The Times or Guardian ( online ),4,4,-,-,-,1,2,1,-,-,-,1,2,1
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,"Websites/apps of online news organisations like Buzzfeed, Huffington Post, Vice, etc.",4,4,1,-,-,1,-,-,3,1,-,1,2,2
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - TV,10,5,5,0,0,2,4,0,0,4,1,1,5,3
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Sky,7,4,3,0,0,0,2,0,2,3,2,0,0,5
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Twitter,6,6,0,2,2,1,2,1,1,0,0,3,3,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,ITV,5,1,4,0,0,0,2,0,0,3,1,1,0,3
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,“Mid-market tabloids” such as MailOnline or Express ( online ),5,4,1,0,0,3,0,1,0,1,0,3,0,2
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,“Red-top tabloids” such as The Sun or Daily Mirror ( printed ),4,3,1,0,0,0,2,0,0,2,1,0,3,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,“Mid-market tabloids” such as The Daily Mail or Daily Express ( printed ),4,2,2,0,0,0,4,0,0,0,0,0,2,2
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,“Broadsheets” such as The Times or Guardian ( online ),4,4,0,0,0,1,2,1,0,0,0,1,2,1
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,"Websites/apps of online news organisations like Buzzfeed, Huffington Post, Vice, etc.",4,4,1,0,0,1,0,0,3,1,0,1,2,2
 2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,45,27,18,3,3,12,13,2,3,12,9,9,12,14
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Websites or apps that bring together news from different news providers,4,4,-,-,-,2,-,1,-,1,1,1,1,1
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,"Smart speaker (e.g. Amazon Echo, Google Home)",4,4,-,-,-,3,-,-,-,1,3,-,1,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - Radio,3,3,-,-,-,2,-,-,-,1,2,-,1,
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Search engine (e.g. Google),3,3,-,2,2,1,-,-,-,1,-,3,-,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,YouTube,3,1,2,-,-,1,-,-,-,1,1,1,1,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Instagram,2,2,-,-,-,-,2,-,-,-,-,-,2,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,“Broadsheets” such as The Times or Guardian,2,2,-,-,-,-,2,-,-,-,-,-,2,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Commercial Radio,2,2,-,-,-,-,2,-,-,-,-,-,2,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Channel 5,2,,2,-,-,-,2,-,-,,-,-,-,2
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Email,2,1,1,-,-,1,-,-,-,1,2,-,-,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Unspecified social media,2,1,1,1,1,1,-,-,-,-,-,2,-,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Community radio,2,2,-,-,-,2,-,-,-,-,-,2,-,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,WhatsApp,2,1,1,-,-,1,1,-,-,-,-,2,-,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,45,27,18,3,3,12,13,2,3,12,9,9,12,14
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,"Non-mainstream news sources such as Russia Today, Breitbart, Swawkbox etc",1,1,1,-,-,1,-,-,-,1,1,-,1,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Family and friends directly,1,1,1,-,-,1,-,-,-,1,-,1,1,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Direct from Local council website/ email/ text/ post,1,-,1,-,-,-,-,-,-,1,1,-,-,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,“Red-top tabloids” such as The Sun or Mirror ( online ),1,1,-,-,-,-,-,1,-,-,-,-,-,1
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Celebrity and/or social media influencer,1,-,1,1,1,-,-,-,-,-,-,-,-,1
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,WhatsApp group(s),1,1,-,-,-,1,-,-,-,-,-,1,-,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Direct from UK Government website/ email/ text/ post,1,-,1,-,-,-,-,-,-,1,-,-,1,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Advertising,1,1,-,-,-,1,-,-,-,-,1,-,-,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Channel 4,,,-,-,-,-,-,-,-,,-,-,-,
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,ITV Wales,,,-,-,-,-,-,-,,-,-,-,-,
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Other,3,,3,-,-,2,-,-,-,1,1,,1,1
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Broadcasters,19,11,8,-,-,4,6,-,2,7,5,1,5,8
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Weighted base,45,27,18,3,3,12,13,2,3,12,9,9,12,14
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Non-BBC broadcasters,11,5,6,-,-,-,4,-,2,5,2,1,-,8
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: BBC services,12,7,5,-,-,4,4,-,-,4,3,1,5,3
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Newspapers (printed and online),11,7,4,-,-,3,4,1,-,3,1,3,3,4
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Officials,2,-,2,-,-,-,-,-,-,2,1,-,1,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Social Media,18,11,7,3,3,3,7,2,1,2,2,6,4,5
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Facebook (Facebook and Facebook Messenger),13,8,5,2,2,2,6,1,,2,2,2,3,5
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: WhatsApp (WhatsApp and WhatsApp groups),2,1,1,-,-,1,1,-,-,-,-,2,-,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Closed groups,1,1,-,-,-,1,-,-,-,-,-,1,-,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Other online news sources,7,6,1,-,-,2,-,1,3,2,1,1,3,3
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Family/friends/ local ppl,1,1,1,-,-,1,-,-,-,1,-,1,1,-
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,NET: Traditional media,26,18,8,-,-,6,8,1,2,8,5,3,8,9
-2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Can't remember,1,1,-,-,-,-,-,-,-,1,1,-,-,-
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Websites or apps that bring together news from different news providers,4,4,0,0,0,2,0,1,0,1,1,1,1,1
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,BBC - Radio,3,3,0,0,0,2,0,0,0,1,2,0,1,
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Search engine (e.g. Google),3,3,0,2,2,1,0,0,0,1,0,3,0,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,YouTube,3,1,2,0,0,1,0,0,0,1,1,1,1,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Instagram,2,2,0,0,0,0,2,0,0,0,0,0,2,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,“Broadsheets” such as The Times or Guardian,2,2,0,0,0,0,2,0,0,0,0,0,2,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Commercial Radio,2,2,0,0,0,0,2,0,0,0,0,0,2,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Channel 5,2,,2,0,0,0,2,0,0,,0,0,0,2
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Email,2,1,1,0,0,1,0,0,0,1,2,0,0,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Unspecified social media,2,1,1,1,1,1,0,0,0,0,0,2,0,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,WhatsApp,2,1,1,0,0,1,1,0,0,0,0,2,0,0
+2020-06-12,2020-06-15,source_of_claims_about_about_injecting_disinfectant_as_true,Can't remember,1,1,0,0,0,0,0,0,0,1,1,0,0,0
