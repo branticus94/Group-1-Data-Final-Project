@@ -1,0 +1,266 @@
+start_date,end_date,question,response,total,male,female,16-24,class_upper_and_middle,class_lower_middle,class_skilled_working,class_working_class_lowest_grade,scotland,north_east,north_west,yorkshire_&_humberside,west_midlands,east_midlands,wales,eastern,london,south_east,south_west,northern_ireland,net:_england
+2020-04-09,2020-04-13,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,983,459.0,524,175,294,240,196,253,,,,,,,,,,,,,
+2020-04-09,2020-04-13,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,988,472.0,516,195,281,278,189,240,,,,,,,,,,,,,
+2020-04-09,2020-04-13,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",490,231.0,260,99,144,124,83,139,,,,,,,,,,,,,
+2020-04-09,2020-04-13,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",283,134.0,149,56,89,89,55,50,,,,,,,,,,,,,
+2020-04-09,2020-04-13,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,64,30.0,34,14,15,21,15,13,,,,,,,,,,,,,
+2020-04-09,2020-04-13,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,39,18.0,22,11,11,11,12,5,,,,,,,,,,,,,
+2020-04-09,2020-04-13,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",19,7.0,12,4,4,9,3,3,,,,,,,,,,,,,
+2020-04-09,2020-04-13,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",19,14.0,5,4,4,3,4,7,,,,,,,,,,,,,
+2020-04-09,2020-04-13,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,9,5.0,5,1,1,4,3,1,,,,,,,,,,,,,
+2020-04-09,2020-04-13,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,4,2.0,2,-,1,2,-,1,,,,,,,,,,,,,
+2020-04-09,2020-04-13,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,60,33.0,27,5,12,15,13,19,,,,,,,,,,,,,
+2020-09-11,2020-09-13,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,914,427.0,487,143,273,259,177,205,85,42,99,76,86,74,54,62,119,108,76,33,742.0
+2020-09-11,2020-09-13,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,918,428.0,490,161,267,263,168,220,79,40,112,79,88,70,51,63,118,110,74,34,754.0
+2020-09-11,2020-09-13,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",437,191.0,247,85,129,130,73,105,47,22,53,42,39,31,23,23,63,53,28,15,352.0
+2020-09-11,2020-09-13,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",242,102.0,140,40,77,73,38,55,12,11,29,22,27,18,16,16,35,22,24,10,204.0
+2020-09-11,2020-09-13,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,70,34.0,36,10,18,18,16,18,6,1,14,5,6,6,8,4,4,12,2,3,53.0
+2020-09-11,2020-09-13,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,45,24.0,21,7,13,10,13,9,7,-,5,4,7,2,-,2,7,5,4,2,36.0
+2020-09-11,2020-09-13,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",31,24.0,7,6,10,8,5,8,-,2,-,1,2,4,1,6,4,5,6,1,29.0
+2020-09-11,2020-09-13,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,16,8.0,7,3,5,1,4,6,2,1,3,-,-,2,1,4,,1,1,-,13.0
+2020-09-11,2020-09-13,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",15,11.0,4,1,5,2,5,3,1,2,2,1,1,2,-,-,-,2,4,1,13.0
+2020-09-11,2020-09-13,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,7,5.0,3,-,2,2,2,1,1,-,1,1,1,-,-,-,1,2,-,1,6.0
+2020-09-11,2020-09-13,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,56,30.0,26,9,10,18,13,15,4,1,5,5,6,5,2,8,4,9,5,1,48.0
+2020-04-17,2020-04-19,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,953,443.0,510,183,296,277,143,237,,,,,,,,,,,,,
+2020-04-17,2020-04-19,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,957,426.0,531,184,287,258,198,214,,,,,,,,,,,,,
+2020-04-17,2020-04-19,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",462,181.0,282,109,135,129,106,92,,,,,,,,,,,,,
+2020-04-17,2020-04-19,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",283,133.0,150,38,82,74,52,76,,,,,,,,,,,,,
+2020-04-17,2020-04-19,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,57,24.0,33,11,14,17,9,16,,,,,,,,,,,,,
+2020-04-17,2020-04-19,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",36,15.0,21,10,18,6,3,9,,,,,,,,,,,,,
+2020-04-17,2020-04-19,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,27,19.0,8,5,9,5,8,4,,,,,,,,,,,,,
+2020-04-17,2020-04-19,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,15,7.0,8,1,4,4,5,2,,,,,,,,,,,,,
+2020-04-17,2020-04-19,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",10,7.0,2,-,3,5,1,1,,,,,,,,,,,,,
+2020-04-17,2020-04-19,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,8,5.0,3,1,4,3,1,-,,,,,,,,,,,,,
+2020-04-17,2020-04-19,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,59,35.0,24,10,18,16,11,14,,,,,,,,,,,,,
+2020-05-15,2020-05-17,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,949,450.0,499,160,289,251,199,210,,,,,,,,,,,,,
+2020-05-15,2020-05-17,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,952,450.0,502,184,278,262,213,198,,,,,,,,,,,,,
+2020-05-15,2020-05-17,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",455,194.0,261,97,131,132,97,95,,,,,,,,,,,,,
+2020-05-15,2020-05-17,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",267,134.0,133,50,91,59,66,51,,,,,,,,,,,,,
+2020-05-15,2020-05-17,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,62,27.0,35,12,14,19,15,14,,,,,,,,,,,,,
+2020-05-15,2020-05-17,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,37,26.0,10,5,11,7,9,9,,,,,,,,,,,,,
+2020-05-15,2020-05-17,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",25,19.0,6,3,6,7,5,7,,,,,,,,,,,,,
+2020-05-15,2020-05-17,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",18,11.0,7,3,4,7,4,3,,,,,,,,,,,,,
+2020-05-15,2020-05-17,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,17,8.0,9,5,5,7,,4,,,,,,,,,,,,,
+2020-05-15,2020-05-17,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,3,2.0,1,-,1,-,1,1,,,,,,,,,,,,,
+2020-05-15,2020-05-17,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,69,29.0,40,9,14,24,16,14,,,,,,,,,,,,,
+2020-05-29,2020-05-31,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,934,452.0,482,159,255,264,203,212,,,,,,,,,,,,,
+2020-05-29,2020-05-31,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,943,470.0,473,179,270,263,191,218,,,,,,,,,,,,,
+2020-05-29,2020-05-31,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",428,196.0,232,84,107,117,90,114,,,,,,,,,,,,,
+2020-05-29,2020-05-31,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",263,142.0,121,52,87,73,60,43,,,,,,,,,,,,,
+2020-05-29,2020-05-31,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,59,29.0,30,14,16,17,11,14,,,,,,,,,,,,,
+2020-05-29,2020-05-31,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,40,20.0,20,9,12,12,7,10,,,,,,,,,,,,,
+2020-05-29,2020-05-31,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",32,20.0,11,5,8,12,6,6,,,,,,,,,,,,,
+2020-05-29,2020-05-31,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",25,14.0,11,4,6,10,2,8,,,,,,,,,,,,,
+2020-05-29,2020-05-31,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,15,6.0,8,4,4,6,2,4,,,,,,,,,,,,,
+2020-05-29,2020-05-31,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,14,11.0,3,-,4,1,6,2,,,,,,,,,,,,,
+2020-05-29,2020-05-31,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,68,31.0,36,7,27,16,8,17,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,960,467.0,493,144,294,246,194,226,104,33,123,75,62,73,45,101,123,113,79,29,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,965,467.0,498,151,285,264,198,217,97,36,116,84,72,68,41,90,112,141,81,29,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",473,212.0,261,86,139,125,95,114,52,18,54,44,41,36,16,45,44,78,36,10,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",263,129.0,134,42,88,76,50,49,23,11,31,19,16,16,19,28,38,28,23,13,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,58,26.0,32,2,15,16,13,14,5,1,8,1,6,-,1,4,9,15,7,2,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,24,16.0,8,2,9,4,7,4,1,3,4,-,1,2,-,4,4,2,3,-,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,20,12.0,9,1,3,5,6,7,2,1,3,-,-,2,-,2,-,7,2,1,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",20,9.0,11,4,8,6,2,3,2,1,4,3,-,2,-,,4,-,2,-,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",15,12.0,3,1,1,6,3,5,1,-,2,1,-,2,4,-,5,2,-,-,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,9,7.0,2,1,5,4,1,-,-,-,2,1,2,1,-,1,1,-,1,-,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,82,45.0,38,12,17,22,23,20,11,1,8,17,7,9,1,5,6,9,6,2,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,960,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,965,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",473,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",263,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,58,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,24,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,20,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",20,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",15,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,9,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,82,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,960,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,965,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",473,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",263,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,58,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,24,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,20,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",20,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",15,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,9,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-05-22,2020-05-24,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,82,45.0,38,12,17,22,23,20,,,,,,,,,,,,,
+2020-04-03,2020-04-05,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,983,484.0,499,191,262,269,224,228,,,,,,,,,,,,,
+2020-04-03,2020-04-05,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,993,474.0,518,211,299,267,216,210,,,,,,,,,,,,,
+2020-04-03,2020-04-05,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",498,229.0,269,125,130,144,120,103,,,,,,,,,,,,,
+2020-04-03,2020-04-05,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",262,125.0,137,48,83,72,49,58,,,,,,,,,,,,,
+2020-04-03,2020-04-05,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,61,25.0,36,11,22,17,10,13,,,,,,,,,,,,,
+2020-04-03,2020-04-05,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,43,20.0,23,9,17,7,8,11,,,,,,,,,,,,,
+2020-04-03,2020-04-05,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",27,20.0,6,6,12,9,4,2,,,,,,,,,,,,,
+2020-04-03,2020-04-05,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",17,14.0,3,2,7,2,2,7,,,,,,,,,,,,,
+2020-04-03,2020-04-05,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,9,6.0,3,2,3,3,2,1,,,,,,,,,,,,,
+2020-04-03,2020-04-05,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,4,3.0,1,-,3,-,-,1,,,,,,,,,,,,,
+2020-04-03,2020-04-05,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,73,33.0,40,8,23,14,21,15,,,,,,,,,,,,,
+2020-05-07,2020-05-10,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,953,463.0,490,177,345,264,151,193,,,,,,,,,,,,,
+2020-05-07,2020-05-10,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,958,462.0,496,183,289,274,177,219,,,,,,,,,,,,,
+2020-05-07,2020-05-10,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",475,201.0,274,107,133,121,95,126,,,,,,,,,,,,,
+2020-05-07,2020-05-10,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",267,138.0,129,40,82,97,49,39,,,,,,,,,,,,,
+2020-05-07,2020-05-10,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,51,27.0,24,6,17,10,4,20,,,,,,,,,,,,,
+2020-05-07,2020-05-10,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,33,22.0,11,3,13,10,5,6,,,,,,,,,,,,,
+2020-05-07,2020-05-10,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",18,12.0,6,6,9,2,5,3,,,,,,,,,,,,,
+2020-05-07,2020-05-10,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,13,6.0,7,4,5,3,3,1,,,,,,,,,,,,,
+2020-05-07,2020-05-10,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",13,11.0,2,3,3,5,1,5,,,,,,,,,,,,,
+2020-05-07,2020-05-10,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,10,7.0,3,1,2,1,1,6,,,,,,,,,,,,,
+2020-05-07,2020-05-10,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,79,37.0,41,12,26,26,15,12,,,,,,,,,,,,,
+2020-04-24,2020-04-26,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,826,401.0,425,151,218,260,143,205,,,,,,,,,,,,,
+2020-04-24,2020-04-26,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,846,418.0,428,162,237,256,164,189,,,,,,,,,,,,,
+2020-04-24,2020-04-26,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",422,188.0,233,94,113,127,91,91,,,,,,,,,,,,,
+2020-04-24,2020-04-26,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",227,117.0,110,41,75,82,29,41,,,,,,,,,,,,,
+2020-04-24,2020-04-26,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,46,27.0,19,10,15,17,8,7,,,,,,,,,,,,,
+2020-04-24,2020-04-26,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,31,24.0,7,2,7,5,15,3,,,,,,,,,,,,,
+2020-04-24,2020-04-26,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",20,10.0,10,3,7,4,2,7,,,,,,,,,,,,,
+2020-04-24,2020-04-26,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",12,10.0,2,-,3,3,1,5,,,,,,,,,,,,,
+2020-04-24,2020-04-26,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,8,7.0,1,2,3,2,2,1,,,,,,,,,,,,,
+2020-04-24,2020-04-26,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,6,2.0,4,2,1,-,1,4,,,,,,,,,,,,,
+2020-04-24,2020-04-26,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,74,32.0,42,9,13,16,15,29,,,,,,,,,,,,,
+2020-04-24,2020-04-26,most_important_type_of_news/information_from_social_media_or_search_engines,Don't know,680,325.0,355,138,198,215,123,144,,,,,,,,,,,,,
+2021-04-05,2021-04-11,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,868,464.0,404,154,261,240,157,210,87,27,89,67,74,65,50,67,138,112,59,33,698.0
+2021-04-05,2021-04-11,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,882,459.0,422,162,254,254,175,199,81,30,102,72,73,70,44,69,131,119,65,25,732.0
+2021-04-05,2021-04-11,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",447,219.0,229,86,123,137,76,111,44,8,48,41,35,34,27,35,62,66,32,16,360.0
+2021-04-05,2021-04-11,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",229,129.0,100,44,72,65,51,41,23,9,20,17,21,20,9,16,35,36,21,3,194.0
+2021-04-05,2021-04-11,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,46,24.0,22,5,14,11,11,11,,2,6,2,4,4,1,4,9,10,3,-,44.0
+2021-04-05,2021-04-11,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,37,24.0,13,4,12,5,15,6,1,2,10,2,4,2,1,6,5,2,1,2,33.0
+2021-04-05,2021-04-11,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",19,10.0,10,5,5,6,5,3,1,1,5,2,-,1,-,2,6,-,-,1,17.0
+2021-04-05,2021-04-11,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox, Infowars, Rebel Media etc",19,12.0,7,5,8,5,3,3,-,3,2,1,4,2,2,-,6,-,-,-,17.0
+2021-04-05,2021-04-11,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,19,9.0,10,3,6,7,2,4,5,3,1,-,-,1,-,1,2,2,3,2,12.0
+2021-04-05,2021-04-11,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,7,6.0,1,2,1,,3,3,-,2,-,1,1,1,,-,-,-,1,-,7.0
+2021-04-05,2021-04-11,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,58,28.0,31,8,13,19,9,17,7,2,10,7,3,5,3,5,6,5,5,2,47.0
+2020-06-05,2020-06-07,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,996,475.0,521,147,296,295,192,213,,,,,,,,,,,,,
+2020-06-05,2020-06-07,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,986,483.0,503,195,276,287,193,230,,,,,,,,,,,,,
+2020-06-05,2020-06-07,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",471,223.0,248,107,130,128,94,120,,,,,,,,,,,,,
+2020-06-05,2020-06-07,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",290,151.0,139,58,86,94,46,64,,,,,,,,,,,,,
+2020-06-05,2020-06-07,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,60,29.0,31,12,18,19,16,7,,,,,,,,,,,,,
+2020-06-05,2020-06-07,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,38,20.0,18,4,12,15,8,3,,,,,,,,,,,,,
+2020-06-05,2020-06-07,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,26,12.0,14,5,10,5,1,10,,,,,,,,,,,,,
+2020-06-05,2020-06-07,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",18,13.0,4,1,6,3,3,6,,,,,,,,,,,,,
+2020-06-05,2020-06-07,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",14,5.0,9,3,1,8,1,3,,,,,,,,,,,,,
+2020-06-05,2020-06-07,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,8,6.0,2,1,1,2,3,2,,,,,,,,,,,,,
+2020-06-05,2020-06-07,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,61,24.0,38,5,11,13,21,15,,,,,,,,,,,,,
+2021-03-12,2021-03-14,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,890,412.0,478,165,274,235,171,210,68,40,87,71,86,63,43,78,133,113,70,38,741.0
+2021-03-12,2021-03-14,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,893,429.0,464,180,261,261,167,205,68,42,97,75,83,64,42,79,126,114,73,31,752.0
+2021-03-12,2021-03-14,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",459,207.0,252,96,148,129,81,101,33,23,47,36,45,29,18,42,70,61,41,15,394.0
+2021-03-12,2021-03-14,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",208,99.0,109,37,60,65,38,44,22,8,12,17,21,16,14,16,27,25,19,12,159.0
+2021-03-12,2021-03-14,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,50,22.0,28,11,15,12,7,17,2,-,7,5,4,5,2,4,8,8,4,1,45.0
+2021-03-12,2021-03-14,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,48,33.0,15,8,12,13,14,9,1,4,7,4,3,3,5,5,7,10,,-,42.0
+2021-03-12,2021-03-14,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",23,15.0,8,8,4,5,11,3,3,-,3,2,4,3,-,-,3,2,3,-,20.0
+2021-03-12,2021-03-14,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,13,6.0,7,1,3,4,2,3,-,2,4,1,-,1,,1,2,1,-,1,12.0
+2021-03-12,2021-03-14,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox, Infowars, Rebel Media etc",12,4.0,8,2,3,2,1,6,2,2,3,2,1,1,-,-,1,-,1,-,10.0
+2021-03-12,2021-03-14,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,4,3.0,1,1,-,4,-,-,2,-,-,1,-,-,-,-,2,-,-,-,3.0
+2021-03-12,2021-03-14,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,76,40.0,36,15,16,27,13,21,4,4,14,8,5,7,3,11,6,7,5,2,67.0
+2020-05-01,2020-05-03,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,965,441.0,524,168,322,277,155,211,,,,,,,,,,,,,
+2020-05-01,2020-05-03,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,983,460.0,523,189,283,267,208,225,,,,,,,,,,,,,
+2020-05-01,2020-05-03,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",467,207.0,260,103,130,113,106,117,,,,,,,,,,,,,
+2020-05-01,2020-05-03,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",297,145.0,151,51,93,90,61,53,,,,,,,,,,,,,
+2020-05-01,2020-05-03,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,58,23.0,35,6,19,16,12,11,,,,,,,,,,,,,
+2020-05-01,2020-05-03,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,39,23.0,16,9,12,14,7,6,,,,,,,,,,,,,
+2020-05-01,2020-05-03,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",18,12.0,6,4,4,5,2,7,,,,,,,,,,,,,
+2020-05-01,2020-05-03,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",17,7.0,11,6,7,5,3,3,,,,,,,,,,,,,
+2020-05-01,2020-05-03,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,14,7.0,8,1,4,3,2,5,,,,,,,,,,,,,
+2020-05-01,2020-05-03,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,9,5.0,3,2,1,3,4,-,,,,,,,,,,,,,
+2020-05-01,2020-05-03,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,64,31.0,33,9,12,20,9,23,,,,,,,,,,,,,
+2020-05-01,2020-05-03,most_important_type_of_news/information_from_social_media_or_search_engines,Don't know,799,372.0,428,164,234,212,173,180,,,,,,,,,,,,,
+2020-11-06,2020-11-08,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,854,417.0,437,150,272,245,150,187,89,37,99,63,58,60,40,80,136,116,52,24,701.0
+2020-11-06,2020-11-08,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,863,418.0,445,170,236,257,169,201,88,38,107,69,64,53,42,80,124,115,59,25,709.0
+2020-11-06,2020-11-08,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",396,171.0,225,80,99,119,86,93,51,14,47,29,30,22,20,35,49,58,32,7,317.0
+2020-11-06,2020-11-08,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",216,104.0,112,43,75,59,35,46,20,10,24,22,9,10,9,24,43,21,17,8,179.0
+2020-11-06,2020-11-08,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,69,30.0,39,10,14,21,18,16,5,4,10,6,4,6,6,5,7,10,3,2,55.0
+2020-11-06,2020-11-08,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,47,26.0,20,12,12,18,6,12,8,1,5,3,5,3,1,4,7,7,1,1,36.0
+2020-11-06,2020-11-08,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",22,10.0,12,6,11,1,3,7,,-,2,-,-,4,1,-,8,5,2,-,21.0
+2020-11-06,2020-11-08,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,22,16.0,5,4,4,9,2,7,1,2,2,1,2,2,2,2,2,5,1,1,18.0
+2020-11-06,2020-11-08,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",16,12.0,3,2,3,8,3,3,-,-,4,1,6,-,-,-,2,1,-,2,14.0
+2020-11-06,2020-11-08,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,10,8.0,2,3,2,2,4,3,1,-,1,2,1,1,1,1,-,2,1,-,9.0
+2020-11-06,2020-11-08,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,66,39.0,27,10,17,21,14,14,2,6,11,5,6,6,1,10,7,7,3,3,60.0
+2020-06-12,2020-06-15,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,933,466.0,467,184,278,271,154,230,,,,,,,,,,,,,
+2020-06-12,2020-06-15,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,941,465.0,475,193,275,275,175,215,,,,,,,,,,,,,
+2020-06-12,2020-06-15,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",461,216.0,244,99,138,124,94,104,,,,,,,,,,,,,
+2020-06-12,2020-06-15,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",230,109.0,121,53,74,63,39,54,,,,,,,,,,,,,
+2020-06-12,2020-06-15,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,70,28.0,42,7,27,17,15,10,,,,,,,,,,,,,
+2020-06-12,2020-06-15,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,47,31.0,16,10,10,19,9,10,,,,,,,,,,,,,
+2020-06-12,2020-06-15,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",22,13.0,9,6,5,9,2,6,,,,,,,,,,,,,
+2020-06-12,2020-06-15,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,16,10.0,6,2,4,5,2,6,,,,,,,,,,,,,
+2020-06-12,2020-06-15,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",12,11.0,1,1,3,2,4,3,,,,,,,,,,,,,
+2020-06-12,2020-06-15,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,9,8.0,1,1,3,3,1,2,,,,,,,,,,,,,
+2020-06-12,2020-06-15,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,75,41.0,34,14,12,33,9,21,,,,,,,,,,,,,
+2020-03-27,2020-03-29,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,1236,557.0,679,14,444,355,166,271,,,,,,,,,,,,,
+2020-03-27,2020-03-29,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,1228,545.0,683,14,339,361,241,287,,,,,,,,,,,,,
+2020-03-27,2020-03-29,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",667,280.0,387,14,183,193,137,154,,,,,,,,,,,,,
+2020-03-27,2020-03-29,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",349,158.0,190,14,106,100,61,82,,,,,,,,,,,,,
+2020-03-27,2020-03-29,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,75,31.0,44,14,15,32,14,15,,,,,,,,,,,,,
+2020-03-27,2020-03-29,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,48,27.0,21,14,10,11,9,18,,,,,,,,,,,,,
+2020-03-27,2020-03-29,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",15,12.0,3,14,5,1,4,6,,,,,,,,,,,,,
+2020-03-27,2020-03-29,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,14,8.0,5,14,5,2,3,3,,,,,,,,,,,,,
+2020-03-27,2020-03-29,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,7,2.0,6,14,1,6,-,-,,,,,,,,,,,,,
+2020-03-27,2020-03-29,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,52,25.0,27,14,14,17,13,9,,,,,,,,,,,,,
+2020-12-04,2020-12-06,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,851,446.0,405,157,244,254,163,190,80,29,82,81,82,65,33,75,140,99,55,30,708.0
+2020-12-04,2020-12-06,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,880,436.0,444,168,240,248,209,183,76,29,98,79,80,70,29,78,131,112,69,29,746.0
+2020-12-04,2020-12-06,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",412,189.0,223,83,115,106,101,91,45,12,38,40,41,34,11,36,63,50,31,11,345.0
+2020-12-04,2020-12-06,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",227,127.0,100,43,63,69,51,45,14,12,23,13,20,9,15,21,34,31,29,9,189.0
+2020-12-04,2020-12-06,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,54,27.0,27,9,17,21,9,7,7,1,10,-,6,7,1,5,7,8,-,1,44.0
+2020-12-04,2020-12-06,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,52,24.0,28,8,11,10,17,13,3,1,9,2,3,10,-,3,7,9,1,4,45.0
+2020-12-04,2020-12-06,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",21,17.0,5,8,9,6,3,3,1,2,1,1,1,3,-,4,5,-,3,1,19.0
+2020-12-04,2020-12-06,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",17,10.0,7,5,7,4,1,5,-,-,4,3,-,1,,2,5,1,,1,16.0
+2020-12-04,2020-12-06,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,15,6.0,10,2,2,7,3,4,-,-,3,4,3,2,-,1,2,-,-,,15.0
+2020-12-04,2020-12-06,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,12,6.0,7,1,5,3,1,3,1,1,1,-,4,-,-,-,3,1,2,-,11.0
+2020-12-04,2020-12-06,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,70,31.0,38,10,11,22,23,13,4,1,8,15,3,4,2,7,6,13,4,1,62.0
+2020-06-19,2020-06-21,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,898,458.0,440,167,280,263,155,200,,,,,,,,,,,,,
+2020-06-19,2020-06-21,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,897,446.0,451,172,263,258,189,187,,,,,,,,,,,,,
+2020-06-19,2020-06-21,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",427,201.0,226,106,123,116,94,94,,,,,,,,,,,,,
+2020-06-19,2020-06-21,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",255,143.0,113,37,83,84,46,42,,,,,,,,,,,,,
+2020-06-19,2020-06-21,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,53,24.0,29,6,14,11,14,13,,,,,,,,,,,,,
+2020-06-19,2020-06-21,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,38,24.0,15,4,14,11,8,6,,,,,,,,,,,,,
+2020-06-19,2020-06-21,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",26,10.0,16,9,7,3,9,7,,,,,,,,,,,,,
+2020-06-19,2020-06-21,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",14,11.0,3,1,4,5,2,3,,,,,,,,,,,,,
+2020-06-19,2020-06-21,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,8,4.0,4,1,3,3,3,-,,,,,,,,,,,,,
+2020-06-19,2020-06-21,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,7,5.0,1,-,1,2,1,2,,,,,,,,,,,,,
+2020-06-19,2020-06-21,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,68,24.0,44,8,13,23,13,18,,,,,,,,,,,,,
+2021-01-15,2021-01-17,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,845,410.0,435,159,239,266,133,207,65,38,98,58,60,55,43,62,154,116,71,25,712.0
+2021-01-15,2021-01-17,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,850,426.0,424,170,243,249,158,201,56,37,103,59,64,53,41,72,150,111,77,27,726.0
+2021-01-15,2021-01-17,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",452,237.0,214,95,130,136,91,94,32,21,60,40,26,26,19,31,83,57,38,17,383.0
+2021-01-15,2021-01-17,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",214,105.0,109,47,66,63,35,51,15,4,21,11,14,13,15,23,35,37,23,3,181.0
+2021-01-15,2021-01-17,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,40,11.0,29,4,14,13,7,6,,3,5,1,3,4,4,7,7,2,3,2,34.0
+2021-01-15,2021-01-17,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,28,16.0,13,4,9,10,3,6,1,3,2,1,1,6,1,-,7,1,4,,25.0
+2021-01-15,2021-01-17,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",19,13.0,6,3,5,4,7,3,2,2,2,-,3,-,1,2,7,2,-,-,17.0
+2021-01-15,2021-01-17,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,13,8.0,4,1,1,3,2,7,-,-,2,1,2,-,-,2,2,1,2,-,13.0
+2021-01-15,2021-01-17,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",12,9.0,3,3,3,2,4,3,-,1,-,-,4,-,1,2,3,-,1,1,11.0
+2021-01-15,2021-01-17,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,8,6.0,2,1,1,4,2,2,-,1,-,1,1,2,-,1,1,1,1,-,8.0
+2021-01-15,2021-01-17,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,64,21.0,42,10,14,12,8,29,6,2,9,6,11,1,1,6,4,10,6,3,54.0
+2021-02-12,2021-02-14,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,811,384.0,427,153,256,226,130,199,56,34,85,56,78,53,41,65,141,122,56,24,690.0
+2021-02-12,2021-02-14,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,832,408.0,424,169,251,227,167,187,58,29,100,65,82,50,36,75,126,127,61,23,715.0
+2021-02-12,2021-02-14,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",441,201.0,240,108,139,118,80,104,34,14,51,39,45,28,20,32,75,69,24,11,376.0
+2021-02-12,2021-02-14,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",188,100.0,87,38,53,56,46,33,11,7,20,11,20,11,9,22,27,29,15,6,162.0
+2021-02-12,2021-02-14,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,40,16.0,24,12,11,10,13,7,-,3,6,1,2,3,-,4,7,8,6,1,39.0
+2021-02-12,2021-02-14,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,40,23.0,17,1,9,11,8,12,4,1,7,2,4,1,1,2,2,7,7,1,33.0
+2021-02-12,2021-02-14,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",30,18.0,12,2,14,5,4,7,2,-,3,4,4,-,2,2,6,4,3,,26.0
+2021-02-12,2021-02-14,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox, Infowars, Rebel Media etc",24,12.0,12,1,10,4,4,6,1,-,4,2,2,4,2,5,1,4,2,-,22.0
+2021-02-12,2021-02-14,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,14,11.0,3,2,2,3,5,4,1,2,1,2,2,3,1,1,-,2,,-,12.0
+2021-02-12,2021-02-14,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,7,2.0,4,1,1,4,-,2,-,-,1,1,2,1,-,,1,,-,-,7.0
+2021-02-12,2021-02-14,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,48,23.0,25,5,13,15,8,12,5,2,7,2,2,,2,7,8,4,4,4,38.0
+2020-08-07,2020-08-09,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,787,395.0,392,122,234,194,176,183,,,,,,,,,,,,,
+2020-08-07,2020-08-09,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,787,398.0,389,141,224,201,177,185,,,,,,,,,,,,,
+2020-08-07,2020-08-09,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",367,158.0,209,76,101,91,78,97,,,,,,,,,,,,,
+2020-08-07,2020-08-09,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",202,116.0,85,32,68,54,41,39,,,,,,,,,,,,,
+2020-08-07,2020-08-09,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,41,20.0,21,7,11,11,10,9,,,,,,,,,,,,,
+2020-08-07,2020-08-09,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,31,18.0,13,4,7,9,9,6,,,,,,,,,,,,,
+2020-08-07,2020-08-09,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",25,15.0,10,5,7,7,8,3,,,,,,,,,,,,,
+2020-08-07,2020-08-09,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",20,16.0,4,1,3,7,4,6,,,,,,,,,,,,,
+2020-08-07,2020-08-09,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,12,7.0,5,1,4,1,3,5,,,,,,,,,,,,,
+2020-08-07,2020-08-09,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,8,5.0,3,2,3,2,1,2,,,,,,,,,,,,,
+2020-08-07,2020-08-09,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,81,43.0,38,12,20,20,24,17,,,,,,,,,,,,,
+2020-10-09,2020-10-11,most_important_type_of_news/information_from_social_media_or_search_engines,Unweighted base,867,442.0,425,145,265,246,148,208,80,40,96,74,71,71,44,61,135,102,65,28,715.0
+2020-10-09,2020-10-11,most_important_type_of_news/information_from_social_media_or_search_engines,Weighted base,879,454.0,425,155,251,247,175,206,73,41,92,81,71,68,49,67,139,103,68,27,730.0
+2020-10-09,2020-10-11,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from official sources such as NHS, Government etc",374,180.0,194,84,113,115,69,77,29,17,41,34,28,28,31,25,65,35,31,9,305.0
+2020-10-09,2020-10-11,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from traditional TV or press news sources such as the BBC, Telegraph, The Daily Mail, etc",254,141.0,113,43,63,70,52,69,20,15,23,25,16,21,8,18,39,38,19,11,215.0
+2020-10-09,2020-10-11,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you know,57,29.0,28,6,13,20,12,12,7,3,5,2,7,4,2,8,6,4,5,5,44.0
+2020-10-09,2020-10-11,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you know,35,17.0,18,6,11,9,9,6,5,1,9,4,1,,-,2,5,4,2,1,29.0
+2020-10-09,2020-10-11,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from online news providers like Buzzfeed, Huffington Post, Vice, etc.",34,21.0,13,5,9,9,9,7,2,-,5,3,5,2,-,4,7,5,2,-,32.0
+2020-10-09,2020-10-11,most_important_type_of_news/information_from_social_media_or_search_engines,"Directly from 'Nonmainstream' news sources such as Russia Today, Breitbart, Swawkbox etc",24,12.0,12,2,11,2,4,8,2,-,1,1,2,3,2,1,7,4,2,-,20.0
+2020-10-09,2020-10-11,most_important_type_of_news/information_from_social_media_or_search_engines,Facts forwarded/ posted/ shared from a person you don't know,15,6.0,8,1,3,6,3,2,1,-,1,1,5,1,-,1,1,2,2,1,13.0
+2020-10-09,2020-10-11,most_important_type_of_news/information_from_social_media_or_search_engines,Opinions from a person you don't know,6,6.0,-,-,2,2,2,1,-,-,1,-,-,-,-,2,1,2,-,-,6.0
+2020-10-09,2020-10-11,most_important_type_of_news/information_from_social_media_or_search_engines,None of these,79,41.0,38,7,25,15,15,24,7,5,7,10,7,10,5,6,7,10,5,1,66.0

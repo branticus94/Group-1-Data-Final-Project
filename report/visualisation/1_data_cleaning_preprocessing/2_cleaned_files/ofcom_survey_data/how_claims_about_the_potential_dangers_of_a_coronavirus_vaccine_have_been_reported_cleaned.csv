@@ -1,0 +1,36 @@
+start_date,end_date,question,response,total,male,female,16-24,18-24,25-34,35-44,45-54,55-64,65+,class_upper_and_middle,class_lower_middle,class_skilled_working,class_working_class_lowest_grade
+2020-09-11,2020-09-13,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unweighted base,416,200,216,58,53,71,66,65,63,93,120,117,80,99
+2020-09-11,2020-09-13,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Weighted base,410,199,212,61,55,73,65,62,59,90,114,118,76,103
+2020-09-11,2020-09-13,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a true claim,189,92,97,31,30,39,31,31,25,31,55,52,40,42
+2020-09-11,2020-09-13,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a false claim,93,57,36,23,21,13,12,9,17,19,34,31,16,12
+2020-09-11,2020-09-13,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unclear whether true or false,195,93,103,27,24,26,36,27,31,49,48,56,33,59
+2020-05-29,2020-05-31,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unweighted base,302,130,172,46,41,56,46,54,42,58,83,87,61,71
+2020-05-29,2020-05-31,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Weighted base,300,137,163,50,43,62,43,48,35,62,87,79,61,74
+2020-05-29,2020-05-31,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a true claim,114,54,61,24,22,29,14,13,12,23,38,30,22,25
+2020-05-29,2020-05-31,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a false claim,112,67,45,23,22,24,12,15,17,21,37,35,19,22
+2020-05-29,2020-05-31,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unclear whether true or false,149,56,93,17,13,21,23,34,15,38,34,35,31,49
+2020-06-05,2020-06-07,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unweighted base,289,133,156,48,46,48,69,47,31,46,92,77,57,63
+2020-06-05,2020-06-07,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Weighted base,286,129,157,59,56,49,57,40,30,51,88,73,56,70
+2020-06-05,2020-06-07,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a true claim,116,54,63,26,25,20,28,17,12,13,38,28,24,27
+2020-06-05,2020-06-07,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a false claim,81,48,33,16,16,19,16,8,6,16,31,26,8,15
+2020-06-05,2020-06-07,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unclear whether true or false,142,55,87,23,21,22,26,19,19,32,38,28,34,42
+2020-06-12,2020-06-15,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unweighted base,247,111,136,57,51,48,43,39,29,31,73,78,35,61
+2020-06-12,2020-06-15,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Weighted base,253,112,140,65,58,51,44,38,26,29,76,78,39,59
+2020-06-12,2020-06-15,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a true claim,103,47,55,22,18,22,20,19,9,11,27,35,19,22
+2020-06-12,2020-06-15,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a false claim,77,38,39,26,25,11,10,15,7,9,30,19,10,18
+2020-06-12,2020-06-15,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unclear whether true or false,120,47,73,26,23,26,20,15,15,18,33,34,19,33
+2020-06-19,2020-06-21,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unweighted base,221,115,106,46,43,43,44,22,21,45,75,64,34,48
+2020-06-19,2020-06-21,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Weighted base,220,112,108,47,43,42,43,28,18,41,74,60,39,47
+2020-06-19,2020-06-21,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a true claim,89,43,46,22,20,17,16,12,9,12,27,26,18,18
+2020-06-19,2020-06-21,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a false claim,68,47,22,14,10,11,14,5,4,20,21,20,15,13
+2020-06-19,2020-06-21,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unclear whether true or false,95,44,51,15,15,17,22,15,6,20,30,25,14,25
+2020-08-07,2020-08-09,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unweighted base,309,129,180,41,34,53,53,50,42,70,105,88,52,64
+2020-08-07,2020-08-09,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Weighted base,320,139,181,47,38,56,53,45,48,71,105,95,54,66
+2020-08-07,2020-08-09,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a true claim,113,53,60,21,17,28,17,16,10,21,37,34,18,23
+2020-08-07,2020-08-09,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a false claim,93,46,47,21,17,15,8,7,11,31,38,21,19,15
+2020-08-07,2020-08-09,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unclear whether true or false,166,69,96,15,13,20,33,26,33,40,52,46,29,39
+2020-10-09,2020-10-11,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unweighted base,347,166,181,43,41,71,52,54,57,70,117,89,46,95
+2020-10-09,2020-10-11,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Weighted base,355,180,175,50,48,76,48,52,60,70,118,90,58,89
+2020-10-09,2020-10-11,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a true claim,141,78,63,24,22,31,21,17,22,26,51,42,15,32
+2020-10-09,2020-10-11,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Reported / described as a false claim,92,52,40,20,20,25,9,8,10,20,42,14,13,23
+2020-10-09,2020-10-11,how_claims_about_the_potential_dangers_of_a_coronavirus_vaccine_have_been_reported,Unclear whether true or false,197,94,103,23,23,36,26,34,35,44,54,51,34,58

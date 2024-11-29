@@ -1,0 +1,276 @@
+start_date,end_date,question,response,total,male,female,16-24,class_upper_and_middle,class_lower_middle,class_skilled_working,class_working_class_lowest_grade,scotland,north_east,north_west,yorkshire_&_humberside,west_midlands,east_midlands,wales,eastern,london,south_east,south_west,northern_ireland,net:_england
+2020-04-09,2020-04-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,56,22,34,5,14,16,5,21,,,,,,,,,,,,,
+2020-04-09,2020-04-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,64,28,36,6,14,22,4,24,,,,,,,,,,,,,
+2020-04-09,2020-04-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,56,24,32,6,12,19,4,20,,,,,,,,,,,,,
+2020-04-09,2020-04-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,23,11,12,2,2,8,2,10,,,,,,,,,,,,,
+2020-04-09,2020-04-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,33,13,20,4,10,11,3,10,,,,,,,,,,,,,
+2020-04-09,2020-04-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,8,4,4,-,1,3,-,4,,,,,,,,,,,,,
+2020-04-09,2020-04-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,-,-,-,-,-,-,-,-,,,,,,,,,,,,,
+2020-04-09,2020-04-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,,,,,,,,,,,,,
+2020-04-09,2020-04-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,-,-,-,-,-,-,-,-,,,,,,,,,,,,,
+2020-04-09,2020-04-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,4.23,4.26,4.2,4.3,4.08,4.23,4.42,4.27,,,,,,,,,,,,,
+2020-04-09,2020-04-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.66,0.69,0.65,0.5,0.55,0.68,0.56,0.74,,,,,,,,,,,,,
+2020-09-11,2020-09-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,56,28,28,5,11,11,14,20,56,-,-,-,-,-,-,-,-,-,-,-,-
+2020-09-11,2020-09-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,55,31,24,4,11,10,13,21,55,-,-,-,-,-,-,-,-,-,-,-,-
+2020-09-11,2020-09-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,46,26,20,2,8,9,10,19,46,-,-,-,-,-,-,-,-,-,-,-,-
+2020-09-11,2020-09-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,15,10,5,-,-,5,5,6,15,-,-,-,-,-,-,-,-,-,-,-,-
+2020-09-11,2020-09-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,31,16,15,2,8,4,5,14,31,-,-,-,-,-,-,-,-,-,-,-,-
+2020-09-11,2020-09-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,9,5,4,2,3,1,2,2,9,-,-,-,-,-,-,-,-,-,-,-,-
+2020-09-11,2020-09-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2020-09-11,2020-09-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2020-09-11,2020-09-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2020-09-11,2020-09-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,4.12,4.17,4.05,3.52,3.7,4.3,4.19,4.19,4.12,-,-,-,-,-,-,-,-,-,-,-,-
+2020-09-11,2020-09-13,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.66,0.69,0.62,0.58,0.48,0.74,0.76,0.58,0.66,-,-,-,-,-,-,-,-,-,-,-,-
+2020-04-17,2020-04-19,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,52,23,29,4,13,10,13,16,,,,,,,,,,,,,
+2020-04-17,2020-04-19,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,66,30,36,5,16,10,22,18,,,,,,,,,,,,,
+2020-04-17,2020-04-19,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,50,19,31,5,11,7,18,14,,,,,,,,,,,,,
+2020-04-17,2020-04-19,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,19,6,13,2,4,1,12,2,,,,,,,,,,,,,
+2020-04-17,2020-04-19,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,31,13,18,3,8,6,5,12,,,,,,,,,,,,,
+2020-04-17,2020-04-19,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,13,8,5,-,5,3,1,4,,,,,,,,,,,,,
+2020-04-17,2020-04-19,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,3,3,-,-,-,-,3,-,,,,,,,,,,,,,
+2020-04-17,2020-04-19,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,1,1,-,-,-,1,-,-,,,,,,,,,,,,,
+2020-04-17,2020-04-19,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,3,3,-,-,-,1,3,-,,,,,,,,,,,,,
+2020-04-17,2020-04-19,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.99,3.7,4.23,4.41,3.96,3.56,4.27,3.92,,,,,,,,,,,,,
+2020-04-17,2020-04-19,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.87,0.98,0.68,0.54,0.75,0.92,1.05,0.6,,,,,,,,,,,,,
+2020-05-15,2020-05-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,55,32,23,3,13,17,11,14,,,,,,,,,,,,,
+2020-05-15,2020-05-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,50,30,20,5,12,16,10,11,,,,,,,,,,,,,
+2020-05-15,2020-05-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,41,26,15,5,8,15,9,8,,,,,,,,,,,,,
+2020-05-15,2020-05-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,14,11,4,4,4,2,3,5,,,,,,,,,,,,,
+2020-05-15,2020-05-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,26,15,11,1,5,12,6,3,,,,,,,,,,,,,
+2020-05-15,2020-05-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,8,4,4,-,3,2,1,2,,,,,,,,,,,,,
+2020-05-15,2020-05-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,1,,1,-,,-,-,1,,,,,,,,,,,,,
+2020-05-15,2020-05-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,,,,,,,,,,,,,
+2020-05-15,2020-05-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,1,,1,-,,-,-,1,,,,,,,,,,,,,
+2020-05-15,2020-05-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,4.09,4.21,3.91,4.72,3.94,4.05,4.24,4.18,,,,,,,,,,,,,
+2020-05-15,2020-05-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.73,0.73,0.72,0.5,0.88,0.52,0.62,0.95,,,,,,,,,,,,,
+2020-05-29,2020-05-31,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,60,26,34,6,13,11,14,22,,,,,,,,,,,,,
+2020-05-29,2020-05-31,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,59,27,32,6,13,12,12,22,,,,,,,,,,,,,
+2020-05-29,2020-05-31,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,39,17,21,5,9,8,6,15,,,,,,,,,,,,,
+2020-05-29,2020-05-31,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,16,8,8,3,2,3,2,9,,,,,,,,,,,,,
+2020-05-29,2020-05-31,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,23,10,14,2,7,5,4,7,,,,,,,,,,,,,
+2020-05-29,2020-05-31,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,18,7,11,1,2,4,5,6,,,,,,,,,,,,,
+2020-05-29,2020-05-31,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,2,2,-,-,2,-,1,-,,,,,,,,,,,,,
+2020-05-29,2020-05-31,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,,,,,,,,,,,,,
+2020-05-29,2020-05-31,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,2,2,-,-,2,-,1,-,,,,,,,,,,,,,
+2020-05-29,2020-05-31,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.88,3.84,3.91,4.24,3.71,3.93,3.62,4.1,,,,,,,,,,,,,
+2020-05-29,2020-05-31,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.85,0.96,0.77,0.85,0.87,0.78,0.91,0.85,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,76,38,38,7,25,17,11,23,76,-,-,-,-,-,,-,,-,-,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,67,33,34,6,20,17,9,21,67,-,-,-,-,-,,-,,-,-,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,49,25,24,6,16,11,6,16,49,-,-,-,-,-,,-,,-,-,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,16,7,9,2,5,1,2,8,16,-,-,-,-,-,,-,,-,-,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,33,18,15,4,11,10,4,8,33,-,-,-,-,-,,-,,-,-,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,17,7,10,-,3,6,4,5,17,-,-,-,-,-,,-,,-,-,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,-,,-,-,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,1,1,-,-,1,-,-,-,1,-,-,-,-,-,,-,,-,-,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,1,1,-,-,1,-,-,-,1,-,-,-,-,-,,-,,-,-,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.96,3.93,3.99,4.36,4.01,3.73,3.81,4.15,3.96,-,-,-,-,-,,-,,-,-,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.78,0.81,0.76,0.53,0.9,0.58,0.77,0.8,0.78,-,-,-,-,-,,-,,-,-,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,76,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,67,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,49,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,16,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,33,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,17,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,-,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,1,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,1,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.96,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.78,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,76,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,67,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,49,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,16,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,33,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,17,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,-,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,1,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,1,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.96,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-05-22,2020-05-24,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.78,0.81,0.76,0.53,0.9,0.58,0.77,0.8,,,,,,,,,,,,,
+2020-04-03,2020-04-05,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,75,35,40,5,16,25,17,17,,,,,,,,,,,,,
+2020-04-03,2020-04-05,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,70,32,38,5,18,24,14,15,,,,,,,,,,,,,
+2020-04-03,2020-04-05,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,54,24,30,5,13,17,12,12,,,,,,,,,,,,,
+2020-04-03,2020-04-05,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,22,11,11,2,2,8,6,5,,,,,,,,,,,,,
+2020-04-03,2020-04-05,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,32,13,19,3,11,9,6,7,,,,,,,,,,,,,
+2020-04-03,2020-04-05,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,12,5,7,-,1,5,3,3,,,,,,,,,,,,,
+2020-04-03,2020-04-05,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,3,2,1,-,1,1,,-,,,,,,,,,,,,,
+2020-04-03,2020-04-05,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,2,2,-,-,2,-,-,-,,,,,,,,,,,,,
+2020-04-03,2020-04-05,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,5,3,1,-,3,1,,-,,,,,,,,,,,,,
+2020-04-03,2020-04-05,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.99,3.93,4.05,4.39,3.65,4.04,4.16,4.15,,,,,,,,,,,,,
+2020-04-03,2020-04-05,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.93,1.08,0.78,0.55,1.12,0.9,0.85,0.74,,,,,,,,,,,,,
+2020-05-07,2020-05-10,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,53,22,31,3,18,17,2,16,,,,,,,,,,,,,
+2020-05-07,2020-05-10,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,57,23,34,3,14,20,2,20,,,,,,,,,,,,,
+2020-05-07,2020-05-10,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,37,14,23,3,9,14,2,12,,,,,,,,,,,,,
+2020-05-07,2020-05-10,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,7,3,4,1,1,2,1,3,,,,,,,,,,,,,
+2020-05-07,2020-05-10,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,30,11,19,1,8,12,1,8,,,,,,,,,,,,,
+2020-05-07,2020-05-10,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,19,9,10,-,5,6,-,7,,,,,,,,,,,,,
+2020-05-07,2020-05-10,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,1,-,1,-,-,-,-,1,,,,,,,,,,,,,
+2020-05-07,2020-05-10,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,,,,,,,,,,,,,
+2020-05-07,2020-05-10,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,1,-,1,-,-,-,-,1,,,,,,,,,,,,,
+2020-05-07,2020-05-10,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.75,3.73,3.75,4.5,3.68,3.78,4.43,3.67,,,,,,,,,,,,,
+2020-05-07,2020-05-10,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.7,0.7,0.72,0.63,0.58,0.63,0.65,0.84,,,,,,,,,,,,,
+2020-04-24,2020-04-26,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,43,23,20,1,2,14,5,22,,,,,,,,,,,,,
+2020-04-24,2020-04-26,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,49,26,23,1,2,15,11,21,,,,,,,,,,,,,
+2020-04-24,2020-04-26,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,39,21,18,1,2,13,7,16,,,,,,,,,,,,,
+2020-04-24,2020-04-26,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,20,11,9,1,-,7,7,6,,,,,,,,,,,,,
+2020-04-24,2020-04-26,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,19,10,9,-,2,7,-,11,,,,,,,,,,,,,
+2020-04-24,2020-04-26,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,9,5,4,-,-,2,3,4,,,,,,,,,,,,,
+2020-04-24,2020-04-26,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,1,-,1,-,-,-,-,1,,,,,,,,,,,,,
+2020-04-24,2020-04-26,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,,,,,,,,,,,,,
+2020-04-24,2020-04-26,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,1,-,1,-,-,-,-,1,,,,,,,,,,,,,
+2020-04-24,2020-04-26,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,4.19,4.24,4.13,5,4,4.31,4.38,4.02,,,,,,,,,,,,,
+2020-04-24,2020-04-26,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.78,0.77,0.82,-,-,0.7,0.97,0.77,,,,,,,,,,,,,
+2021-04-05,2021-04-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,46,21,25,1,7,9,13,17,46,-,-,-,-,-,-,-,-,-,-,-,-
+2021-04-05,2021-04-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,49,24,25,1,9,11,14,16,49,-,-,-,-,-,-,-,-,-,-,-,-
+2021-04-05,2021-04-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,38,19,19,1,7,6,12,13,38,-,-,-,-,-,-,-,-,-,-,-,-
+2021-04-05,2021-04-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,10,6,5,-,-,1,2,7,10,-,-,-,-,-,-,-,-,-,-,-,-
+2021-04-05,2021-04-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,27,13,15,1,7,5,10,6,27,-,-,-,-,-,-,-,-,-,-,-,-
+2021-04-05,2021-04-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,8,4,5,-,1,3,2,2,8,-,-,-,-,-,-,-,-,-,-,-,-
+2021-04-05,2021-04-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,3,2,1,-,1,1,-,1,3,-,-,-,-,-,-,-,-,-,-,-,-
+2021-04-05,2021-04-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2021-04-05,2021-04-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,3,2,1,-,1,1,-,1,3,-,-,-,-,-,-,-,-,-,-,-,-
+2021-04-05,2021-04-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.92,3.93,3.92,4,3.7,3.51,4.03,4.23,3.92,-,-,-,-,-,-,-,-,-,-,-,-
+2021-04-05,2021-04-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.8,0.87,0.74,-,0.7,0.89,0.57,0.86,0.8,-,-,-,-,-,-,-,-,-,-,-,-
+2020-06-05,2020-06-07,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,66,22,44,5,11,20,7,28,,,,,,,,,,,,,
+2020-06-05,2020-06-07,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,66,23,43,8,10,20,6,30,,,,,,,,,,,,,
+2020-06-05,2020-06-07,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,49,18,31,5,8,12,4,26,,,,,,,,,,,,,
+2020-06-05,2020-06-07,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,16,3,12,3,1,4,,10,,,,,,,,,,,,,
+2020-06-05,2020-06-07,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,33,15,19,2,7,8,3,15,,,,,,,,,,,,,
+2020-06-05,2020-06-07,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,14,4,10,2,1,6,2,5,,,,,,,,,,,,,
+2020-06-05,2020-06-07,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,1,1,1,-,1,1,-,-,,,,,,,,,,,,,
+2020-06-05,2020-06-07,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,2,1,1,-,1,1,-,-,,,,,,,,,,,,,
+2020-06-05,2020-06-07,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,3,1,2,-,2,1,-,-,,,,,,,,,,,,,
+2020-06-05,2020-06-07,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.91,3.82,3.96,4.1,3.56,3.74,3.7,4.18,,,,,,,,,,,,,
+2020-06-05,2020-06-07,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.87,0.84,0.9,0.88,1.12,0.96,0.67,0.69,,,,,,,,,,,,,
+2021-03-12,2021-03-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,62,34,28,5,21,15,9,17,62,-,-,-,-,-,-,-,-,-,-,-,-
+2021-03-12,2021-03-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,64,37,28,5,22,16,9,17,64,-,-,-,-,-,-,-,-,-,-,-,-
+2021-03-12,2021-03-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,48,28,20,5,17,11,3,17,48,-,-,-,-,-,-,-,-,-,-,-,-
+2021-03-12,2021-03-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,19,10,9,3,2,8,2,8,19,-,-,-,-,-,-,-,-,-,-,-,-
+2021-03-12,2021-03-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,29,17,12,2,15,3,1,9,29,-,-,-,-,-,-,-,-,-,-,-,-
+2021-03-12,2021-03-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,15,7,7,-,4,5,6,-,15,-,-,-,-,-,-,-,-,-,-,-,-
+2021-03-12,2021-03-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,2,2,-,-,1,-,-,1,2,-,-,-,-,-,-,-,-,-,-,-,-
+2021-03-12,2021-03-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2021-03-12,2021-03-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,2,2,-,-,1,-,-,1,2,-,-,-,-,-,-,-,-,-,-,-,-
+2021-03-12,2021-03-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,4.01,3.98,4.04,4.65,3.82,4.16,3.52,4.35,4.01,-,-,-,-,-,-,-,-,-,-,-,-
+2021-03-12,2021-03-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.8,0.83,0.77,0.53,0.65,0.9,0.82,0.72,0.8,-,-,-,-,-,-,-,-,-,-,-,-
+2020-05-01,2020-05-03,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,68,42,26,10,22,22,10,14,,,,,,,,,,,,,
+2020-05-01,2020-05-03,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,65,42,23,8,18,21,15,11,,,,,,,,,,,,,
+2020-05-01,2020-05-03,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,50,33,18,7,15,12,15,9,,,,,,,,,,,,,
+2020-05-01,2020-05-03,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,16,10,6,1,4,2,5,6,,,,,,,,,,,,,
+2020-05-01,2020-05-03,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,34,23,11,6,12,9,10,3,,,,,,,,,,,,,
+2020-05-01,2020-05-03,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,13,8,5,1,3,8,-,2,,,,,,,,,,,,,
+2020-05-01,2020-05-03,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,1,1,-,1,-,1,-,-,,,,,,,,,,,,,
+2020-05-01,2020-05-03,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,,,,,,,,,,,,,
+2020-05-01,2020-05-03,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,1,1,-,1,-,1,-,-,,,,,,,,,,,,,
+2020-05-01,2020-05-03,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,4.01,3.99,4.04,3.95,4.02,3.59,4.34,4.36,,,,,,,,,,,,,
+2020-05-01,2020-05-03,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.74,0.76,0.73,0.78,0.62,0.79,0.49,0.79,,,,,,,,,,,,,
+2020-11-06,2020-11-08,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,50,25,25,2,12,14,11,13,50,-,-,-,-,-,-,-,-,-,-,-,-
+2020-11-06,2020-11-08,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,50,24,26,3,11,14,11,13,50,-,-,-,-,-,-,-,-,-,-,-,-
+2020-11-06,2020-11-08,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,34,16,18,3,9,9,6,10,34,-,-,-,-,-,-,-,-,-,-,-,-
+2020-11-06,2020-11-08,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,11,3,8,1,3,5,-,2,11,-,-,-,-,-,-,-,-,-,-,-,-
+2020-11-06,2020-11-08,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,23,13,10,1,6,4,6,8,23,-,-,-,-,-,-,-,-,-,-,-,-
+2020-11-06,2020-11-08,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,14,7,7,-,2,5,5,2,14,-,-,-,-,-,-,-,-,-,-,-,-
+2020-11-06,2020-11-08,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,1,-,1,-,-,-,1,1,1,-,-,-,-,-,-,-,-,-,-,-,-
+2020-11-06,2020-11-08,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,,,-,-,-,-,-,,,-,-,-,-,-,-,-,-,-,-,-,-
+2020-11-06,2020-11-08,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,2,,1,-,-,-,1,1,2,-,-,-,-,-,-,-,-,-,-,-,-
+2020-11-06,2020-11-08,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.85,3.75,3.94,4.52,4.07,4.02,3.48,3.79,3.85,-,-,-,-,-,-,-,-,-,-,-,-
+2020-11-06,2020-11-08,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.83,0.75,0.9,0.63,0.73,0.89,0.62,0.96,0.83,-,-,-,-,-,-,-,-,-,-,-,-
+2020-06-12,2020-06-15,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,50,25,25,8,14,14,9,13,,,,,,,,,,,,,
+2020-06-12,2020-06-15,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,54,28,25,9,15,13,10,15,,,,,,,,,,,,,
+2020-06-12,2020-06-15,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,45,25,20,8,13,10,9,13,,,,,,,,,,,,,
+2020-06-12,2020-06-15,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,19,11,8,2,3,4,4,7,,,,,,,,,,,,,
+2020-06-12,2020-06-15,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,26,14,12,6,10,5,5,6,,,,,,,,,,,,,
+2020-06-12,2020-06-15,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,8,3,5,1,2,4,1,2,,,,,,,,,,,,,
+2020-06-12,2020-06-15,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,-,-,-,-,-,-,-,-,,,,,,,,,,,,,
+2020-06-12,2020-06-15,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,,,,,,,,,,,,,
+2020-06-12,2020-06-15,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,-,-,-,-,-,-,-,-,,,,,,,,,,,,,
+2020-06-12,2020-06-15,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,4.19,4.27,4.11,4.14,4.05,4.06,4.32,4.37,,,,,,,,,,,,,
+2020-06-12,2020-06-15,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.69,0.66,0.73,0.59,0.58,0.81,0.7,0.7,,,,,,,,,,,,,
+2021-06-04,2021-06-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,52,25,27,3,17,15,9,11,52,-,-,-,-,-,-,-,-,-,-,-,-
+2021-06-04,2021-06-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,48,23,25,3,14,13,8,12,48,-,-,-,-,-,-,-,-,-,-,-,-
+2021-06-04,2021-06-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,38,20,18,3,13,11,5,9,38,-,-,-,-,-,-,-,-,-,-,-,-
+2021-06-04,2021-06-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,14,8,5,3,5,2,1,6,14,-,-,-,-,-,-,-,-,-,-,-,-
+2021-06-04,2021-06-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,24,12,12,1,9,9,3,3,24,-,-,-,-,-,-,-,-,-,-,-,-
+2021-06-04,2021-06-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,9,3,6,-,1,2,3,3,9,-,-,-,-,-,-,-,-,-,-,-,-
+2021-06-04,2021-06-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,1,-,1,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-
+2021-06-04,2021-06-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2021-06-04,2021-06-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,1,-,1,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-
+2021-06-04,2021-06-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,4.05,4.21,3.89,4.74,4.22,4.02,3.7,4.09,4.05,-,-,-,-,-,-,-,-,-,-,-,-
+2021-06-04,2021-06-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.76,0.69,0.81,0.52,0.62,0.57,0.74,1.06,0.76,-,-,-,-,-,-,-,-,-,-,-,-
+2020-03-27,2020-03-29,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,62,29,33,0.52,17,17,6,22,,,,,,,,,,,,,
+2020-03-27,2020-03-29,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,71,32,39,0.52,13,18,10,30,,,,,,,,,,,,,
+2020-03-27,2020-03-29,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,59,24,35,0.52,10,15,10,24,,,,,,,,,,,,,
+2020-03-27,2020-03-29,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,28,9,19,0.52,2,9,6,11,,,,,,,,,,,,,
+2020-03-27,2020-03-29,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,31,16,16,0.52,8,6,4,13,,,,,,,,,,,,,
+2020-03-27,2020-03-29,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,11,7,4,0.52,3,3,-,5,,,,,,,,,,,,,
+2020-03-27,2020-03-29,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,1,1,-,0.52,-,-,-,1,,,,,,,,,,,,,
+2020-03-27,2020-03-29,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,0.52,-,-,-,-,,,,,,,,,,,,,
+2020-03-27,2020-03-29,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,1,1,-,0.52,-,-,-,1,,,,,,,,,,,,,
+2020-03-27,2020-03-29,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,4.21,4,4.38,0.52,3.91,4.28,4.59,4.16,,,,,,,,,,,,,
+2020-03-27,2020-03-29,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.75,0.79,0.68,0.52,0.6,0.79,0.52,0.82,,,,,,,,,,,,,
+2020-12-04,2020-12-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,59,26,33,6,19,12,13,15,59,-,-,-,-,-,-,-,-,-,-,-,-
+2020-12-04,2020-12-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,59,23,36,8,18,14,14,13,59,-,-,-,-,-,-,-,-,-,-,-,-
+2020-12-04,2020-12-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,44,19,26,4,16,11,9,9,44,-,-,-,-,-,-,-,-,-,-,-,-
+2020-12-04,2020-12-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,16,4,12,4,6,4,5,2,16,-,-,-,-,-,-,-,-,-,-,-,-
+2020-12-04,2020-12-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,28,15,13,-,10,7,5,7,28,-,-,-,-,-,-,-,-,-,-,-,-
+2020-12-04,2020-12-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,13,3,11,3,2,3,5,3,13,-,-,-,-,-,-,-,-,-,-,-,-
+2020-12-04,2020-12-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,1,1,-,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-
+2020-12-04,2020-12-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2020-12-04,2020-12-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,1,1,-,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-
+2020-12-04,2020-12-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,4.01,3.96,4.05,4.12,4.19,4.11,3.97,3.71,4.01,-,-,-,-,-,-,-,-,-,-,-,-
+2020-12-04,2020-12-06,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.76,0.7,0.8,1.07,0.66,0.73,0.85,0.8,0.76,-,-,-,-,-,-,-,-,-,-,-,-
+2020-06-19,2020-06-21,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,65,34,31,1,14,15,14,22,,,,,,,,,,,,,
+2020-06-19,2020-06-21,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,62,29,32,1,12,15,14,20,,,,,,,,,,,,,
+2020-06-19,2020-06-21,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,42,24,18,-,6,13,9,14,,,,,,,,,,,,,
+2020-06-19,2020-06-21,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,19,8,10,-,2,5,4,8,,,,,,,,,,,,,
+2020-06-19,2020-06-21,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,23,15,8,-,5,8,4,6,,,,,,,,,,,,,
+2020-06-19,2020-06-21,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,19,5,14,1,5,2,5,7,,,,,,,,,,,,,
+2020-06-19,2020-06-21,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,-,-,-,-,-,-,-,-,,,,,,,,,,,,,
+2020-06-19,2020-06-21,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,1,1,-,-,-,-,1,-,,,,,,,,,,,,,
+2020-06-19,2020-06-21,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,1,1,-,-,-,-,1,-,,,,,,,,,,,,,
+2020-06-19,2020-06-21,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.95,4.02,3.88,3,3.71,4.17,3.75,4.06,,,,,,,,,,,,,
+2020-06-19,2020-06-21,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.87,0.88,0.88,-,0.75,0.68,1.13,0.87,,,,,,,,,,,,,
+2021-01-15,2021-01-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,55,27,28,8,13,21,6,15,55,-,-,-,-,-,-,-,-,-,-,-,-
+2021-01-15,2021-01-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,51,27,24,9,12,18,6,15,51,-,-,-,-,-,-,-,-,-,-,-,-
+2021-01-15,2021-01-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,40,19,21,6,10,14,4,13,40,-,-,-,-,-,-,-,-,-,-,-,-
+2021-01-15,2021-01-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,17,8,9,1,3,5,1,8,17,-,-,-,-,-,-,-,-,-,-,-,-
+2021-01-15,2021-01-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,23,11,12,5,7,8,3,5,23,-,-,-,-,-,-,-,-,-,-,-,-
+2021-01-15,2021-01-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,10,6,4,3,3,4,1,2,10,-,-,-,-,-,-,-,-,-,-,-,-
+2021-01-15,2021-01-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,1,1,-,-,-,-,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+2021-01-15,2021-01-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2021-01-15,2021-01-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,1,1,-,-,-,-,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+2021-01-15,2021-01-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,4.09,3.98,4.21,3.73,4.03,4.04,3.59,4.41,4.09,-,-,-,-,-,-,-,-,-,-,-,-
+2021-01-15,2021-01-17,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.78,0.85,0.71,0.61,0.71,0.75,1.03,0.73,0.78,-,-,-,-,-,-,-,-,-,-,-,-
+2021-02-12,2021-02-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,57,23,34,4,10,18,9,20,57,-,-,-,-,-,-,-,-,-,-,-,-
+2021-02-12,2021-02-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,54,21,33,6,8,18,10,18,54,-,-,-,-,-,-,-,-,-,-,-,-
+2021-02-12,2021-02-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,43,17,25,6,8,15,6,14,43,-,-,-,-,-,-,-,-,-,-,-,-
+2021-02-12,2021-02-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,15,6,9,2,1,7,2,6,15,-,-,-,-,-,-,-,-,-,-,-,-
+2021-02-12,2021-02-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,27,11,16,4,6,8,4,8,27,-,-,-,-,-,-,-,-,-,-,-,-
+2021-02-12,2021-02-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,9,3,6,-,1,3,3,3,9,-,-,-,-,-,-,-,-,-,-,-,-
+2021-02-12,2021-02-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,2,-,2,-,-,-,-,2,2,-,-,-,-,-,-,-,-,-,-,-,-
+2021-02-12,2021-02-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,1,1,-,-,-,-,1,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+2021-02-12,2021-02-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,2,1,2,-,-,-,1,2,2,-,-,-,-,-,-,-,-,-,-,-,-
+2021-02-12,2021-02-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,4.01,4.02,4.01,4.29,4.08,4.22,3.6,4,4.01,-,-,-,-,-,-,-,-,-,-,-,-
+2021-02-12,2021-02-14,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.85,0.91,0.82,0.5,0.54,0.71,1.1,0.92,0.85,-,-,-,-,-,-,-,-,-,-,-,-
+2020-08-07,2020-08-09,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,46,24,22,2,8,11,8,19,,,,,,,,,,,,,
+2020-08-07,2020-08-09,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,48,27,21,3,7,10,9,22,,,,,,,,,,,,,
+2020-08-07,2020-08-09,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,33,17,16,3,4,7,6,16,,,,,,,,,,,,,
+2020-08-07,2020-08-09,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,11,3,8,2,1,4,2,4,,,,,,,,,,,,,
+2020-08-07,2020-08-09,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,23,14,9,1,3,3,4,12,,,,,,,,,,,,,
+2020-08-07,2020-08-09,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,11,8,4,-,1,3,2,5,,,,,,,,,,,,,
+2020-08-07,2020-08-09,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,3,2,1,-,3,-,-,-,,,,,,,,,,,,,
+2020-08-07,2020-08-09,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,1,1,-,-,-,-,1,-,,,,,,,,,,,,,
+2020-08-07,2020-08-09,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,4,3,1,-,3,-,1,-,,,,,,,,,,,,,
+2020-08-07,2020-08-09,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.83,3.61,4.11,4.55,3.24,4.14,3.67,3.95,,,,,,,,,,,,,
+2020-08-07,2020-08-09,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.91,0.9,0.85,0.61,1.13,0.84,1.17,0.67,,,,,,,,,,,,,
+2020-10-09,2020-10-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Unweighted base,65,32,33,2,16,14,12,23,65,-,-,-,-,-,-,-,-,-,-,-,-
+2020-10-09,2020-10-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Weighted base,61,32,29,1,15,14,12,20,61,-,-,-,-,-,-,-,-,-,-,-,-
+2020-10-09,2020-10-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Trust,40,22,18,1,9,12,7,12,40,-,-,-,-,-,-,-,-,-,-,-,-
+2020-10-09,2020-10-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,5 - Trust completely,17,7,10,-,3,3,4,7,17,-,-,-,-,-,-,-,-,-,-,-,-
+2020-10-09,2020-10-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,4,23,16,7,1,6,9,3,5,23,-,-,-,-,-,-,-,-,-,-,-,-
+2020-10-09,2020-10-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,3,18,8,10,1,4,2,5,7,18,-,-,-,-,-,-,-,-,-,-,-,-
+2020-10-09,2020-10-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,2,2,1,1,-,2,-,-,-,2,-,-,-,-,-,-,-,-,-,-,-,-
+2020-10-09,2020-10-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,1 - Do not trust at all,1,1,-,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-
+2020-10-09,2020-10-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,NET: Do not trust,3,2,1,-,2,-,-,1,3,-,-,-,-,-,-,-,-,-,-,-,-
+2020-10-09,2020-10-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Mean,3.87,3.81,3.94,3.59,3.63,4.05,3.87,3.92,3.87,-,-,-,-,-,-,-,-,-,-,-,-
+2020-10-09,2020-10-11,trust_in_the_sources_for_information/news_about_coronavirus_used_in_last_week:_stv,Standard deviation Standard error,0.91,0.89,0.94,-,1,0.62,0.88,1.05,0.91,-,-,-,-,-,-,-,-,-,-,-,-
