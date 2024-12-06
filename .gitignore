@@ -161,5 +161,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
-/report/visualisation/1_data_cleaning_preprocessing/1_api_connectors_and_csv_parsers/1_raw_databases/ukhsa_cases_data/
-/report/visualisation/1_data_cleaning_preprocessing/1_api_connectors_and_csv_parsers/1_raw_databases/ukhsa_vaccine_data/
+/report/visualisation_and_analysis/1_data_cleaning_preprocessing/1_api_connectors_and_csv_parsers/1_raw_databases/ukhsa_cases_data/
+/report/visualisation_and_analysis/1_data_cleaning_preprocessing/1_api_connectors_and_csv_parsers/1_raw_databases/ukhsa_vaccine_data/
