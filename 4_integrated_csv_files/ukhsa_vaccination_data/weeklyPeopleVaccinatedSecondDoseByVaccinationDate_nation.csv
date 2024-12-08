@@ -1,0 +1,37 @@
+date,area_type,area_code,area_name,metric,metric_name,value
+2021-01-03,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,1271.0
+2021-01-03,nation,W92000004,Wales,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,27.0
+2021-01-03,nation,S92000003,Scotland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,44.0
+2021-01-03,nation,E92000001,England,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,20660.0
+2021-01-10,nation,W92000004,Wales,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,83.0
+2021-01-10,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,12678.0
+2021-01-10,nation,E92000001,England,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,386737.0
+2021-01-10,nation,S92000003,Scotland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,2826.0
+2021-01-17,nation,W92000004,Wales,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,118.0
+2021-01-17,nation,S92000003,Scotland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,1145.0
+2021-01-17,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,7067.0
+2021-01-17,nation,E92000001,England,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,40603.0
+2021-01-24,nation,E92000001,England,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,6648.0
+2021-01-24,nation,S92000003,Scotland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,2145.0
+2021-01-24,nation,W92000004,Wales,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,396.0
+2021-01-24,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,1697.0
+2021-01-31,nation,W92000004,Wales,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,410.0
+2021-01-31,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,1899.0
+2021-01-31,nation,S92000003,Scotland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,2575.0
+2021-01-31,nation,E92000001,England,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,8615.0
+2021-02-07,nation,W92000004,Wales,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,1943.0
+2021-02-07,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,2851.0
+2021-02-07,nation,S92000003,Scotland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,3318.0
+2021-02-07,nation,E92000001,England,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,9319.0
+2021-02-14,nation,W92000004,Wales,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,2563.0
+2021-02-14,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,1542.0
+2021-02-14,nation,S92000003,Scotland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,4385.0
+2021-02-14,nation,E92000001,England,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,18170.0
+2021-02-21,nation,W92000004,Wales,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,37433.0
+2021-02-21,nation,S92000003,Scotland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,23345.0
+2021-02-21,nation,E92000001,England,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,22559.0
+2021-02-21,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,1791.0
+2021-02-28,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,2401.0
+2021-02-28,nation,W92000004,Wales,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,60947.0
+2021-02-28,nation,E92000001,England,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,85034.0
+2021-02-28,nation,S92000003,Scotland,weeklyPeopleVaccinatedSecondDoseByVaccinationDate,Weekly people vaccinated 2nd dose by vaccination date,39264.0

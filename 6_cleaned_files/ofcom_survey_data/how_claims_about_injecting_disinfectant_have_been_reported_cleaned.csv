@@ -1,0 +1,16 @@
+start_date,end_date,question,response,total,male,female,16-24,18-24,25-34,35-44,45-54,55-64,65+,class_upper_and_middle,class_lower_middle,class_skilled_working,class_working_class_lowest_grade
+2020-05-29,2020-05-31,how_claims_about_injecting_disinfectant_have_been_reported,Unweighted base,458,221,237,64,53,65,54,82,70,123,106,135,95,122
+2020-05-29,2020-05-31,how_claims_about_injecting_disinfectant_have_been_reported,Weighted base,449,221,229,76,61,65,52,75,60,122,112,129,86,122
+2020-05-29,2020-05-31,how_claims_about_injecting_disinfectant_have_been_reported,Reported / described as a true claim,88,44,44,10,7,10,17,12,11,28,24,21,17,25
+2020-05-29,2020-05-31,how_claims_about_injecting_disinfectant_have_been_reported,Reported / described as a false claim,350,178,172,60,49,43,38,61,51,96,84,110,71,85
+2020-05-29,2020-05-31,how_claims_about_injecting_disinfectant_have_been_reported,Unclear whether true or false,70,25,45,9,8,20,6,11,8,16,20,12,13,25
+2020-06-05,2020-06-07,how_claims_about_injecting_disinfectant_have_been_reported,Unweighted base,361,167,194,54,49,55,84,58,44,66,110,106,68,77
+2020-06-05,2020-06-07,how_claims_about_injecting_disinfectant_have_been_reported,Weighted base,359,166,193,72,65,55,68,52,41,72,105,105,66,82
+2020-06-05,2020-06-07,how_claims_about_injecting_disinfectant_have_been_reported,Reported / described as a true claim,59,30,29,5,5,4,12,10,9,18,18,18,11,12
+2020-06-05,2020-06-07,how_claims_about_injecting_disinfectant_have_been_reported,Reported / described as a false claim,263,124,139,60,53,42,46,35,30,49,82,77,45,59
+2020-06-05,2020-06-07,how_claims_about_injecting_disinfectant_have_been_reported,Unclear whether true or false,76,34,43,8,8,14,18,14,8,15,18,19,17,23
+2020-06-12,2020-06-15,how_claims_about_injecting_disinfectant_have_been_reported,Unweighted base,297,152,145,61,53,63,45,32,36,60,97,81,52,67
+2020-06-12,2020-06-15,how_claims_about_injecting_disinfectant_have_been_reported,Weighted base,297,151,146,65,55,63,47,33,31,58,95,78,58,65
+2020-06-12,2020-06-15,how_claims_about_injecting_disinfectant_have_been_reported,Reported / described as a true claim,45,27,18,3,3,12,13,2,3,12,9,9,12,14
+2020-06-12,2020-06-15,how_claims_about_injecting_disinfectant_have_been_reported,Reported / described as a false claim,212,107,105,52,44,42,24,24,26,44,68,65,39,40
+2020-06-12,2020-06-15,how_claims_about_injecting_disinfectant_have_been_reported,Unclear whether true or false,64,31,33,12,10,18,12,7,4,11,25,11,14,14

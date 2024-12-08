@@ -1,0 +1,448 @@
+start_date,end_date,question,response,total,male,female,16-24,class_upper_and_middle,class_lower_middle,class_skilled_working,class_working_class_lowest_grade,scotland,north_east,north_west,yorkshire_&_humberside,west_midlands,east_midlands,wales,eastern,london,south_east,south_west,northern_ireland,net:_england
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,Unweighted base,2232,1087,1145,0,802,620,311,499,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,Other device,20,10,10,0,10,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,Netbook,44,21,23,0,11,11,12,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),63,29,34,0,20,16,13,14,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,Weighted base,2232,1089,1143,0,609,627,453,542,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",158,90,69,0,49,51,32,26,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),243,96,147,0,85,72,43,42,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,Games console,335,179,156,0,89,97,74,75,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,Desktop PC,678,416,262,0,200,198,127,153,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,TV set,916,464,452,0,259,273,181,203,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1138,554,584,0,331,321,248,238,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,Laptop,1447,733,714,0,426,425,280,316,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,Smartphone,1805,865,940,0,512,519,360,414,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2230,1087,1143,0,608,627,453,541,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",454,234,219,0,131,137,109,77,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,2020-03-29,device_usage_to_connect_to_internet,Weighted base,2232,1089,1143,0,609,627,453,542,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,Unweighted base,2125,1067,1058,274,516,606,460,543,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2112,1030,1082,287,571,597,431,512,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,Smartphone,1687,839,848,268,481,476,351,379,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,Laptop,1316,650,667,215,408,374,253,281,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),990,459,531,112,297,273,213,208,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,TV set,857,417,440,127,242,245,190,180,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,Desktop PC,706,416,290,81,210,187,148,160,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,Don't know,9,6,3,6,6,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",380,202,177,66,144,93,78,64,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),181,80,100,14,56,40,35,49,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",130,69,61,29,52,28,32,18,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,Weighted base,2125,1039,1086,293,578,599,431,517,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),49,27,21,16,19,9,8,13,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,Netbook,31,26,6,7,9,7,4,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,Other device,16,8,8,0,5,5,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,Games console,347,220,127,97,108,92,70,77,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-03,2020-04-05,device_usage_to_connect_to_internet,Weighted base,2125,1039,1086,293,578,599,431,517,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,Unweighted base,2127,1021,1106,267,606,513,453,555,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,Games console,403,246,157,111,115,108,83,97,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,Smartphone,1693,844,848,267,486,479,347,380,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,Laptop,1386,691,695,222,422,395,268,302,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1015,483,532,102,289,275,213,238,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,TV set,923,467,457,129,256,256,214,197,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,Desktop PC,701,430,272,86,211,202,135,153,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",400,217,183,51,135,102,92,72,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2116,1032,1084,292,574,599,430,514,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),195,72,123,24,55,56,36,48,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,Weighted base,2127,1040,1087,294,578,600,432,517,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),62,36,26,17,21,18,15,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,Netbook,42,25,17,6,24,5,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,Other device,14,10,5,0,2,4,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,Don't know,10,7,3,2,4,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",143,85,58,28,53,27,37,27,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-09,2020-04-13,device_usage_to_connect_to_internet,Weighted base,2127,1040,1087,294,578,600,432,517,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,Unweighted base,2136,1106,1030,299,629,639,307,561,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,Don't know,3,2,1,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2128,1040,1088,292,578,601,432,516,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,Smartphone,1711,826,885,275,468,493,354,397,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,Laptop,1375,665,711,234,400,406,265,305,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),967,459,508,134,279,276,187,226,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,TV set,781,366,415,142,230,216,166,169,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,Desktop PC,721,442,280,70,207,203,157,154,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",383,201,182,69,118,104,86,75,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,Weighted base,2136,1045,1091,295,581,602,434,519,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),178,68,110,27,59,45,34,40,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",123,64,59,40,40,34,26,23,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,Weighted base,2136,1045,1091,295,581,602,434,519,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),45,20,25,12,16,8,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,Netbook,43,26,17,8,10,13,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,Other device,19,13,6,0,6,5,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-17,2020-04-19,device_usage_to_connect_to_internet,Games console,355,208,147,86,97,91,85,82,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,Other device,15,12,3,0,6,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,Netbook,40,25,15,5,12,7,7,14,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),52,25,28,16,11,18,15,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,Weighted base,2106,1030,1076,291,573,594,427,512,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",123,76,47,27,41,39,23,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),190,77,113,28,66,63,27,34,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,Games console,381,226,156,108,108,91,85,97,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",393,202,192,67,107,115,86,85,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,Laptop,1348,676,672,239,400,394,269,285,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,TV set,826,413,413,131,232,236,179,180,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1001,472,529,112,282,271,208,240,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,Smartphone,1691,827,863,268,458,484,363,386,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2099,1025,1073,288,570,593,426,509,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,Weighted base,2106,1030,1076,291,573,594,427,512,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,Unweighted base,2106,1041,1065,269,544,621,393,548,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,Desktop PC,648,370,278,85,189,162,150,147,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",2,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-04-24,2020-04-26,device_usage_to_connect_to_internet,Don't know,4,2,2,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,Unweighted base,2150,1042,1108,267,681,626,336,507,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,Weighted base,2150,1051,1099,297,585,606,436,522,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2144,1048,1097,297,584,604,436,519,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,Smartphone,1809,869,940,282,503,501,385,420,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1100,517,583,134,318,306,223,254,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,TV set,908,452,456,145,260,247,186,216,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,Desktop PC,696,436,260,104,209,202,140,145,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,Laptop,1440,723,717,245,430,411,270,329,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",423,220,203,77,133,110,96,85,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,Games console,424,254,170,114,125,107,89,103,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,Other device,17,12,5,3,7,3,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,Netbook,39,29,10,11,13,11,6,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),59,33,26,17,21,16,11,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,Don't know,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",161,86,75,46,61,47,35,19,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),218,97,121,22,81,58,38,41,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-01,2020-05-03,device_usage_to_connect_to_internet,Weighted base,2150,1051,1099,297,585,606,436,522,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,Desktop PC,737,464,272,65,240,195,133,168,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,Weighted base,2127,1040,1087,293,579,600,432,517,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2125,1040,1085,292,578,599,432,517,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,Smartphone,1778,876,903,276,489,512,377,400,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,Laptop,1479,746,733,244,442,421,300,317,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1131,567,564,138,347,302,243,238,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,TV set,1014,515,500,149,297,274,217,226,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,Unweighted base,2127,1045,1082,274,694,595,365,473,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",481,273,208,61,153,129,117,82,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),236,88,149,19,74,71,46,46,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",177,103,73,27,75,51,25,25,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,Weighted base,2127,1040,1087,293,579,600,432,517,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),100,55,44,23,30,31,19,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,Netbook,33,16,18,2,8,9,7,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,Other device,30,20,11,1,10,8,1,11,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,Don't know,2,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-07,2020-05-10,device_usage_to_connect_to_internet,Games console,463,267,196,108,128,116,118,100,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,Unweighted base,2105,1038,1067,258,608,570,407,520,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,Weighted base,2105,1029,1076,290,573,594,427,512,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2101,1028,1074,290,572,592,427,510,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,Smartphone,1753,855,899,279,476,494,376,407,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,Laptop,1425,714,712,231,436,395,284,310,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1055,528,527,111,310,294,222,228,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,TV set,872,433,439,122,257,242,185,187,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",158,98,60,32,58,40,38,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",484,263,220,84,153,130,104,96,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,Games console,427,252,175,109,135,97,105,90,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),222,102,120,25,81,75,33,33,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,Weighted base,2105,1029,1076,290,573,594,427,512,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),87,40,47,22,26,21,19,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,Netbook,43,29,15,1,21,10,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,Other device,21,12,9,1,5,3,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,Desktop PC,672,400,272,84,221,173,120,158,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-15,2020-05-17,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",2,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Laptop,1438,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1095,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Smartphone,1789,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2092,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Weighted base,2093,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Unweighted base,2093,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Don't know,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Other device,19,14,5,0,5,3,3,8,1,0,1,1,1,4,0,1,5,4,1,1,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Netbook,39,25,14,5,14,8,9,8,3,1,2,6,3,3,1,2,10,5,2,1,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Don't know,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Weighted base,2093,1023,1070,289,569,590,425,509,175,83,231,171,183,150,99,197,276,286,179,63,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",169,89,79,28,60,52,31,26,11,9,14,16,15,10,6,21,20,30,13,3,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),244,106,139,32,78,65,47,55,19,14,23,18,27,20,16,20,17,43,20,8,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Games console,430,258,172,113,111,112,94,112,35,19,52,37,42,32,27,31,46,67,35,7,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",464,228,235,74,139,134,103,89,44,14,57,39,42,36,23,51,44,68,32,12,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Desktop PC,693,422,271,92,207,194,132,160,51,23,84,58,53,41,35,71,100,95,72,11,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,TV set,900,440,460,131,250,251,195,205,73,32,110,70,84,62,44,95,111,120,76,24,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1095,502,594,127,332,294,235,235,90,44,119,81,92,81,54,108,141,150,101,35,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Laptop,1438,714,724,244,411,416,290,321,125,48,159,121,128,99,64,131,197,201,121,43,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Smartphone,1789,862,927,281,498,519,359,414,149,69,193,146,148,127,79,175,245,243,158,57,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2092,1023,1068,289,569,590,424,509,175,83,231,171,183,150,99,197,276,285,179,63,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Weighted base,2093,1023,1070,289,569,590,425,509,175,83,231,171,183,150,99,197,276,286,179,63,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Unweighted base,2093,1038,1055,264,585,546,430,532,195,78,247,150,170,165,105,217,289,243,173,61,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,TV set,900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Desktop PC,693,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),72,33,39,30,23,19,10,20,9,4,9,2,6,7,2,8,8,11,5,1,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Games console,430,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Other device,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Netbook,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Weighted base,2093,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Games console,430,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,TV set,900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1095,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Laptop,1438,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Desktop PC,693,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2092,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Weighted base,2093,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Unweighted base,2093,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Don't know,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Other device,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Netbook,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Smartphone,1789,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-22,2020-05-24,device_usage_to_connect_to_internet,Weighted base,2093,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,TV set,899,464,435,119,251,228,208,213,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1031,490,541,119,302,287,223,219,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,Laptop,1428,732,696,243,412,426,281,309,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,Unweighted base,2119,1016,1103,261,554,596,460,509,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2111,1031,1080,289,573,594,430,514,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,Weighted base,2119,1036,1083,292,576,597,430,515,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,Desktop PC,704,416,288,88,219,184,140,161,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,Smartphone,1741,852,889,275,476,503,354,409,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",402,231,171,58,114,117,106,65,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,Don't know,7,5,2,2,3,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),233,100,133,22,70,72,40,51,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",156,83,72,38,46,48,39,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,Weighted base,2119,1036,1083,292,576,597,430,515,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),79,37,42,30,25,21,18,14,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,Netbook,54,30,24,10,16,17,9,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,Other device,20,13,7,0,7,3,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-05-29,2020-05-31,device_usage_to_connect_to_internet,Games console,389,228,161,107,108,113,95,73,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",177,103,75,41,57,48,43,29,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,Weighted base,2126,1040,1086,293,579,599,432,516,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),90,51,39,22,29,24,22,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,Don't know,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,Other device,22,13,9,1,4,4,6,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),273,114,159,29,89,75,59,51,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,Netbook,46,28,18,15,19,9,6,11,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,Games console,452,273,179,109,113,123,100,117,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",499,270,228,93,147,140,112,99,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,Desktop PC,707,452,254,80,233,184,135,155,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,TV set,935,459,476,154,278,250,213,194,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1110,519,591,132,352,289,232,237,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,Laptop,1492,734,758,244,430,451,288,323,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,Smartphone,1793,878,915,277,491,514,390,398,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2125,1038,1086,293,579,598,432,516,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,Weighted base,2126,1040,1086,293,579,599,432,516,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-05,2020-06-07,device_usage_to_connect_to_internet,Unweighted base,2126,1014,1112,222,616,610,426,474,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,Other device,14,6,8,0,3,1,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,Netbook,41,27,14,7,19,6,12,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,Unweighted base,2115,1047,1068,276,606,589,382,538,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,Weighted base,2115,1034,1081,292,575,596,429,514,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2110,1033,1077,292,574,596,429,511,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,Smartphone,1764,852,912,282,485,506,369,404,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,Desktop PC,749,444,305,91,228,206,158,156,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1146,522,624,143,308,331,254,252,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,TV set,890,439,451,130,260,250,191,189,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,Don't know,2,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",487,246,241,92,142,133,121,90,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,Games console,451,291,160,117,119,107,118,108,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),263,110,153,24,86,69,67,42,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",198,105,93,42,73,53,48,24,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,Laptop,1461,713,748,237,428,428,293,312,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,Weighted base,2115,1034,1081,292,575,596,429,514,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-12,2020-06-15,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),93,50,43,30,36,23,22,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,Unweighted base,2164,1113,1051,292,642,610,367,545,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,Weighted base,2164,1058,1106,298,589,610,439,526,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2159,1055,1104,296,589,608,439,524,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,Smartphone,1818,902,916,285,507,519,383,410,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1115,539,577,122,317,301,245,252,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,TV set,925,471,454,146,270,247,202,205,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,Desktop PC,766,445,321,95,235,194,162,176,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,Laptop,1518,757,761,231,449,447,301,321,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,Games console,433,260,173,114,133,114,84,101,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),287,121,166,35,89,81,61,57,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",180,100,80,35,63,53,34,30,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,Weighted base,2164,1058,1106,298,589,610,439,526,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),81,53,29,23,29,23,15,14,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,Netbook,51,31,20,4,20,9,8,14,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,Other device,15,11,4,0,3,5,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-06-19,2020-06-21,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",503,257,246,83,158,128,125,92,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,Laptop,1324,662,661,213,389,383,269,283,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),985,460,525,111,261,285,216,223,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,TV set,854,404,450,115,214,244,191,205,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,Desktop PC,699,403,296,75,222,183,141,153,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",401,195,207,67,129,110,89,74,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,Games console,385,233,152,103,109,94,88,94,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,Unweighted base,2120,1031,1089,252,605,573,429,513,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),70,36,34,27,27,17,11,15,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",165,79,86,37,52,52,34,28,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,Weighted base,2120,1037,1083,292,577,598,430,515,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2110,1032,1079,291,574,595,429,511,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,Netbook,38,22,15,5,11,7,9,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,Other device,12,5,7,3,5,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",2,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,Don't know,6,2,3,2,2,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,Weighted base,2120,1037,1083,292,577,598,430,515,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),192,72,120,16,69,46,32,46,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-08-07,2020-08-09,device_usage_to_connect_to_internet,Smartphone,1671,810,861,262,462,469,349,391,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),61,34,28,20,27,19,4,13,4,3,5,6,4,2,4,7,13,7,5,2,52
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,Other device,14,9,5,2,6,1,2,5,1,0,2,1,2,0,0,2,1,3,1,1,12
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,Netbook,41,34,7,9,16,7,8,10,3,0,7,2,3,3,6,0,9,3,4,1,31
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",189,107,82,48,71,55,37,26,11,12,20,9,12,17,9,14,37,27,18,4,166
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,Weighted base,2098,1026,1072,289,570,592,426,510,175,83,232,171,183,151,100,197,277,287,179,63,1760
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),232,114,117,25,84,64,51,33,16,13,26,23,23,15,13,14,37,25,17,9,193
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",501,283,218,88,153,120,115,112,43,27,61,38,38,35,24,53,61,56,40,24,409
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,Desktop PC,744,457,287,108,215,190,156,184,58,30,76,66,66,57,31,70,99,113,56,22,633
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,TV set,919,475,444,124,277,249,185,208,83,41,113,76,67,55,51,92,115,124,76,27,758
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1103,530,573,147,315,315,217,256,99,44,126,80,94,84,52,98,156,144,89,37,914
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,Smartphone,1754,876,878,266,497,498,343,415,145,70,201,138,153,130,85,153,247,227,150,55,1468
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2092,1022,1071,288,570,592,423,508,175,83,231,169,182,151,98,197,277,287,179,62,1757
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,Weighted base,2098,1026,1072,289,570,592,426,510,175,83,232,171,183,151,100,197,277,287,179,63,1760
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,Unweighted base,2098,1007,1091,261,580,582,460,476,190,87,212,173,181,164,113,190,269,272,182,65,1730
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",2,2,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,Games console,399,259,139,118,134,114,68,83,39,19,37,36,40,21,21,43,56,51,32,5,334
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,Laptop,1403,704,699,237,431,425,265,282,120,55,148,109,124,95,72,128,203,188,127,34,1177
+2020-09-11,2020-09-13,device_usage_to_connect_to_internet,Don't know,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,Don't know,5,2,2,0,,2,2,1,2,1,0,1,1,0,0,0,0,0,0,0,3
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",,0,,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,Unweighted base,2189,1062,1127,268,627,625,385,552,196,87,242,172,200,169,101,199,293,277,187,66,1826
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,Weighted base,2189,1070,1119,302,595,617,444,532,183,87,242,178,191,157,104,206,289,299,187,66,1837
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2180,1065,1115,302,595,615,441,529,179,86,241,177,190,156,104,206,289,299,187,66,1831
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,Laptop,1512,763,749,249,418,443,297,354,119,56,169,121,127,107,77,142,217,204,134,39,1278
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1045,509,536,130,302,286,226,231,82,47,105,93,98,71,54,96,132,142,81,44,865
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,TV set,917,477,440,124,275,230,197,214,74,41,108,80,88,54,51,89,112,109,83,28,764
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,Smartphone,1844,902,942,283,506,520,381,437,149,75,199,151,158,136,91,168,249,241,165,61,1543
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",486,254,232,80,141,125,118,103,41,23,50,37,49,38,24,59,61,54,33,18,403
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,Other device,18,13,5,6,3,3,3,9,0,2,1,1,,1,2,1,1,8,0,0,16
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,Desktop PC,702,438,264,79,245,197,132,128,58,31,65,54,59,41,38,68,102,93,72,21,586
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),86,51,35,21,31,23,12,21,6,2,6,,13,8,5,10,15,9,9,2,73
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",190,112,77,45,60,58,47,25,17,8,21,10,28,10,8,17,38,15,16,4,162
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,Netbook,48,36,13,10,18,9,13,8,2,4,1,0,9,1,3,6,16,3,3,0,44
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),262,118,144,32,98,72,36,55,15,7,27,31,27,18,7,28,30,29,31,12,227
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,Games console,413,264,149,121,111,109,98,95,22,15,47,37,47,21,30,44,58,38,40,13,348
+2020-10-09,2020-10-11,device_usage_to_connect_to_internet,Weighted base,2189,1070,1119,302,595,617,444,532,183,87,242,178,191,157,104,206,289,299,187,66,1837
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1050,500,550,119,291,287,219,253,75,36,119,90,90,82,56,93,135,149,89,37,882
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,Don't know,2,1,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,Unweighted base,2101,1040,1061,258,646,571,407,477,179,82,217,160,173,169,103,204,295,299,158,62,1757
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,Weighted base,2101,1027,1074,290,572,592,426,511,175,84,232,171,183,151,100,198,277,287,179,63,1763
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2094,1022,1072,287,570,588,426,509,175,84,230,170,183,149,99,198,276,287,179,63,1757
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,Smartphone,1729,843,887,266,479,498,352,400,143,74,193,150,147,125,84,145,226,239,150,52,1450
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,Laptop,1404,684,720,222,419,420,249,316,121,49,158,111,116,110,63,125,186,197,128,41,1180
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,TV set,882,433,449,117,252,245,194,190,74,28,115,76,71,67,37,84,110,108,79,33,738
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",4,3,1,2,1,2,0,1,0,0,2,0,0,0,0,0,1,0,0,0,4
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",504,252,253,84,163,149,102,90,40,23,47,54,33,42,30,49,59,70,35,22,412
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,Netbook,52,34,18,7,22,11,7,11,5,2,8,3,7,3,1,3,11,4,1,4,42
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,Other device,16,10,6,1,6,4,3,3,3,0,0,2,2,2,0,1,3,2,0,2,11
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),78,41,37,22,28,13,18,19,7,2,12,6,6,5,4,8,14,10,2,1,65
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,Desktop PC,727,450,278,85,221,200,148,158,54,24,90,57,69,46,26,75,97,100,63,26,621
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,Weighted base,2101,1027,1074,290,572,592,426,511,175,84,232,171,183,151,100,198,277,287,179,63,1763
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),248,113,135,29,76,85,38,49,32,7,24,20,16,18,12,26,39,29,14,11,193
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,Games console,392,242,150,104,102,117,84,89,38,24,39,33,34,29,14,38,50,46,34,13,327
+2020-11-06,2020-11-08,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",201,104,97,46,77,52,41,31,16,8,19,12,16,19,3,21,42,19,25,2,181
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,Games console,437,258,178,103,122,112,94,109,37,18,53,37,52,34,24,36,53,45,38,9,367
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,Don't know,4,3,1,1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,0,0,4
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",5,3,1,0,2,0,1,1,0,0,0,0,1,0,0,0,3,0,0,0,5
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,Other device,14,8,7,4,5,3,,6,2,,1,1,0,0,1,4,2,2,0,0,10
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,Netbook,44,33,10,4,17,7,10,10,2,0,7,5,8,3,2,1,8,4,2,1,38
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),79,38,41,24,31,21,12,16,11,2,8,7,11,2,4,5,16,6,6,2,62
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",202,121,81,54,76,54,43,28,21,3,25,14,18,12,12,19,34,18,22,4,165
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),242,94,148,26,69,80,36,57,25,10,31,19,19,17,6,19,31,32,25,9,202
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",518,249,269,89,138,154,117,109,49,22,60,40,50,42,30,53,61,61,32,19,420
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,Weighted base,2107,1030,1077,291,573,594,428,512,176,84,233,172,184,151,100,198,278,288,180,63,1768
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,TV set,901,436,465,118,237,261,210,192,62,41,113,64,77,65,43,95,108,122,75,34,761
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1042,491,551,119,292,281,234,235,91,36,120,91,92,75,48,98,122,133,101,35,868
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,Laptop,1430,703,727,224,408,407,301,314,127,57,159,99,133,94,60,131,209,198,119,44,1199
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,Smartphone,1736,849,887,271,469,495,358,414,148,65,190,149,156,127,85,159,219,229,151,57,1445
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2098,1024,1074,290,569,594,425,509,176,84,232,172,182,151,100,198,273,287,180,63,1759
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,Weighted base,2107,1030,1077,291,573,594,428,512,176,84,233,172,184,151,100,198,278,288,180,63,1768
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,Unweighted base,2107,1075,1032,272,582,631,352,542,184,89,205,178,201,148,101,206,293,278,153,71,1751
+2020-12-04,2020-12-06,device_usage_to_connect_to_internet,Desktop PC,710,445,265,82,235,199,131,145,53,29,67,68,56,48,40,71,99,100,59,19,599
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2105,1028,1077,288,574,597,423,512,176,84,234,168,182,152,100,198,278,289,181,63,1764
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,Smartphone,1705,829,876,267,472,498,350,385,146,68,191,133,146,121,84,148,230,241,150,50,1426
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,Laptop,1379,689,690,233,394,417,263,305,110,65,153,112,118,89,67,126,195,197,112,35,1168
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1045,482,564,124,310,305,210,221,84,43,119,76,91,69,58,102,136,142,87,38,865
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,TV set,841,435,406,107,223,243,177,197,74,36,93,76,69,54,46,74,92,123,71,32,688
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,Desktop PC,673,394,279,74,197,187,140,149,51,25,75,52,57,48,29,71,101,94,60,11,581
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",494,248,246,80,144,142,98,110,43,26,61,40,49,26,29,47,50,67,37,19,403
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",204,116,87,53,59,70,47,28,16,14,20,16,23,8,11,15,37,17,19,8,169
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),211,92,120,29,66,82,31,33,14,12,18,25,19,17,11,26,24,17,18,10,176
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,Weighted base,2115,1034,1081,292,575,597,429,514,176,84,234,172,185,152,100,199,279,289,181,63,1775
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,Don't know,9,7,2,2,1,0,7,1,0,0,0,5,3,0,0,0,1,0,0,0,9
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,Netbook,48,30,18,6,26,10,8,5,4,2,7,2,8,3,3,4,11,2,1,2,40
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,Other device,19,13,6,1,6,3,6,5,3,1,1,0,3,0,0,1,4,1,4,1,15
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,Weighted base,2115,1034,1081,292,575,597,429,514,176,84,234,172,185,152,100,199,279,289,181,63,1775
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,Games console,389,244,145,90,95,115,95,84,33,25,53,22,39,25,23,25,57,43,35,10,324
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,Unweighted base,2115,1003,1112,261,584,640,359,532,186,88,220,166,174,162,105,182,296,296,177,63,1761
+2021-01-15,2021-01-17,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),76,45,31,13,26,19,16,16,9,3,8,5,7,3,6,7,14,4,7,3,58
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,Don't know,2,2,1,2,0,2,0,0,1,0,0,0,0,0,0,0,2,0,0,0,2
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,Weighted base,2100,1027,1073,290,571,592,426,510,175,84,232,171,183,151,100,198,277,287,179,63,1762
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2096,1024,1072,287,571,590,426,509,174,83,232,171,183,151,98,198,275,287,179,63,1760
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,Smartphone,1774,867,907,277,497,513,360,403,147,75,208,132,157,128,81,156,245,239,150,55,1491
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,Laptop,1468,727,741,238,448,431,295,294,130,52,163,103,134,106,66,136,204,194,130,50,1222
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1067,488,579,149,334,300,202,231,94,44,118,82,99,75,51,100,134,137,92,40,881
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,TV set,960,469,491,146,274,266,205,215,76,37,128,74,85,69,51,93,113,133,70,31,801
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,Unweighted base,2100,1015,1085,267,613,633,319,535,176,86,203,160,183,166,113,193,307,302,145,66,1745
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,Desktop PC,704,413,290,105,205,199,146,154,57,23,61,56,58,58,36,74,108,100,56,17,593
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,Games console,433,247,187,120,113,119,104,97,31,15,64,33,47,25,18,28,66,63,27,16,368
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),231,96,135,33,74,71,51,35,25,7,27,15,20,14,13,23,23,43,15,6,187
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,Weighted base,2100,1027,1073,290,571,592,426,510,175,84,232,171,183,151,100,198,277,287,179,63,1762
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",227,118,110,54,67,70,62,29,10,7,38,18,18,7,9,18,41,31,19,11,197
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),96,49,47,32,31,26,20,20,4,3,18,8,8,4,5,5,19,12,6,4,83
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,Netbook,34,20,14,5,13,15,6,1,0,1,4,5,3,2,3,1,10,3,1,1,31
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,"Smart speaker (e.g. Amazon Echo, Google Home)",512,246,266,116,142,161,108,100,36,17,68,41,40,37,28,42,63,81,40,19,429
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,Other device,19,14,4,0,4,5,3,7,3,0,0,3,1,1,1,5,1,2,2,0,16
+2021-02-12,2021-02-14,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",2,1,1,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,Netbook,40,29,12,9,12,8,12,7,5,2,3,3,7,2,0,3,9,5,0,1,34
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,Unweighted base,2144,1027,1117,266,610,572,441,521,185,82,209,158,200,159,104,209,287,289,183,79,1776
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,Weighted base,2144,1048,1096,296,583,605,435,521,179,85,237,175,187,154,102,202,283,293,183,64,1799
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2143,1048,1095,296,583,605,435,520,179,85,237,175,187,154,102,202,282,293,183,64,1798
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,Smartphone,1812,886,925,280,500,527,366,418,154,74,196,152,157,132,78,165,248,250,151,54,1525
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,Laptop,1460,706,753,243,436,406,295,322,130,49,167,115,121,106,68,137,203,190,122,50,1211
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1138,537,602,123,318,319,234,267,103,49,124,90,106,79,55,104,135,149,102,43,938
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,Other device,8,6,2,,6,1,0,1,1,0,1,0,,0,0,1,0,4,1,0,7
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,TV set,964,485,479,127,264,263,210,227,85,38,120,67,76,77,52,87,100,142,86,33,794
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,"Smart speaker/ display (e.g. Amazon Echo, Google Home)",539,271,268,103,150,146,126,117,47,24,61,41,41,47,27,52,52,63,68,16,449
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,Games console,450,270,180,115,130,110,99,111,32,25,53,39,48,32,22,37,48,59,41,13,383
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",250,124,126,62,76,71,62,40,14,10,33,22,29,12,8,22,41,29,24,4,223
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,Weighted base,2144,1048,1096,296,583,605,435,521,179,85,237,175,187,154,102,202,283,293,183,64,1799
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),238,108,130,32,78,62,44,53,27,9,29,22,21,20,7,28,21,28,17,10,194
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),103,48,55,39,30,37,18,19,6,6,13,15,10,6,3,7,16,10,8,2,92
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,Desktop PC,786,489,297,95,226,238,160,162,78,38,79,70,73,51,34,68,106,108,66,14,660
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021-03-12,2021-03-14,device_usage_to_connect_to_internet,Don't know,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,Don't know,5,5,0,5,,2,0,3,0,0,0,0,,1,0,1,0,0,3,0,5
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,Other device,19,13,6,2,6,4,6,2,0,,2,0,1,2,2,1,5,4,1,0,17
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,Netbook,73,44,29,15,27,20,10,15,3,5,10,9,9,2,2,3,17,9,2,3,65
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),76,45,32,25,24,26,15,11,11,3,6,4,5,3,1,6,9,15,8,4,61
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),257,100,157,34,92,73,43,49,23,3,33,20,20,18,10,24,29,29,29,18,206
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,Weighted base,2121,1037,1084,293,577,598,431,515,177,84,235,173,185,152,101,200,280,290,181,64,1780
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",257,147,111,64,86,72,59,40,19,9,26,16,31,14,7,19,45,43,20,8,223
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,Games console,459,302,157,104,125,130,107,97,42,16,50,36,40,35,22,34,68,54,44,17,377
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,"Smart speaker/ display (e.g. Amazon Echo, Google Home)",553,283,270,101,171,150,121,112,47,17,60,39,50,29,29,56,71,78,53,23,454
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",3,1,1,0,1,,1,0,0,0,0,0,1,0,0,0,,1,0,0,3
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,TV set,945,481,464,135,276,263,205,202,73,35,99,78,88,61,50,103,109,111,102,36,786
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1100,497,602,147,306,318,234,241,76,49,119,99,103,68,62,106,140,138,102,36,925
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,Laptop,1450,725,724,249,429,423,283,315,124,57,169,120,124,110,60,128,213,188,117,41,1225
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,Smartphone,1817,894,923,276,500,534,370,412,154,79,197,153,156,130,92,167,240,235,153,59,1511
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2113,1031,1082,288,575,596,429,513,176,84,235,173,184,151,101,199,279,289,178,64,1772
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,Weighted base,2121,1037,1084,293,577,598,431,515,177,84,235,173,185,152,101,200,280,290,181,64,1780
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,Unweighted base,2121,1075,1046,262,615,578,401,527,184,77,215,161,188,150,131,204,290,276,169,76,1730
+2021-04-05,2021-04-11,device_usage_to_connect_to_internet,Desktop PC,731,455,276,81,230,193,154,155,48,28,74,69,60,42,42,61,109,110,65,23,618
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,Don't know,4,3,1,0,1,1,1,1,0,0,3,1,0,0,0,0,0,0,1,0,4
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,"Not applicable, I do not have access to the internet",1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,Unweighted base,2135,1020,1115,251,627,605,372,531,193,78,207,169,190,165,119,192,303,268,189,62,1761
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,Weighted base,2135,1044,1091,295,581,602,433,519,178,85,236,174,186,153,101,201,282,292,182,64,1792
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,NET: Used device to connect to internet,2131,1040,1090,294,580,601,432,518,178,85,234,173,186,153,101,201,281,292,182,64,1787
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,Smartphone,1788,874,914,260,490,505,372,421,149,71,201,144,162,126,84,157,240,243,156,54,1501
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,Laptop,1415,709,706,208,423,432,269,291,116,51,159,107,131,103,71,129,180,197,125,46,1183
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,Tablet computer (e.g. iPad),1039,496,544,116,329,275,217,218,92,39,115,84,105,73,51,95,127,143,84,31,866
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,Games console,366,223,143,79,100,102,78,87,25,19,42,24,39,28,19,32,56,38,35,9,313
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,Desktop PC,678,429,249,83,206,171,140,162,54,20,74,54,60,49,30,68,90,104,58,18,576
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,"Smart speaker/ display (e.g. Amazon Echo, Google Home)",551,275,276,86,175,144,126,107,48,19,61,47,43,45,25,45,59,89,48,22,456
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,E-reader (e.g. Kindle),234,103,131,33,79,63,50,42,23,9,24,20,26,15,14,25,25,34,15,5,192
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,"Smart watch (e.g. Apple Watch, Pebble, Samsung, Sony)",230,110,120,43,73,69,51,38,19,7,26,13,26,15,9,16,43,40,14,2,200
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,Weighted base,2135,1044,1091,295,581,602,433,519,178,85,236,174,186,153,101,201,282,292,182,64,1792
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,Other portable/ handheld device (e.g. portable games console/ iPod Touch),59,30,28,12,22,17,6,13,9,2,2,3,6,2,4,2,15,7,5,2,44
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,Netbook,36,26,10,6,15,6,4,11,1,2,7,3,1,2,1,6,12,0,1,0,34
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,TV set,885,440,444,98,245,247,190,202,72,43,98,70,83,70,48,80,103,128,71,17,746
+2021-06-04,2021-06-06,device_usage_to_connect_to_internet,Other device,10,3,7,2,4,4,1,2,1,,0,0,,1,0,2,1,3,1,1,8

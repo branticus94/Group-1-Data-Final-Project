@@ -1,0 +1,1045 @@
+date,area_type,area_code,area_name,metric,metric_name,value
+2021-01-11,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1339.0
+2021-01-11,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19312.0
+2021-01-11,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18.0
+2021-01-11,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,99.0
+2021-01-12,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2552.0
+2021-01-12,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,133.0
+2021-01-12,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11.0
+2021-01-12,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13369.0
+2021-01-13,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13.0
+2021-01-13,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8362.0
+2021-01-13,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,200.0
+2021-01-13,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1170.0
+2021-01-14,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,254.0
+2021-01-14,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4854.0
+2021-01-14,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,141.0
+2021-01-14,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8.0
+2021-01-15,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,
+2021-01-15,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,210.0
+2021-01-15,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,181.0
+2021-01-15,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3817.0
+2021-01-16,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1775.0
+2021-01-16,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,145.0
+2021-01-16,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,700.0
+2021-01-16,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,
+2021-01-17,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1284.0
+2021-01-17,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,842.0
+2021-01-17,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,41.0
+2021-01-17,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,72.0
+2021-01-18,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3750.0
+2021-01-18,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,188.0
+2021-01-18,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,64.0
+2021-01-18,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,563.0
+2021-01-19,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,105.0
+2021-01-19,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,284.0
+2021-01-19,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,381.0
+2021-01-19,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2989.0
+2021-01-20,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,26.0
+2021-01-20,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,296.0
+2021-01-20,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2723.0
+2021-01-20,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,366.0
+2021-01-21,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,184.0
+2021-01-21,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19.0
+2021-01-21,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2334.0
+2021-01-21,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,223.0
+2021-01-22,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,499.0
+2021-01-22,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,150.0
+2021-01-22,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,54.0
+2021-01-22,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1118.0
+2021-01-23,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,774.0
+2021-01-23,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,195.0
+2021-01-23,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,47.0
+2021-01-23,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,27.0
+2021-01-24,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,27.0
+2021-01-24,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,26.0
+2021-01-24,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,610.0
+2021-01-24,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,155.0
+2021-01-25,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,38.0
+2021-01-25,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,82.0
+2021-01-25,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,522.0
+2021-01-25,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1326.0
+2021-01-26,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,536.0
+2021-01-26,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1001.0
+2021-01-26,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,115.0
+2021-01-26,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,58.0
+2021-01-27,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,187.0
+2021-01-27,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,35.0
+2021-01-27,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1017.0
+2021-01-27,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1090.0
+2021-01-28,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,312.0
+2021-01-28,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,143.0
+2021-01-28,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,43.0
+2021-01-28,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1271.0
+2021-01-29,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,543.0
+2021-01-29,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,33.0
+2021-01-29,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1526.0
+2021-01-29,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,76.0
+2021-01-30,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10252.0
+2021-01-30,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,177.0
+2021-01-30,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,156.0
+2021-01-30,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,36.0
+2021-01-31,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,289.0
+2021-01-31,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2757.0
+2021-01-31,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,55.0
+2021-01-31,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,55.0
+2021-02-01,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,270.0
+2021-02-01,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1596.0
+2021-02-01,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,225.0
+2021-02-01,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,496.0
+2021-02-02,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,94.0
+2021-02-02,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1386.0
+2021-02-02,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,273.0
+2021-02-02,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,413.0
+2021-02-03,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2282.0
+2021-02-03,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,384.0
+2021-02-03,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,273.0
+2021-02-03,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,56.0
+2021-02-04,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,498.0
+2021-02-04,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2611.0
+2021-02-04,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,419.0
+2021-02-04,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,508.0
+2021-02-05,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,803.0
+2021-02-05,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1941.0
+2021-02-05,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,484.0
+2021-02-05,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,836.0
+2021-02-06,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,676.0
+2021-02-06,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,135.0
+2021-02-06,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,250.0
+2021-02-06,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,601.0
+2021-02-07,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,186.0
+2021-02-07,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,108.0
+2021-02-07,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,312.0
+2021-02-07,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,256.0
+2021-02-08,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,699.0
+2021-02-08,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1419.0
+2021-02-08,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1567.0
+2021-02-08,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,126.0
+2021-02-09,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2173.0
+2021-02-09,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,609.0
+2021-02-09,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,196.0
+2021-02-09,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,183.0
+2021-02-10,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,108.0
+2021-02-10,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,329.0
+2021-02-10,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4092.0
+2021-02-10,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,365.0
+2021-02-11,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4646.0
+2021-02-11,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,215.0
+2021-02-11,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,415.0
+2021-02-11,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,371.0
+2021-02-12,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,443.0
+2021-02-12,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3733.0
+2021-02-12,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,214.0
+2021-02-12,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,385.0
+2021-02-13,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,39.0
+2021-02-13,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,272.0
+2021-02-13,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,349.0
+2021-02-13,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2186.0
+2021-02-14,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,220.0
+2021-02-14,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,29.0
+2021-02-14,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,829.0
+2021-02-14,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,837.0
+2021-02-15,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,196.0
+2021-02-15,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1854.0
+2021-02-15,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1849.0
+2021-02-15,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2636.0
+2021-02-16,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,275.0
+2021-02-16,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5737.0
+2021-02-16,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3272.0
+2021-02-16,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3128.0
+2021-02-17,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6354.0
+2021-02-17,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3760.0
+2021-02-17,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4497.0
+2021-02-17,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,536.0
+2021-02-18,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4846.0
+2021-02-18,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4561.0
+2021-02-18,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6091.0
+2021-02-18,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,369.0
+2021-02-19,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,372.0
+2021-02-19,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6569.0
+2021-02-19,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4458.0
+2021-02-19,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3895.0
+2021-02-20,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5771.0
+2021-02-20,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,54.0
+2021-02-20,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2432.0
+2021-02-20,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2006.0
+2021-02-21,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1863.0
+2021-02-21,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4979.0
+2021-02-21,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2346.0
+2021-02-21,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,0.0
+2021-02-22,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,281.0
+2021-02-22,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6977.0
+2021-02-22,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5861.0
+2021-02-22,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5344.0
+2021-02-23,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9581.0
+2021-02-23,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,268.0
+2021-02-23,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6918.0
+2021-02-23,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9550.0
+2021-02-24,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10572.0
+2021-02-24,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,292.0
+2021-02-24,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14209.0
+2021-02-24,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6540.0
+2021-02-25,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8679.0
+2021-02-25,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,261.0
+2021-02-25,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16168.0
+2021-02-25,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10211.0
+2021-02-26,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6838.0
+2021-02-26,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,718.0
+2021-02-26,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16226.0
+2021-02-26,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8991.0
+2021-02-27,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,49.0
+2021-02-27,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4334.0
+2021-02-27,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7355.0
+2021-02-27,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15584.0
+2021-02-28,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,532.0
+2021-02-28,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9388.0
+2021-02-28,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7411.0
+2021-02-28,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2353.0
+2021-03-01,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7897.0
+2021-03-01,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12632.0
+2021-03-01,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2173.0
+2021-03-01,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5580.0
+2021-03-02,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2492.0
+2021-03-02,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,27652.0
+2021-03-02,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13065.0
+2021-03-02,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8105.0
+2021-03-03,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2277.0
+2021-03-03,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,44001.0
+2021-03-03,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7508.0
+2021-03-03,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14664.0
+2021-03-04,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1648.0
+2021-03-04,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8139.0
+2021-03-04,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,45045.0
+2021-03-04,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15374.0
+2021-03-05,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,309.0
+2021-03-05,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13344.0
+2021-03-05,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5884.0
+2021-03-05,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,37235.0
+2021-03-06,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1849.0
+2021-03-06,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21688.0
+2021-03-06,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,134.0
+2021-03-06,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7891.0
+2021-03-07,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7685.0
+2021-03-07,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2802.0
+2021-03-07,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9133.0
+2021-03-07,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,621.0
+2021-03-08,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1743.0
+2021-03-08,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8291.0
+2021-03-08,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4954.0
+2021-03-08,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,23800.0
+2021-03-09,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2333.0
+2021-03-09,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,47151.0
+2021-03-09,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9074.0
+2021-03-09,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14364.0
+2021-03-10,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8673.0
+2021-03-10,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,70960.0
+2021-03-10,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2021.0
+2021-03-10,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15508.0
+2021-03-11,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,69680.0
+2021-03-11,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,452.0
+2021-03-11,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7976.0
+2021-03-11,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15455.0
+2021-03-12,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12669.0
+2021-03-12,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,67514.0
+2021-03-12,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6841.0
+2021-03-12,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,652.0
+2021-03-13,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3788.0
+2021-03-13,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2355.0
+2021-03-13,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7372.0
+2021-03-13,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,38640.0
+2021-03-14,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14378.0
+2021-03-14,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1907.0
+2021-03-14,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6857.0
+2021-03-14,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2229.0
+2021-03-15,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8728.0
+2021-03-15,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8947.0
+2021-03-15,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3609.0
+2021-03-15,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,32082.0
+2021-03-16,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10987.0
+2021-03-16,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,62909.0
+2021-03-16,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16202.0
+2021-03-16,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5701.0
+2021-03-17,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10221.0
+2021-03-17,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,90906.0
+2021-03-17,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3256.0
+2021-03-17,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15226.0
+2021-03-18,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3507.0
+2021-03-18,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9335.0
+2021-03-18,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14565.0
+2021-03-18,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,104609.0
+2021-03-19,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9837.0
+2021-03-19,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10554.0
+2021-03-19,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4604.0
+2021-03-19,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,100730.0
+2021-03-20,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3183.0
+2021-03-20,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9429.0
+2021-03-20,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,70449.0
+2021-03-20,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8916.0
+2021-03-21,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10187.0
+2021-03-21,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4908.0
+2021-03-21,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,30418.0
+2021-03-21,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7099.0
+2021-03-22,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10575.0
+2021-03-22,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,64436.0
+2021-03-22,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7289.0
+2021-03-22,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,
+2021-03-23,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7571.0
+2021-03-23,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13581.0
+2021-03-23,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,134547.0
+2021-03-23,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13456.0
+2021-03-24,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13984.0
+2021-03-24,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8653.0
+2021-03-24,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11992.0
+2021-03-24,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,208013.0
+2021-03-25,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10868.0
+2021-03-25,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8730.0
+2021-03-25,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16578.0
+2021-03-25,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,198206.0
+2021-03-26,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14900.0
+2021-03-26,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11080.0
+2021-03-26,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,250962.0
+2021-03-26,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6712.0
+2021-03-27,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,22503.0
+2021-03-27,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,201335.0
+2021-03-27,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11920.0
+2021-03-27,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3103.0
+2021-03-28,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4199.0
+2021-03-28,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1565.0
+2021-03-28,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14752.0
+2021-03-28,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,127078.0
+2021-03-29,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16666.0
+2021-03-29,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7154.0
+2021-03-29,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,137405.0
+2021-03-29,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7005.0
+2021-03-30,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,233828.0
+2021-03-30,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,23469.0
+2021-03-30,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6464.0
+2021-03-30,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13921.0
+2021-03-31,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,341748.0
+2021-03-31,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,26958.0
+2021-03-31,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11601.0
+2021-03-31,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7267.0
+2021-04-01,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,411998.0
+2021-04-01,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15478.0
+2021-04-01,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7701.0
+2021-04-01,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10239.0
+2021-04-02,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,215754.0
+2021-04-02,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,20401.0
+2021-04-02,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3668.0
+2021-04-02,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6808.0
+2021-04-03,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16116.0
+2021-04-03,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2673.0
+2021-04-03,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2221.0
+2021-04-03,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,157903.0
+2021-04-04,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5317.0
+2021-04-04,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1565.0
+2021-04-04,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1335.0
+2021-04-04,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,39491.0
+2021-04-05,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1556.0
+2021-04-05,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1568.0
+2021-04-05,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,54060.0
+2021-04-05,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7406.0
+2021-04-06,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2549.0
+2021-04-06,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,162466.0
+2021-04-06,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6319.0
+2021-04-06,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15459.0
+2021-04-07,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21137.0
+2021-04-07,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,372241.0
+2021-04-07,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9169.0
+2021-04-07,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5849.0
+2021-04-08,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13579.0
+2021-04-08,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,24436.0
+2021-04-08,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8042.0
+2021-04-08,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,403212.0
+2021-04-09,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,404206.0
+2021-04-09,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11160.0
+2021-04-09,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7883.0
+2021-04-09,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,26887.0
+2021-04-10,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4913.0
+2021-04-10,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17176.0
+2021-04-10,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,437442.0
+2021-04-10,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15699.0
+2021-04-11,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4890.0
+2021-04-11,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3022.0
+2021-04-11,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,160454.0
+2021-04-11,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21299.0
+2021-04-12,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10970.0
+2021-04-12,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,166273.0
+2021-04-12,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14952.0
+2021-04-12,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8996.0
+2021-04-13,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,29296.0
+2021-04-13,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11998.0
+2021-04-13,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13659.0
+2021-04-13,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,257732.0
+2021-04-14,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13152.0
+2021-04-14,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,292383.0
+2021-04-14,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10695.0
+2021-04-14,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,27553.0
+2021-04-15,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,26786.0
+2021-04-15,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13193.0
+2021-04-15,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,363002.0
+2021-04-15,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14702.0
+2021-04-16,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12443.0
+2021-04-16,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,446025.0
+2021-04-16,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,26953.0
+2021-04-16,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14243.0
+2021-04-17,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12625.0
+2021-04-17,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,458880.0
+2021-04-17,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,22706.0
+2021-04-17,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5424.0
+2021-04-18,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18695.0
+2021-04-18,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,195871.0
+2021-04-18,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5278.0
+2021-04-18,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1349.0
+2021-04-19,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,40152.0
+2021-04-19,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8075.0
+2021-04-19,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9859.0
+2021-04-19,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,215665.0
+2021-04-20,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15079.0
+2021-04-20,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11631.0
+2021-04-20,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,272929.0
+2021-04-20,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,50388.0
+2021-04-21,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,339773.0
+2021-04-21,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,50576.0
+2021-04-21,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13293.0
+2021-04-21,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13142.0
+2021-04-22,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,50997.0
+2021-04-22,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,345675.0
+2021-04-22,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16516.0
+2021-04-22,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17882.0
+2021-04-23,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16876.0
+2021-04-23,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,43952.0
+2021-04-23,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,394144.0
+2021-04-23,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10043.0
+2021-04-24,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,478008.0
+2021-04-24,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16636.0
+2021-04-24,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3786.0
+2021-04-24,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,49206.0
+2021-04-25,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4839.0
+2021-04-25,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2485.0
+2021-04-25,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,26318.0
+2021-04-25,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,227159.0
+2021-04-26,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,33986.0
+2021-04-26,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,249768.0
+2021-04-26,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9369.0
+2021-04-26,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11565.0
+2021-04-27,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,313616.0
+2021-04-27,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11066.0
+2021-04-27,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,40257.0
+2021-04-27,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14326.0
+2021-04-28,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17218.0
+2021-04-28,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9833.0
+2021-04-28,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,41682.0
+2021-04-28,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,394152.0
+2021-04-29,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,395043.0
+2021-04-29,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,40235.0
+2021-04-29,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16057.0
+2021-04-29,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,40232.0
+2021-04-30,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16329.0
+2021-04-30,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,39001.0
+2021-04-30,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4697.0
+2021-04-30,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,361758.0
+2021-05-01,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4642.0
+2021-05-01,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,329170.0
+2021-05-01,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4690.0
+2021-05-01,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,33802.0
+2021-05-02,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4997.0
+2021-05-02,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,28935.0
+2021-05-02,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,137400.0
+2021-05-02,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1559.0
+2021-05-03,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21451.0
+2021-05-03,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,99785.0
+2021-05-03,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1249.0
+2021-05-03,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5014.0
+2021-05-04,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,211639.0
+2021-05-04,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10593.0
+2021-05-04,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,25832.0
+2021-05-04,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9422.0
+2021-05-05,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13454.0
+2021-05-05,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,348553.0
+2021-05-05,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,26414.0
+2021-05-05,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15805.0
+2021-05-06,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,419232.0
+2021-05-06,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16118.0
+2021-05-06,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,23912.0
+2021-05-06,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13739.0
+2021-05-07,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,26590.0
+2021-05-07,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8395.0
+2021-05-07,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,414731.0
+2021-05-07,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16106.0
+2021-05-08,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17498.0
+2021-05-08,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,404510.0
+2021-05-08,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10898.0
+2021-05-08,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5931.0
+2021-05-09,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,160313.0
+2021-05-09,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5725.0
+2021-05-09,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4133.0
+2021-05-09,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17000.0
+2021-05-10,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8261.0
+2021-05-10,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21317.0
+2021-05-10,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,192723.0
+2021-05-10,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9534.0
+2021-05-11,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11928.0
+2021-05-11,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,20276.0
+2021-05-11,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,308915.0
+2021-05-11,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9028.0
+2021-05-12,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14287.0
+2021-05-12,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11176.0
+2021-05-12,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,24450.0
+2021-05-12,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,402524.0
+2021-05-13,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,24426.0
+2021-05-13,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11152.0
+2021-05-13,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,378650.0
+2021-05-13,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13813.0
+2021-05-14,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14291.0
+2021-05-14,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8932.0
+2021-05-14,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,23754.0
+2021-05-14,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,346425.0
+2021-05-15,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6156.0
+2021-05-15,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,353764.0
+2021-05-15,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21512.0
+2021-05-15,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9814.0
+2021-05-16,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1757.0
+2021-05-16,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,157687.0
+2021-05-16,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17505.0
+2021-05-16,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6796.0
+2021-05-17,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,210442.0
+2021-05-17,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,30933.0
+2021-05-17,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7890.0
+2021-05-17,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9784.0
+2021-05-18,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7942.0
+2021-05-18,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11857.0
+2021-05-18,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,269283.0
+2021-05-18,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,34919.0
+2021-05-19,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,37684.0
+2021-05-19,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8918.0
+2021-05-19,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,309020.0
+2021-05-19,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13396.0
+2021-05-20,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8988.0
+2021-05-20,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,367142.0
+2021-05-20,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,26968.0
+2021-05-20,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17214.0
+2021-05-21,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,30916.0
+2021-05-21,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14969.0
+2021-05-21,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,371460.0
+2021-05-21,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9338.0
+2021-05-22,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,28974.0
+2021-05-22,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,508013.0
+2021-05-22,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16055.0
+2021-05-22,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3909.0
+2021-05-23,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,220062.0
+2021-05-23,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2976.0
+2021-05-23,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,23249.0
+2021-05-23,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5852.0
+2021-05-24,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8700.0
+2021-05-24,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,279672.0
+2021-05-24,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,29035.0
+2021-05-24,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15548.0
+2021-05-25,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18519.0
+2021-05-25,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,327467.0
+2021-05-25,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9406.0
+2021-05-25,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,32595.0
+2021-05-26,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,368554.0
+2021-05-26,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,28476.0
+2021-05-26,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,20715.0
+2021-05-26,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9713.0
+2021-05-27,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,28721.0
+2021-05-27,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,22698.0
+2021-05-27,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,374042.0
+2021-05-27,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8635.0
+2021-05-28,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,27403.0
+2021-05-28,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21587.0
+2021-05-28,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6106.0
+2021-05-28,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,380855.0
+2021-05-29,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3533.0
+2021-05-29,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,24319.0
+2021-05-29,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,381816.0
+2021-05-29,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9180.0
+2021-05-30,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3333.0
+2021-05-30,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21525.0
+2021-05-30,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2040.0
+2021-05-30,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,179424.0
+2021-05-31,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5467.0
+2021-05-31,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,30978.0
+2021-05-31,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,154674.0
+2021-05-31,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4427.0
+2021-06-01,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19716.0
+2021-06-01,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,30946.0
+2021-06-01,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,279285.0
+2021-06-01,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8618.0
+2021-06-02,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,31441.0
+2021-06-02,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,288963.0
+2021-06-02,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8823.0
+2021-06-02,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19792.0
+2021-06-03,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,313526.0
+2021-06-03,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,23355.0
+2021-06-03,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,32952.0
+2021-06-03,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7808.0
+2021-06-04,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7112.0
+2021-06-04,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,321602.0
+2021-06-04,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,31977.0
+2021-06-04,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,27340.0
+2021-06-05,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,28524.0
+2021-06-05,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,415644.0
+2021-06-05,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,24946.0
+2021-06-05,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4264.0
+2021-06-06,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12145.0
+2021-06-06,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,23766.0
+2021-06-06,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6539.0
+2021-06-06,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,217491.0
+2021-06-07,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,30944.0
+2021-06-07,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21338.0
+2021-06-07,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9679.0
+2021-06-07,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,244107.0
+2021-06-08,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,252697.0
+2021-06-08,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,31492.0
+2021-06-08,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21093.0
+2021-06-08,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8200.0
+2021-06-09,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,253913.0
+2021-06-09,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8190.0
+2021-06-09,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,22669.0
+2021-06-09,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,31486.0
+2021-06-10,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,22111.0
+2021-06-10,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7212.0
+2021-06-10,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,248650.0
+2021-06-10,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,30065.0
+2021-06-11,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,27454.0
+2021-06-11,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6418.0
+2021-06-11,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,251641.0
+2021-06-11,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21679.0
+2021-06-12,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,276813.0
+2021-06-12,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,536.0
+2021-06-12,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19852.0
+2021-06-12,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,23125.0
+2021-06-13,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6663.0
+2021-06-13,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21009.0
+2021-06-13,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,
+2021-06-13,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,153449.0
+2021-06-14,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,26251.0
+2021-06-14,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,174262.0
+2021-06-14,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12068.0
+2021-06-14,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,23347.0
+2021-06-15,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21277.0
+2021-06-15,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10509.0
+2021-06-15,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,23177.0
+2021-06-15,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,175703.0
+2021-06-16,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,22708.0
+2021-06-16,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9636.0
+2021-06-16,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,180627.0
+2021-06-16,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21863.0
+2021-06-17,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19737.0
+2021-06-17,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7502.0
+2021-06-17,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19863.0
+2021-06-17,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,176158.0
+2021-06-18,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,162030.0
+2021-06-18,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19505.0
+2021-06-18,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16819.0
+2021-06-18,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7323.0
+2021-06-19,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,195646.0
+2021-06-19,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5990.0
+2021-06-19,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18398.0
+2021-06-19,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16329.0
+2021-06-20,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,78594.0
+2021-06-20,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7021.0
+2021-06-20,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8460.0
+2021-06-20,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15333.0
+2021-06-21,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16769.0
+2021-06-21,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,
+2021-06-21,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15783.0
+2021-06-21,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6773.0
+2021-06-22,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18718.0
+2021-06-22,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14697.0
+2021-06-22,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,210730.0
+2021-06-22,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6730.0
+2021-06-23,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6598.0
+2021-06-23,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,128688.0
+2021-06-23,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18619.0
+2021-06-23,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14083.0
+2021-06-24,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,136679.0
+2021-06-24,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15864.0
+2021-06-24,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19612.0
+2021-06-24,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5658.0
+2021-06-25,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,133375.0
+2021-06-25,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19430.0
+2021-06-25,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5502.0
+2021-06-25,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16463.0
+2021-06-26,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10691.0
+2021-06-26,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3960.0
+2021-06-26,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12530.0
+2021-06-26,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,172324.0
+2021-06-27,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8766.0
+2021-06-27,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,97993.0
+2021-06-27,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12418.0
+2021-06-27,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4378.0
+2021-06-28,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,107318.0
+2021-06-28,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9420.0
+2021-06-28,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5732.0
+2021-06-28,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15546.0
+2021-06-29,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7196.0
+2021-06-29,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11042.0
+2021-06-29,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16966.0
+2021-06-29,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,115484.0
+2021-06-30,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17984.0
+2021-06-30,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8284.0
+2021-06-30,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,138993.0
+2021-06-30,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10488.0
+2021-07-01,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14622.0
+2021-07-01,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,154177.0
+2021-07-01,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6186.0
+2021-07-01,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18081.0
+2021-07-02,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12026.0
+2021-07-02,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6462.0
+2021-07-02,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16715.0
+2021-07-02,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,142275.0
+2021-07-03,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12783.0
+2021-07-03,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,165665.0
+2021-07-03,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6471.0
+2021-07-03,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11290.0
+2021-07-04,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6808.0
+2021-07-04,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6874.0
+2021-07-04,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11980.0
+2021-07-04,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,85748.0
+2021-07-05,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15504.0
+2021-07-05,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7398.0
+2021-07-05,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,107977.0
+2021-07-05,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16935.0
+2021-07-06,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7643.0
+2021-07-06,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17831.0
+2021-07-06,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18504.0
+2021-07-06,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,109148.0
+2021-07-07,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18439.0
+2021-07-07,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7828.0
+2021-07-07,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,128226.0
+2021-07-07,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16984.0
+2021-07-08,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15181.0
+2021-07-08,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,135457.0
+2021-07-08,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6777.0
+2021-07-08,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18052.0
+2021-07-09,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11936.0
+2021-07-09,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,143603.0
+2021-07-09,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6108.0
+2021-07-09,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17172.0
+2021-07-10,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14971.0
+2021-07-10,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5514.0
+2021-07-10,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,174745.0
+2021-07-10,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16216.0
+2021-07-11,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7383.0
+2021-07-11,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,80755.0
+2021-07-11,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3537.0
+2021-07-11,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15945.0
+2021-07-12,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10286.0
+2021-07-12,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,99817.0
+2021-07-12,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13493.0
+2021-07-12,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1764.0
+2021-07-13,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15657.0
+2021-07-13,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6367.0
+2021-07-13,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,124905.0
+2021-07-13,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11347.0
+2021-07-14,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12226.0
+2021-07-14,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15009.0
+2021-07-14,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7091.0
+2021-07-14,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,151335.0
+2021-07-15,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,167152.0
+2021-07-15,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13072.0
+2021-07-15,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15373.0
+2021-07-15,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6296.0
+2021-07-16,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14574.0
+2021-07-16,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13338.0
+2021-07-16,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10466.0
+2021-07-16,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,163936.0
+2021-07-17,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4589.0
+2021-07-17,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12925.0
+2021-07-17,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11278.0
+2021-07-17,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,196422.0
+2021-07-18,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3975.0
+2021-07-18,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6739.0
+2021-07-18,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,105472.0
+2021-07-18,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12692.0
+2021-07-19,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6096.0
+2021-07-19,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,112544.0
+2021-07-19,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16340.0
+2021-07-19,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8580.0
+2021-07-20,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,126163.0
+2021-07-20,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15419.0
+2021-07-20,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6835.0
+2021-07-20,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12862.0
+2021-07-21,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6176.0
+2021-07-21,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13115.0
+2021-07-21,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,146281.0
+2021-07-21,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17766.0
+2021-07-22,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,156245.0
+2021-07-22,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,13555.0
+2021-07-22,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1965.0
+2021-07-22,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16532.0
+2021-07-23,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3091.0
+2021-07-23,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11851.0
+2021-07-23,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,154761.0
+2021-07-23,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19638.0
+2021-07-24,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,177885.0
+2021-07-24,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2181.0
+2021-07-24,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15051.0
+2021-07-24,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8769.0
+2021-07-25,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12610.0
+2021-07-25,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,94435.0
+2021-07-25,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2565.0
+2021-07-25,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8346.0
+2021-07-26,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5220.0
+2021-07-26,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16826.0
+2021-07-26,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10966.0
+2021-07-26,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,115924.0
+2021-07-27,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,118328.0
+2021-07-27,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10605.0
+2021-07-27,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5955.0
+2021-07-27,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16762.0
+2021-07-28,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7861.0
+2021-07-28,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19327.0
+2021-07-28,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,131048.0
+2021-07-28,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12937.0
+2021-07-29,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17645.0
+2021-07-29,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10946.0
+2021-07-29,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,145472.0
+2021-07-29,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5855.0
+2021-07-30,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6980.0
+2021-07-30,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17498.0
+2021-07-30,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,142715.0
+2021-07-30,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3903.0
+2021-07-31,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3644.0
+2021-07-31,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,182825.0
+2021-07-31,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17739.0
+2021-07-31,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7806.0
+2021-08-01,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4040.0
+2021-08-01,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16902.0
+2021-08-01,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,92416.0
+2021-08-01,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4686.0
+2021-08-02,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,94425.0
+2021-08-02,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16530.0
+2021-08-02,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7683.0
+2021-08-02,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7554.0
+2021-08-03,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9347.0
+2021-08-03,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18291.0
+2021-08-03,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,108604.0
+2021-08-03,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6519.0
+2021-08-04,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,131581.0
+2021-08-04,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6063.0
+2021-08-04,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19265.0
+2021-08-04,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8760.0
+2021-08-05,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,143423.0
+2021-08-05,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17266.0
+2021-08-05,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4482.0
+2021-08-05,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7521.0
+2021-08-06,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,137172.0
+2021-08-06,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6483.0
+2021-08-06,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19172.0
+2021-08-06,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5529.0
+2021-08-07,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6135.0
+2021-08-07,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18141.0
+2021-08-07,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4438.0
+2021-08-07,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,184869.0
+2021-08-08,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18590.0
+2021-08-08,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4189.0
+2021-08-08,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4959.0
+2021-08-08,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,94332.0
+2021-08-09,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5765.0
+2021-08-09,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3230.0
+2021-08-09,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,112286.0
+2021-08-09,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15747.0
+2021-08-10,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17721.0
+2021-08-10,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,123721.0
+2021-08-10,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4452.0
+2021-08-10,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5249.0
+2021-08-11,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4669.0
+2021-08-11,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4762.0
+2021-08-11,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18376.0
+2021-08-11,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,145954.0
+2021-08-12,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4195.0
+2021-08-12,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,165425.0
+2021-08-12,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18151.0
+2021-08-12,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4788.0
+2021-08-13,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,143690.0
+2021-08-13,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,19011.0
+2021-08-13,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4251.0
+2021-08-13,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4633.0
+2021-08-14,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4290.0
+2021-08-14,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,173718.0
+2021-08-14,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2737.0
+2021-08-14,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,18839.0
+2021-08-15,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,17916.0
+2021-08-15,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,101881.0
+2021-08-15,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3080.0
+2021-08-15,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3506.0
+2021-08-16,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3749.0
+2021-08-16,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2272.0
+2021-08-16,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,117998.0
+2021-08-16,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14371.0
+2021-08-17,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5148.0
+2021-08-17,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16069.0
+2021-08-17,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3750.0
+2021-08-17,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,120908.0
+2021-08-18,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3376.0
+2021-08-18,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3862.0
+2021-08-18,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14416.0
+2021-08-18,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,147569.0
+2021-08-19,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,153886.0
+2021-08-19,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3956.0
+2021-08-19,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14081.0
+2021-08-19,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3136.0
+2021-08-20,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2944.0
+2021-08-20,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14954.0
+2021-08-20,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,145473.0
+2021-08-20,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4021.0
+2021-08-21,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15239.0
+2021-08-21,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2821.0
+2021-08-21,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2783.0
+2021-08-21,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,174038.0
+2021-08-22,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,96246.0
+2021-08-22,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2310.0
+2021-08-22,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15095.0
+2021-08-22,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2701.0
+2021-08-23,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,15103.0
+2021-08-23,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1450.0
+2021-08-23,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1725.0
+2021-08-23,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,113005.0
+2021-08-24,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2789.0
+2021-08-24,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,16284.0
+2021-08-24,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2382.0
+2021-08-24,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,109221.0
+2021-08-25,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14258.0
+2021-08-25,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,142307.0
+2021-08-25,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2999.0
+2021-08-25,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2141.0
+2021-08-26,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11795.0
+2021-08-26,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3438.0
+2021-08-26,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2436.0
+2021-08-26,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,127267.0
+2021-08-27,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,11383.0
+2021-08-27,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3208.0
+2021-08-27,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1616.0
+2021-08-27,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,115249.0
+2021-08-28,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1175.0
+2021-08-28,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,14422.0
+2021-08-28,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,116583.0
+2021-08-28,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1508.0
+2021-08-29,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,64710.0
+2021-08-29,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,569.0
+2021-08-29,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12754.0
+2021-08-29,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1407.0
+2021-08-30,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,52137.0
+2021-08-30,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1677.0
+2021-08-30,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,12720.0
+2021-08-30,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,114.0
+2021-08-31,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,105003.0
+2021-08-31,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2129.0
+2021-08-31,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1965.0
+2021-08-31,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10305.0
+2021-09-01,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8184.0
+2021-09-01,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,102086.0
+2021-09-01,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1760.0
+2021-09-01,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1355.0
+2021-09-02,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,10078.0
+2021-09-02,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3048.0
+2021-09-02,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2252.0
+2021-09-02,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,103997.0
+2021-09-03,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,98122.0
+2021-09-03,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2300.0
+2021-09-03,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8259.0
+2021-09-03,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1909.0
+2021-09-04,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,116327.0
+2021-09-04,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1397.0
+2021-09-04,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9182.0
+2021-09-04,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1647.0
+2021-09-05,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,9993.0
+2021-09-05,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,59265.0
+2021-09-05,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2891.0
+2021-09-05,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1044.0
+2021-09-06,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,896.0
+2021-09-06,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,69758.0
+2021-09-06,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6064.0
+2021-09-06,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3297.0
+2021-09-07,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6941.0
+2021-09-07,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,73004.0
+2021-09-07,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4169.0
+2021-09-07,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1734.0
+2021-09-08,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7570.0
+2021-09-08,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1342.0
+2021-09-08,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3500.0
+2021-09-08,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,75548.0
+2021-09-09,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3540.0
+2021-09-09,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1540.0
+2021-09-09,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,86592.0
+2021-09-09,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,5030.0
+2021-09-10,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,78763.0
+2021-09-10,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4116.0
+2021-09-10,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1979.0
+2021-09-10,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6953.0
+2021-09-11,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1624.0
+2021-09-11,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,8141.0
+2021-09-11,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,86068.0
+2021-09-11,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2226.0
+2021-09-12,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,829.0
+2021-09-12,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1131.0
+2021-09-12,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,42902.0
+2021-09-12,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,7753.0
+2021-09-13,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3337.0
+2021-09-13,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1505.0
+2021-09-13,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,54807.0
+2021-09-13,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1004.0
+2021-09-14,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,56521.0
+2021-09-14,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1091.0
+2021-09-14,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3046.0
+2021-09-14,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,6067.0
+2021-09-15,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,57096.0
+2021-09-15,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4300.0
+2021-09-15,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1325.0
+2021-09-15,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,569.0
+2021-09-16,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1250.0
+2021-09-16,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3041.0
+2021-09-16,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,58941.0
+2021-09-16,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,741.0
+2021-09-17,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,55257.0
+2021-09-17,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3245.0
+2021-09-17,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,530.0
+2021-09-17,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1352.0
+2021-09-18,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1396.0
+2021-09-18,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,4797.0
+2021-09-18,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,170.0
+2021-09-18,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,66134.0
+2021-09-19,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,30458.0
+2021-09-19,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3795.0
+2021-09-19,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,436.0
+2021-09-19,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,468.0
+2021-09-20,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2772.0
+2021-09-20,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1549.0
+2021-09-20,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,583.0
+2021-09-20,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,41438.0
+2021-09-21,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1144.0
+2021-09-21,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,654.0
+2021-09-21,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2360.0
+2021-09-21,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,39248.0
+2021-09-22,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1044.0
+2021-09-22,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,806.0
+2021-09-22,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2521.0
+2021-09-22,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,39676.0
+2021-09-23,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,559.0
+2021-09-23,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,547.0
+2021-09-23,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1754.0
+2021-09-23,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,41728.0
+2021-09-24,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,39567.0
+2021-09-24,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,958.0
+2021-09-24,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3892.0
+2021-09-24,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,342.0
+2021-09-25,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,3036.0
+2021-09-25,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,432.0
+2021-09-25,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,601.0
+2021-09-25,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,43049.0
+2021-09-26,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2771.0
+2021-09-26,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,21476.0
+2021-09-26,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,604.0
+2021-09-26,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,688.0
+2021-09-27,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,1120.0
+2021-09-27,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2617.0
+2021-09-27,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,28590.0
+2021-09-27,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,850.0
+2021-09-28,nation,E92000001,England,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,29670.0
+2021-09-28,nation,S92000003,Scotland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,2515.0
+2021-09-28,nation,N92000002,Northern Ireland,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,757.0
+2021-09-28,nation,W92000004,Wales,newPeopleVaccinatedCompleteByPublishDate,New people vaccinated complete by publish date,590.0

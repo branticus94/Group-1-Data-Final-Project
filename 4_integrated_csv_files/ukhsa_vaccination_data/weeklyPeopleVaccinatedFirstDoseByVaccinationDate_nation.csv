@@ -1,0 +1,49 @@
+date,area_type,area_code,area_name,metric,metric_name,value
+2021-01-03,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,9669.0
+2021-01-03,nation,S92000003,Scotland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,21446.0
+2021-01-03,nation,E92000001,England,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,330037.0
+2021-01-03,nation,W92000004,Wales,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,14205.0
+2021-01-10,nation,E92000001,England,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,955190.0
+2021-01-10,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,37320.0
+2021-01-10,nation,W92000004,Wales,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,41726.0
+2021-01-10,nation,S92000003,Scotland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,51421.0
+2021-01-17,nation,E92000001,England,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,1610916.0
+2021-01-17,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,47712.0
+2021-01-17,nation,W92000004,Wales,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,67856.0
+2021-01-17,nation,S92000003,Scotland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,104860.0
+2021-01-24,nation,E92000001,England,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,2250736.0
+2021-01-24,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,33925.0
+2021-01-24,nation,W92000004,Wales,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,125839.0
+2021-01-24,nation,S92000003,Scotland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,153948.0
+2021-01-31,nation,S92000003,Scotland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,167451.0
+2021-01-31,nation,E92000001,England,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,2204262.0
+2021-01-31,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,62167.0
+2021-01-31,nation,W92000004,Wales,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,153191.0
+2021-02-07,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,81669.0
+2021-02-07,nation,W92000004,Wales,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,182058.0
+2021-02-07,nation,S92000003,Scotland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,291040.0
+2021-02-07,nation,E92000001,England,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,2406601.0
+2021-02-14,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,93765.0
+2021-02-14,nation,W92000004,Wales,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,171920.0
+2021-02-14,nation,E92000001,England,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,2309588.0
+2021-02-14,nation,S92000003,Scotland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,382038.0
+2021-02-21,nation,W92000004,Wales,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,74779.0
+2021-02-21,nation,S92000003,Scotland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,182949.0
+2021-02-21,nation,E92000001,England,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,2050373.0
+2021-02-21,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,60787.0
+2021-02-28,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,67370.0
+2021-02-28,nation,S92000003,Scotland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,162617.0
+2021-02-28,nation,W92000004,Wales,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,60088.0
+2021-02-28,nation,E92000001,England,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,2219150.0
+2020-12-13,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,3623.0
+2020-12-13,nation,E92000001,England,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,55576.0
+2020-12-13,nation,W92000004,Wales,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,8257.0
+2020-12-13,nation,S92000003,Scotland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,19009.0
+2020-12-20,nation,S92000003,Scotland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,41324.0
+2020-12-20,nation,E92000001,England,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,519253.0
+2020-12-20,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,12445.0
+2020-12-20,nation,W92000004,Wales,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,15799.0
+2020-12-27,nation,N92000002,Northern Ireland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,14948.0
+2020-12-27,nation,S92000003,Scotland,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,34535.0
+2020-12-27,nation,W92000004,Wales,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,12495.0
+2020-12-27,nation,E92000001,England,weeklyPeopleVaccinatedFirstDoseByVaccinationDate,Weekly people vaccinated 1st dose by vaccination date,267809.0
