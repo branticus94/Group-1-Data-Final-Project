@@ -2,7 +2,6 @@
 
 # Societal Impacts of COVID-19: Data Analysis Project
 
-# CFG Data Nano-Degree Group 1
 # Group Members:
 - Heledd Davies
 - Natalie Ellis
@@ -57,7 +56,7 @@ This project answers the question: **What were the societal impacts of the sprea
 
 1. Clone this repository:
    ```
-   git clone git@github.com:branticus94/CFG-Group-1-Data-Final-Project.git
+   git clone git@github.com:branticus94/Group-1-Data-Final-Project.git
    ```
 
 2. Install dependencies
